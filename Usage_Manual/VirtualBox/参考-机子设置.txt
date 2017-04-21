@@ -1,0 +1,12 @@
+
+
+机子设置
+
+共享文件夹
+
+/Users/user7483/com/E02/D/Program_Files/d3_VirtualBox/vmShared
+
+内存
+512MB
+
+
