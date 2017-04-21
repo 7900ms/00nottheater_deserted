@@ -1,0 +1,36 @@
+
+
+内存
+硬盘
+
+共享文件夹
+
+融合模式
+
+软件：
+输入法
+解压缩软件
+后缀名
+浏览器和去广告(ublock,flash+FlashDisable,tabMixPlus,GoogleSearchLinkFix)
+记事本ST
+
+不安装：
+QQ
+播放器
+PS AI
+
+
+-
+
+保存一份导出的虚拟机
+
+win7:
+未设置时7.1G
+设置完大约7.7G,压缩后3.5G
+
+mac 10.10.5:
+10G 压缩后 7.7G (完全未做任何使用)
+
+
+
+
