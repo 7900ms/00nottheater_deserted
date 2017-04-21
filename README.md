@@ -8,7 +8,7 @@ it should be entertaining 过瘾 伙计
 
 变魔术
 
-http://soft.macx.cn/
+http://soft.macx.cn/#(大公司软件，下载量)
 
 https://www.macupdate.com/#(无下载量提示)
 
