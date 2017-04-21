@@ -1,0 +1,15 @@
+
+== iYY 的歌词目录，歌词目录迁移 ==
+
+软件默认歌词目录
+~/Library/Application Support/iYY/LRC/周杰伦-爱在西元前.lrc
+
+
+(我的歌词目录实际位置
+~/com/E02/D/Program_Files/Decibel/lyrics)
+
+
+歌词目录迁移(首先确认有 ~/com/E02/D/Program_Files/Decibel/lyrics 目录为歌词主目录)
+trash ~/Library/Application\ Support/iYY/LRC
+ln -s ~/com/E02/D/Program_Files/Decibel/lyrics ~/Library/Application\ Support/iYY/LRC
+
