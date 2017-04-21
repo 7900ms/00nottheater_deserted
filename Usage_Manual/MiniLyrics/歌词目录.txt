@@ -1,0 +1,12 @@
+
+迷你歌词 软件默认歌词目录
+~/Library/Application Support/com.crintsoft.MiniLyrics/Lyrics
+
+我的歌词目录
+~/com/E02/D/Program_Files/Decibel/lyrics
+
+歌词目录迁移
+删掉歌词文件夹，然后链接歌词文件夹
+trash ~/Library/Application\ Support/com.crintsoft.MiniLyrics/Lyrics
+ln -s ~/com/E02/D/Program_Files/Decibel/lyrics ~/Library/Application\ Support/com.crintsoft.MiniLyrics/Lyrics
+
