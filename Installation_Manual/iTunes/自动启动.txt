@@ -1,0 +1,2 @@
+
+取消 iTunes Helper 的自动启动
