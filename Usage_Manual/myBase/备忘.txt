@@ -1,0 +1,33 @@
+
+破解
+myBase破解过程
+http://www.10tiao.com/html/654/201612/2651132688/1.html
+
+【Mac程序分析】mybese个人知识管理软件破解分析
+http://www.10tiao.com/html/654/201612/2651132682/1.html
+http://www.52pojie.cn/thread-563578-1-1.html
+(hopper disassembler v4)
+
+修改一个数字破解Mac上的应用 Paw
+https://bestswifter.com/app-crack/
+http://guochenglai.com/2016/06/16/paw-crack/
+(G 为什么会提示破解 二进制)
+
+破解虾米音乐
+http://www.52pojie.cn/thread-226930-1-1.html
+(G hopper disassembler 怎么使用)
+
+iOS程序逆向Mac下常用工具——Reveal、HopperDisassemble、IDA
+http://www.cnblogs.com/mddblog/p/4960505.html
+(G hopper disassembler 怎么使用)
+
+我的破解：
+
+1.
+不是通过网络连接验证
+
+2.
+G 为什么会提示破解 二进制
+
+3.
+通过 hopper disassembler 得到新的二进制文件
