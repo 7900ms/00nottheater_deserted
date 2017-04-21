@@ -4,6 +4,8 @@
 
 不要贱嗖嗖地使用“个人电脑不友好软件”
 
+嫌麻烦
+
 it should be entertaining 过瘾 伙计
 
 变魔术
