@@ -1,0 +1,10 @@
+
+初始化设置
+
+iTunes
+首选项 - 高级 Copy files to iTunes Folder when adding to iTunes , 取消
+首选项 - 高级 Share iTunes Library XML , 勾选
+
+  歌曲列表改为 《 歌曲名|歌手|专辑|time 》，显示 View - show statusBar 
+  首选项里取消 show list checkbox 
+
