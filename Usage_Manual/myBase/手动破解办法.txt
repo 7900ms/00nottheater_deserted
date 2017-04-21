@@ -1,0 +1,183 @@
+
+如何破解 myBase
+
+查看区
+executables
+myBase.app
+
+配置区
+1.
+myBase.app/Contents/MacOS/myBase
+拖入 Hopper Disassembler v4.app
+
+2.
+搜Strings "is invalid"
+找到类似 "The license key is invalid. 的地方。去地址
+
+3.
+流程图模式(CFG mode)
+
+4.
+找到它上面的框
+```
+mov        rax, qword [rbp+var_48]
+mov        qword [rbp+var_78], rax
+lock inc   dword [rax]
+...
+lea        rdi, qword [0x1004bbb60] ; argument #1 for method sub_100169630
+lea        rsi, qword [rbp+var_78] ; argument #2 for method sub_100169630
+lea        rdx, qword [rbp+var_80] ; argument #3 for method sub_100169630
+call       sub_100169630
+test       al, al
+je         loc_1001bb57d
+```
+
+5.
+跟随倒数第三行的 call
+(双击)
+```
+push       rbp          ; CODE XREF=sub_1001bb3a0+95
+mov        rbp, rsp
+push       r15
+push       r14
+push       r12
+push       rbx
+sub        rsp, 0x30
+mov        r12, rdx
+mov        rbx, rsi
+mov        r15, rdi
+call       sub_1001692b0 【*】
+test       al, al
+je         loc_10016975d
+```
+
+6.1
+跟随最后一行的 je
+```
+xor        eax, eax
+```
+继续跟箭头看
+```
+add        rsp, 0x30    ; CODE XREF=sub_100169630+299
+pop        rbx
+pop        r12
+pop        r14
+pop        r15
+pop        rbp
+ret
+```
+即6.1是死胡同！
+
+6.2
+退回到5
+跟随倒数第三行的 call
+(双击)
+```
+push       rbp          ; CODE XREF=sub_100169480+236, sub_100169630+24, sub_100169960+73, sub_100199fb0+1085, sub_10019e910+45, sub_1001af4d0+1910, sub_1001bb9d0+38, sub_1001bbef0+2284, sub_100226d70+30
+mov        rbp, rsp
+push       r14
+push       rbx
+sub        rsp, 0x40
+mov        rbx, rsi
+mov        r14, rdi
+...
+setne      byte [rbp+var_18]
+cmp        byte [rbp+var_18], 0x0
+jne        loc_1001692fc
+```
+
+7.
+直接向下看，有类似三岔汇聚的图形，到最后一块有
+```
+mov        al, bl       ; CODE XREF=sub_1001692b0+260, sub_1001692b0+271
+add        rsp, 0x40
+pop        rbx
+pop        r14
+pop        rbp
+ret
+```
+
+8.
+修改
+
+选中 mov al, bl 这行
+菜单 Modify - Assemble Instruction 填入
+```
+(即 mov al, 1)
+mov al, 0x1
+```
+
+9.
+保存
+
+菜单 File - Produce New Excutable
+保存得到一个新的 myBase 二进制文件
+
+10.
+测试
+
+打开官网原版 myBase-Desktop-Ver700b24-MacOSX.dmg 解压出 myBase.app
+把刚生成的东西替换给原版里的
+打开app
+
+成功
+
+
+
+
+
+学习区一
+test：会跳去其他地方的东西
+
+学习区二
+跳到：紧接下来的东西
+
+参考
+【Mac程序分析】mybese个人知识管理软件破解分析
+http://www.10tiao.com/html/654/201612/2651132682/1.html
+http://www.52pojie.cn/thread-563578-1-1.html
+(hopper disassembler v4)
+
+= 几处判断 =
+
+B E G I N N I N G   O F   P R O C E D U R E
+test eax, eax 进行判断(2) 
+je loc_1001bb6ce 向下
+  # 通到 3个argument#123 那里 ✓
+  test al,al 进行判断(1)
+
+说明1 # 通到 3个argument#123 那里 : 这里是重要的判断位置！！！
+说明2 3个argument#123 的主体
+```
+mov        rax, qword [rbp+var_48]
+mov        qword [rbp+var_78], rax
+lock inc   dword [rax]
+...
+lea        rdi, qword [0x1004bbb60] ; argument #1 for method sub_100169630
+lea        rsi, qword [rbp+var_78] ; argument #2 for method sub_100169630
+lea        rdx, qword [rbp+var_80] ; argument #3 for method sub_100169630
+call       sub_100169630
+test       al, al
+je         loc_1001bb57d
+```
+
+说明3 关键call: test 上面的那个 call 即 关键call
+说明4 跳到: je 就是跳到的地方
+
+= 修改办法 =
+
+修改判断的地方
+
+看判断(1)的相关call: call sub_100169630
+
+
+
+B E G I N N I N G   O F   P R O C E D U R E
+test       eax, eax
+上面的 call imp___stubs___ZN7QDialog4execEv
+
+
+
+
+
+
