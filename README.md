@@ -4,6 +4,6 @@
 
 不要贱嗖嗖地使用“个人电脑不友好软件”
 
-it should be entertaining
+it should be entertaining 过瘾 伙计
 
 -
