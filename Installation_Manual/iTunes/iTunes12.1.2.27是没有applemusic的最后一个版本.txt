@@ -1,0 +1,46 @@
+
+iTunes12.1.2.27
+
+
+版本：
+
+10.10.5 默认 12.2.1.16
+10.10.x 默认 12.1.2.27 (没有 apple music 的最后一个版本)
+
+旧版下载
+itunes dmg 12.1.2.27
+https://www.theiphonewiki.com/wiki/iTunes#12.1.2.27
+
+= = =
+
+旧版安装：
+
+
+如何安装旧版 iTunes (旧版的 playlist 界面比较小)？
+
+答：卸载当前版本，安装 iTunes 12.1.2.27 版本。
+https://www.v2ex.com/t/307939
+
+卸载办法
+
+完全退出iTunes
+  Activity Monitor
+
+清空系统启动项的 iTunes helper
+
+卸载
+
+手动清理itunes相关的文件
+~/Library/iTunes
+~/Library/Preferences/ 里面有3个和itunes相关的文件
+/Library/iTunes
+~/Library/Preferences/ByHost/ 里面和itunes相关的文件
+(如果用AppCleaner则会自动一并删除)
+
+备份文件夹然后删除
+  ~/Music/iTunes
+
+重安 iTunes
+(换会蓝色图标)
+
+重新安装迷你歌词
