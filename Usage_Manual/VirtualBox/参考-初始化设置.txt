@@ -1,0 +1,17 @@
+
+初始化设置
+
+偏好设置
+  虚拟电脑默认位置
+  /Users/user7483/com/E02/D/Program_Files/d3_VirtualBox/vms
+
+
+偏好设置
+  更新
+  不检查
+
+偏好设置
+  扩展
+  Oracle VM VirtualBox Extension Pack
+
+
