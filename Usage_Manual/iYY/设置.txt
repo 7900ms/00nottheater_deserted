@@ -1,0 +1,5 @@
+
+设置：
+copy files to iYY Music folder , 取消
+try to embed lyrics into audio file , 取消
+
