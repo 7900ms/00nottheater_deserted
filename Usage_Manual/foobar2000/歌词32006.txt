@@ -1,0 +1,16 @@
+
+add to the “components” dir
+https://www.reddit.com/r/foobar2000/comments/40bl96/lyrics_show_panel_v3_says_only_found_nothing_for/
+
+试过了，没用
+
+
+00
+
+
+32006 的歌词下载问题，是一个不能解决的问题 (主要是 千千静听服务器 or wine-foobar2000 的问题)
+
+它是一个不能解决的问题
+
+规避办法：用 pd-foobar2k 下载歌词可正常下载
+
