@@ -10,4 +10,6 @@ it should be entertaining 过瘾 伙计
 
 http://soft.macx.cn/
 
+https://www.macupdate.com/#(无下载量提示)
+
 -
