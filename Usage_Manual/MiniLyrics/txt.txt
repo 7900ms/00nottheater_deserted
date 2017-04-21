@@ -1,0 +1,7 @@
+
+== MiniLyrics 需要 快捷方式 到 com 目录 (app原身放 /Applications ) ==
+
+先 安装完后，运行一次 (并安装iTunes插件)
+
+然后 快捷方式 到 com 目录(如果移动，那么不能随iTunes启动)
+
