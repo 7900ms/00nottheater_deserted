@@ -1,0 +1,8 @@
+
+歌词字体
+
+
+字体 Arial 14
+一般歌词 Silver
+高亮歌词 Tangerine(橘红色)
+
