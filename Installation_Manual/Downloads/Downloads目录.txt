@@ -1,0 +1,13 @@
+
+Downloads目录
+
+
+迁移
+
+sudo mv ~/Downloads ~/Downloads_ori
+ln -s ~/com/E02/C/Downloads ~
+
+锁定~/Downloads快捷方式
+
+
+
