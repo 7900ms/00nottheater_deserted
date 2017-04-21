@@ -1,0 +1,7 @@
+
+权限更改
+
+cdf
+chmod 600 `find . -type f`
+chmod 700 `find ~/.ssh -type d`
+
