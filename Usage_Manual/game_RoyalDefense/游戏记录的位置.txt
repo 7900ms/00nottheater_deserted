@@ -1,0 +1,14 @@
+
+== 游戏记录 ==
+
+默认游戏记录文件夹
+~/Library/Containers/com.8floor.RoyalDefense 文件夹
+
+我的游戏记录文件夹
+~/com/E02/D/Program_Files/game_RoyalDefense/com.8floor.RoyalDefense
+
+如何恢复游戏记录
+(关闭游戏)
+mv ~/Library/Containers/com.8floor.RoyalDefense ~/Library/Containers/com.8floor.RoyalDefense_ori
+ln -s ~/com/E02/D/Program_Files/game_RoyalDefense/com.8floor.RoyalDefense ~/Library/Containers/com.8floor.RoyalDefense
+
