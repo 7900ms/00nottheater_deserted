@@ -8,4 +8,6 @@ it should be entertaining 过瘾 伙计
 
 变魔术
 
+http://soft.macx.cn/
+
 -
