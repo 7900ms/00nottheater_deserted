@@ -1,0 +1,127 @@
+
+link
+源
+/Volumes/4030/CC+/C/ssh
+目的地
+/Users/user7483/.ssh
+
+ln -s /Volumes/4030/CC+/C/ssh /Users/user7483/.ssh
+重装备份无须，因为一直在 里
+
+= = = = = == = = = = == = = = = =
+
+ssh
+查看
+ssh-add -l
+全删除
+ssh-add -D
+添加
+ssh-add ~/.ssh/id_rsa_ubuntu-512mb-nyc2-01_bill
+
+连接
+ssh b@162.243.65.91
+
+
+
+
+
+
+$ ssh root@162.243.65.91
+密码
+@3c32927a3fd7628e
+
+ssh-add ~/.ssh/id_rsa_ubuntu-512mb-nyc2-01_bill
+ssh b@162.243.65.91
+
+
+HTTP协议代理服务器常用端口号：80/8080/3128/8081/9080
+sudo ufw status 
+
+反响代理 
+http://ju.outofmemory.cn/entry/208379
+
+http://162.243.65.91:8082/info.php 
+
+
+拷贝文件夹
+sudo rsync -avP ~/wordpress/ /var/www/html/
+
+
+
+HTTP服务器 自动启动服务，否则就关闭 
+http://www.ruanyifeng.com/blog/2016/03/node-systemd-tutorial.html 
+
+
+traverse 遍历
+recursive 递归
+https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server
+
+
+
+sftp
+162.243.65.91
+22
+用户名 b ，不用输入密码，连接 
+
+
+权限
+chmod 600 `find ~/.ssh -type f`
+chmod 700 `find ~/.ssh -type d`
+
+
+= = == = =
+
+（摘抄自 rails_tutorial 笔记）
+
+
+新建并连接到 bitbucket
+
+> ssh-keygen -t rsa -f ~/.ssh/id_rsa_7900ms_bitbucket
+> pbcopy < ~/.ssh/id_rsa_7900ms_bitbucket.pub
+https://bitbucket.org/account/user/7900ms/ssh-keys/
+ssh-add ~/.ssh/id_rsa_7900ms_bitbucket
+ssh -T git@bitbucket.org
+
+= = == = =
+
+新建并连接到 heroku
+
+安装 heroku toolbelt
+
+> ssh-keygen -t rsa -f ~/.ssh/id_rsa_7900ms_heroku
+> heroku login (输入用户名密码)
+> heroku keys:add ~/.ssh/id_rsa_7900ms_heroku.pub
+ssh -v git@heroku.com
+
+==== == == =
+
+# thread4便捷登录-sshForBill.txt
+# chapter9Conn
+
+从零开始新建一个 ssh-keygen
+
+ssh-add -l
+ssh-add -D
+
+新建一个SSH公钥，生成新一个 id_rsa
+
+> ssh-keygen -t rsa
+> 输入 /Users/user7483/.ssh/id_rsa_DO_ubuntu-512mb-sgp1-01_bill
+得到 ~/.ssh 目录里的2个东西(其中一个后缀名是 pub)
+
+启用 ssh
+ssh-add -l
+ssh-add ~/.ssh/id_rsa_DO_ubuntu-512mb-sgp1-01_bill
+
+把 id_rsa_DO_ubuntu-512mb-sgp1-01_bill.pub 里的东西，保存在 b@ubuntu 上 
+cat ~/.ssh/id_rsa_DO_ubuntu-512mb-sgp1-01_bill.pub | ssh bill@128.199.150.73 "mkdir -p .ssh && cat - >> ~/.ssh/authorized_keys"
+
+测试
+    ssh b@128.199.150.73
+    # 成功，不用再输入密码了 
+    cat ~/.ssh/authorized_keys
+
+    exit
+    ssh-add -D
+    ssh b@128.199.150.73 # 输入 bill用户的密码 1 可以进入
+
