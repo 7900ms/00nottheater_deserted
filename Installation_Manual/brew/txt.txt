@@ -1,0 +1,45 @@
+
+> /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+> brew update
+> brew doctor
+
+http://brew.sh/
+
+brew install git curl wget trash
+
+
+= = =
+
+参考，完整机子上
+> brew list
+boost			libpng			python3
+ctags			libtiff			readline
+curl			libtool			shadowsocks-libev
+freetype		libxml2			sqlite
+gdbm			lua			supervisor
+gdrive			openssl			trash
+git			pcap_dnsproxy		wget
+highlight		pcre			xz
+imagemagick		privoxy			zsh
+jpeg			python
+
+(2017.4.22)
+curl			openssl			sqlite
+dnscrypt-proxy		openssl@1.1		tcping
+dnsmasq			pcre			tmux
+gdbm			pkg-config		trash
+git			privoxy			wget
+ldns			python			xz
+libevent		python3			zsh
+libsodium		readline
+libtool			shadowsocks-libev
+
+= =
+
+
+brew install curl wget sqlite ctags imagemagick git trash openssl libxml2
+
+
+
+-
