@@ -31,6 +31,9 @@ brew
 > brew --prefix
 > brew info wget
 /usr/local/Cellar/wget/1.18
+> brew install shadowsocks-libev
+> which ss-local
+/usr/local/bin/ss-local -> ../Cellar/shadowsocks-libev/2.5.6(2.4.7)/bin/ss-local
 
 
 
