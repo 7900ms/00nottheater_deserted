@@ -1,4 +1,18 @@
 
+== telegram ==
+
+telegram 何时用？
+
+准备‘如何把文字从电脑传送到手机的’的时候用
+
+
+
+
+== 在线版 ==
+
+https://web.telegram.org/
+
+
 == Proxifier 何时用 ==
 
 准备给 telegram.app 走代理的时候用
