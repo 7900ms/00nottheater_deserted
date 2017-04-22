@@ -2,6 +2,16 @@
 ssr 的客户端：系-ShadowsocksX-R (支持10.10.5)
 (ssr11.18.zip)
 
+
+现在正在用的客户端
+ssr11.18 139
+
+pac模式可以自动fq safari可翻
+https://docs.imssx.com/284.html
+
+
+
+
 -
 
 系-ShadowsocksX-NG - 10.11+
