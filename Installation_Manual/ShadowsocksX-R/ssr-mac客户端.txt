@@ -1,0 +1,43 @@
+
+== ssr ==
+
+https://github.com/breakwa11/shadowsocks-rss
+
+客户端说明：
+mac 客户端
+1. ShadowsocksX-NG
+2. ShadowsocksX-R
+3. electron-ssr
+
+ShadowsocksX-NG
+https://github.com/shadowsocksr/ShadowsocksX-NG/releases/
+1. 版本 ShadowsocksX-NG-R8.app
+2. mac10.10.5不支持
+
+ShadowsocksX-R
+https://github.com/yichengchen/ShadowsocksX-R/releases
+1. 版本 ssr11.18.zip
+2. mac10.10.5 无法联网
+3. mac10.10.5 又可以联网了
+
+electron-ssr
+https://github.com/erguotou520/electron-ssr/releases
+1. 版本 electron-ssr-0.0.2-mac.zip
+2. 不支持 auth_aes128_md5 混淆
+
+结论：
+mac 上无法使用 ssr。建议使用 v2ray or ss(GoAgentX)
+
+更新结论：
+mac可使用 ssr。ShadowsocksX-R ssr11.18.zip。见 Common_Files 
+
+== mac 客户端 ==
+
+(x)https://github.com/shadowsocksr/ShadowsocksX-NG/releases/ （ ShadowsocksX-NG-R8.app 不支持10.10.5）
+
+== mac 客户端2 ==
+
+https://github.com/yichengchen/ShadowsocksX-R/releases ( ssr11.18.zip 即 ShadowsocksX-R.139 ) ✓
+
+备用
+http://bbs.feng.com/read-htm-tid-10721244.html( ShadowsocksX-R.135 )
