@@ -1,0 +1,41 @@
+
+去掉DS_Store
+
+
+软件描述：
+能够删除所有的  .DS_Store ，包括子文件夹 
+
+使用办法：
+> cd aFolder
+> find . -name .DS_Store -exec rm {} \;
+
+研发过程：
+https://bitbucket.org/4d_/dimension
+
+
+= = = == =
+
+DS清理器Asepsis+SIP关闭
+
+
+关闭SIP
+安装并重启
+
+After reboot .DS_Store files are no longer created when you open Finder and browse folders (in case .DS_Store files are not already present there).
+
+如果有疑问
+asepsisctl diagnose
+
+清理某一个文件夹和其子文件夹下的 DS_Store
+> cd /Users/user7483/com/E02
+> sudo find ./ -name ".DS_Store" -depth -exec rm {} \;
+
+http://asepsis.binaryage.com/#installation
+
+查看状态
+asepsisctl diagnose
+
+
+
+
+
