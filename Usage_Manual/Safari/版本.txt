@@ -1,0 +1,32 @@
+
+10.10.5 默认的 safari 版本是 8.0.8
+
+(不要升级)
+
+
+插件安装办法：先复制一份，再直接双击。最终会安装去这里
+~/Library/Safari/Extensions/ClickToFlash.safariextz
+
+
+
+== safari 下载设置 ==
+
+设置，“下载后打开安全的文件” NO
+
+高级 - 在菜单栏显示“开发”菜单
+
+
+== mama 计划 (支持 Safari 8.0.8) ==
+https://zythum.github.io/mama2/
+
+先复制一份，然后双击安装
+
+位置
+~/Library/Safari/Extensions/mama2.safariextz
+
+测试
+https://www.douyu.com/directory/game/FTG
+
+
+
+
