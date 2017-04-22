@@ -1,0 +1,8 @@
+
+Proxifier(用于给APP走代理如Google硬盘),但VPN更直接
+
+Proxifier
+无法给 Google硬盘 上传文件(即使能登入,也无法上传超过100M的文件)
+
+
+-
