@@ -1,4 +1,15 @@
 
+ProxifierMac2.15.zip
+
+目的：
+给Google硬盘正常使用
+目的成功与否：
+否
+结果：
+弃用 Proxifier 直接用 VPN
+
+-
+
 Proxifier(用于给APP走代理如Google硬盘),但VPN更直接
 
 Proxifier
@@ -7,3 +18,10 @@ Proxifier
 Google硬盘的使用：请自备VPN之后再用
 
 -
+
+= = = 碎碎念 = = =
+
+Proxifier
+注册码(注册名任意)
+P427L-9Y552-5433E-8DSR3-58Z68（MAC）
+
