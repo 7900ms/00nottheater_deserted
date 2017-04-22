@@ -5,3 +5,40 @@ http://i.imgur.com/yIxEKGg.png
 
 大图
 http://i.imgur.com/ZWonh7j.jpg
+
+=
+
+支持没有 cover art banner (最近的版本是 itunes dmg 12.1.2.27)
+
+
+
+= = 参考 小 playlist = =
+
+图样：
+
+10.10.2 iTunes 12.1.0.50
+http://apple.stackexchange.com/questions/173524/cant-re-order-songs-in-itunes-12
+
+x iTunes 12.2
+http://www.mcelhearn.com/itunes-12-2-new-playlist-view-option/
+
+iTunes 12.1 OK - 【没有 cover art banner】 
+https://discussions.apple.com/thread/7104561?tstart=0
+
+版本：
+
+10.10.5 默认 12.2.1.16
+10.10.x 默认 12.1.2.27 (没有 apple music 的最后一个版本)
+
+旧版下载
+itunes dmg 12.1.2.27
+https://www.theiphonewiki.com/wiki/iTunes#12.1.2.27
+
+
+
+
+http://apple-itunes.wonderhowto.com/how-to/bring-back-sidebar-plus-8-more-tricks-make-itunes-12-feel-like-11-0158400/
+(去掉playlist视图里的专辑封面 - cover art banner 的相关讨论 
+1-https://discussions.apple.com/thread/7114268?tstart=0)
+2-https://discussions.apple.com/thread/7104561?tstart=0# now the banner is huge and allows you to add album art to each playlist
+
