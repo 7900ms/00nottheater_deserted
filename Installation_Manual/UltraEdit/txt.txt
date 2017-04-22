@@ -1,0 +1,19 @@
+
+UltraEdit
+UltraEdit16.10.0.22cr.dmg
+
+大 TXT 的读取打开 - UltraEdit for mac
+https://www.v2ex.com/t/339273
+
+
+(EmEditor备选)
+
+
+= = = = =
+
+UltraEdit_16.10.0.22破解
+
+> printf '\x31\xC0\xFF\xC0\xC3\x90' | dd seek=$((0x92D370)) conv=notrunc bs=1 of=/Users/user7483/com/E02/D/Program_Files/paf_UE/UltraEdit.app/Contents/MacOS/UltraEdit
+
+禁用联网和更新
+
