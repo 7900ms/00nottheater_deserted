@@ -6,6 +6,7 @@ ln -s /usr/sbin .
 ln -s /usr/local/bin .
 ln -s /usr/local/sbin .
 ln -s /usr/local/Cellar .
+ln -s ~/com/E02/D/TDownloads .
 
 
 ln -s /Applications .
