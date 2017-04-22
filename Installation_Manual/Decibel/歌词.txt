@@ -1,0 +1,22 @@
+
+
+Decibel的歌词目录
+mkdir -p ~/com/E02/D/Program_Files/Decibel
+mkdir -p ~/com/E02/D/Program_Files/Decibel/lyrics
+
+
+
+
+
+== 歌词来源 ==
+
+iTunes MiniLyrics
+iYY
+PD-fb2k手动中转粘贴来 ✓
+
+== 显示歌词的程序 ==
+
+MiniLyrics
+iYY
+wine-fb2k
+
