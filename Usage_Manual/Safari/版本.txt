@@ -3,11 +3,18 @@
 
 (不要升级)
 
+下载后打开 取消
+safari － 偏好设置 － 通用 － 下载后打开 取消勾选
 
 插件安装办法：先复制一份，再直接双击。最终会安装去这里
 ~/Library/Safari/Extensions/ClickToFlash.safariextz
 
-
+常用插件
+ublock
+Lastpass
+ClickToFlash
+mama2 (Safari 9.1.2)
+Xunlei
 
 == safari 下载设置 ==
 
