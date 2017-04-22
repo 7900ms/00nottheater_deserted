@@ -1,0 +1,5 @@
+
+测试 终端是否能fq
+> export http_proxy='http://localhost:8118' && export https_proxy='https://localhost:8118'
+> curl -I www.google.com.tw
+
