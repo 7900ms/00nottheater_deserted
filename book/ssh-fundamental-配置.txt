@@ -123,5 +123,5 @@ cat ~/.ssh/id_rsa_DO_ubuntu-512mb-sgp1-01_bill.pub | ssh bill@128.199.150.73 "mk
 
     exit
     ssh-add -D
-    ssh b@128.199.150.73 # 输入 bill用户的密码 1 可以进入
+    ssh b@128.199.150.73 # 输入 b 用户的密码 可以进入
 
