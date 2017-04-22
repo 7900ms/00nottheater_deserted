@@ -12,7 +12,20 @@ TextEdit.app
 
 3. 字体
 纯文本字体
-Menlo Regular 11 => Times New Roman 18 , Georgia 18 
+Menlo Regular 11 => Times New Roman 18 , Georgia 18 =》 Menlo Regular 18
 多信息文本字体 Helvetica 12 
 
+== 引号 ==
+
+不要智能引号、智能破折号
+
+== 拼写检查和纠正 ==
+
+输入时检查拼写，OK
+自动纠正拼写，不要
+
+== 窗口大小 ==
+
+30字符
+10行
 
