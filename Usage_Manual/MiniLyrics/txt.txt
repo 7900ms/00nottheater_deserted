@@ -5,3 +5,5 @@
 
 然后 快捷方式 到 com 目录(如果移动，那么不能随iTunes启动)
 
+迷你歌词 软件默认歌词目录
+~/Library/Application Support/com.crintsoft.MiniLyrics/Lyrics
