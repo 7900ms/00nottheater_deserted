@@ -14,5 +14,6 @@ https://docs.imssx.com/284.html
 
 -
 
-系-ShadowsocksX-NG - 10.11+
+ShadowsocksX-NG - 10.11+
+SpechtLite - 10.11+
 
