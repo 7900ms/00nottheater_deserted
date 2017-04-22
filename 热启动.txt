@@ -1,0 +1,37 @@
+
+重启电脑 到U盘：启动时按住option
+single-user mode：启动时按住 cmd+s 等屏幕上出现白色文字
+
+详细模式：启动时按住 cmd+v (没用)
+热启动：ctrl+cmd+电源键
+安全模式：启动时按住 shift
+
+查看系统信息(硬件信息) 左上角苹果键+option 会看见 sys info
+
+重启到U盘
+http://www.iplaysoft.com/osx-yosemite-usb-install-drive.html
+
+单用户模式
+http://support.apple.com/kb/ht1492
+https://support.apple.com/zh-cn/HT201573
+
+热启动
+https://support.apple.com/zh-cn/HT201236
+
+安全模式 
+https://support.apple.com/zh-cn/HT201262
+
+硬件信息
+https://support.apple.com/zh-cn/HT203001
+
+
+= =
+
+重置 SMC
+https://www.zhihu.com/question/33911186/answer/72042890
+
+
+清理PRAM
+遇到一些小情况试试清理PRAM，重开机听到“duang”的一声按下⌘＋option＋P＋R，重复三次，如果清理PRAM后Force Touch还是无法使用那就试试第二招。
+
+
