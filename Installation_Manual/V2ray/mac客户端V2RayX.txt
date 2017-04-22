@@ -1,0 +1,23 @@
+
+客户端下载地址
+https://github.com/Cenmrev/V2RayX/releases
+
+改造成和vps上对应版本的
+
+== v2ray 主程序下载地址 ==
+
+某版本的v2ray
+https://github.com/v2ray/v2ray-core/releases 下载和 vps 上对应版本的 v2ray
+
+下载
+
+替换到
+mv v2ray v2ray_ori
+V2RayX.app/Contents/MacOS/v2ray
+
+说明：
+mKCP 不要开 (默认没开)
+pac 模式可以让safari看youtube，“Edit pac file” 改一下端口
+
+
+
