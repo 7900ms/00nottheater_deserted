@@ -1,6 +1,6 @@
 
 客户端下载地址
-https://github.com/Cenmrev/V2RayX/releases
+https://github.com/Cenmrev/V2RayX/releases (最新版0.7.4.1不支持mac10.10.5。可以考虑用 supervisor 来管理启动命令。supervisor 本身放在 /Library/LaunchDaemons )
 
 改造成和vps上对应版本的
 
