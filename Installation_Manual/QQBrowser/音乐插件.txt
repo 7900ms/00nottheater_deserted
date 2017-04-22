@@ -4,7 +4,35 @@
 Sound Pirate
 
 
+== 音乐网站 保存缓存 ==
+
+Chrome 插件：声海盗
+
+
+
 == 虾米音乐 找回：找回下架的歌曲 ==
 
 chrome 插件：听个虾米
+
+
+== 虾米音乐在线下载 (仅能试听的歌曲) ==
+
+虾米紫菜汤
+地址：
+http://5istar.net/xiami/
+https://www.v2ex.com/t/327654#jacy
+
+用法：
+eg.
+http://www.xiami.com/song/b4R5kb2dc2 # song_id = '2131840'
+找 "立即播放 按钮" 的源代码 或 搜索 song_id 
+http://www.xiami.com/song/2131840
+
+http://www.xiami.com/song/kbdGa9220 # song_id = '387352'
+http://www.xiami.com/song/387352
+
+
+下架的歌曲不能找到 如
+http://www.xiami.com/song/kbdGa9220
+http://www.xiami.com/song/387352
 
