@@ -1,0 +1,11 @@
+
+keka 用于 制作zip 文件 (自动去除mac自带文件如 .DS_Store)
+
+TheUnarchiver3.10.1官方免费_代替原生(有助于解压长文件名)
+
+BetterZip 用于 快速查看 zip文件 (重启后生效) [可以不安]
+
+
+-
+
+放在 /Applications 里
