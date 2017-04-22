@@ -5,3 +5,7 @@ cdf
 chmod 600 `find . -type f`
 chmod 700 `find ~/.ssh -type d`
 
+
+chmod 600 `find ~/.ssh -type f`
+chmod 700 `find ~/.ssh -type d`
+
