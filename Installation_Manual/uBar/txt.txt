@@ -1,0 +1,33 @@
+
+uBar
+
+uBar 3.1.2 中文版 | 让Mac拥有类似Windows的任务栏 2015-12-04 MacStock
+http://mp.weixin.qq.com/s?__biz=MzI5NTAxMzk4OA==&mid=400486804&idx=1&sn=1ef485b69e9e5239b0233cc607b05b35&3rd=MzA3MDU4NTYzMw==&scene=6#rd 
+运行「uBar 3.x [SP].app」,然后将应用程序目录中的「uBar.app」拖拽到「uBar 3.x [SP].app」上即可完成破解。
+
+
+= = = 碎碎念 = = =
+
+uBar
+http://www.waerfa.com/ubar-the-dock-replacement-for-os-x  
+
+毫不客气的将 Mac  OS X Dock 栏请出了底部空间，并提供了最小化应用程序窗口（带自动分组）、「开始」菜单、个人收藏、右键功能菜单等多个经典 Win 功能元素 
+
+下载：
+http://www.pc6.com/mac/121479.html
+破解版 http://www.orsoon.com/Mac/91615.html 
+
+不爽的源泉：
+Windows 7 任务栏、Mac Dock 。
+
+ http://www.quweiji.com/windows-7任务栏对比苹果mac-dock/
+ 
+ http://gizmodo.com/5352038/ubar-makes-mac-os-x-into-a-windows-transvestite
+ 
+ 还是 经典任务栏最好
+ http://apple.stackexchange.com/questions/80106/alternatives-to-apple-dock-taskbar 
+ 
+= = = 
+
+dock 位置
+
