@@ -1,0 +1,27 @@
+
+这个编辑器可以解决乱码问题
+
+Preference - Editor Defaults - 取消勾选 Auto-expand tabs，设置 tab width 4
+Text Files - 勾选 Strip trailing whitespace 
+
+编辑字典文件时，TextWrangler 编辑器可以「View-Text Display-Show Invisibles」将隐藏符号显示出来以便查错和参照。TextWrangler 「Edit — Text Options」设置里去掉「Auto-expend tabs」的勾选，输出的就是 tab 而不是 4 个空格。
+
+====================
+
+显示隐藏符号
+
+View菜单 - Text Display-Show Invisibles
+
+将隐藏符号显示出来以便查错和参照 (编辑rime字典文件)
+
+===================
+
+
+== 按下tab，输入制表符，而不是空格 ==
+
+Preference - Editor Defaults - 取消勾选 Auto-expand tabs，设置 tab width 4
+
+去掉「Auto-expend tabs」的勾选，输出的就是 tab 而不是 4 个空格。
+
+
+
