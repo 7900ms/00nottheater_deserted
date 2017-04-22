@@ -1,0 +1,40 @@
+
+emojiEditor
+
+Chocolat
+
+=
+
+能打出 emoji 的编辑器
+
+TextEditor
+CotEditor (没有天生的、内置的、极为顺手的代码折叠功能)
+Chocolat (有代码折叠。按键的，不是鼠标点击的，很别扭)
+TextMate (没有代码折叠)
+
+ATOM(OK)
+
+
+
+不能
+
+ST3
+TextWrangler
+VSCode(略2)
+Brackets
+
+
+
+🔈
+
+  log("🔑 Authentication successful for user ABC123");
+log("☠️ App crashed with exception code DEF456");
+log("✉️ Email successfully sent to user GHI789");
+🚨 WARNING:
+✅ TODOS:
+
+第1次给表里填入 😀 😬 😁 😂 😃
+第2次给表里填入 😺 😸 😹 😻 😼 😽 🙀 😿 😾
+第3次给表里填入 🙌 👏 👋 👍 👊 ✊ ✌️ 👌 ✋ 💪 🙏
+第4次给表里填入 💆🏻 💇🏻 👰🏻 🙍🏻 🙎🏻 🙅🏻 🙆🏻 💁🏻 🙋🏻 🙇🏻
+
