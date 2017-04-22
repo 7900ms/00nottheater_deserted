@@ -1,4 +1,6 @@
 
+RightZoom.app
+
 == 作用 ==
 
 (系统默认的小绿点，单击是 full screen button，alt+小绿点单击 是 “窗口最大化” )
@@ -11,6 +13,7 @@
 系统设置 - 安全性与隐私 - 隐私
 (原 Universal Access)
 
+RightZoom.app 添加到启动项 
 
 
 功能：
