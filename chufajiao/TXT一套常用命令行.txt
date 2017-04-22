@@ -1,0 +1,52 @@
+
+显示所有文件
+defaults write com.apple.finder AppleShowAllFiles -boolean true
+killall Finder
+(不显示桌面上的隐藏文件：XtraFinder 特性 - 隐藏桌面的系统文件)
+
+不显示隐藏文件
+defaults write com.apple.finder AppleShowAllFiles -bool false
+killall Finder
+
+
+清理某一个文件夹和其子文件夹下的 DS_Store
+> cd /Users
+> sudo find ./ -name ".DS_Store" -depth -exec rm {} \;
+
+
+
+
+测试 终端是否能fq
+export http_proxy='http://localhost:8118' && export https_proxy='https://localhost:8118'
+curl -I www.google.com.tw
+
+
+
+清理DNS缓存
+sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder
+(&& sudo pkill Pcap_DNSProxy
+> sudo rm /Library/LaunchDaemons/my_pcap_dnsproxy.plist)
+
+DNS
+114.114.114.110 和 114.114.115.110
+
+文件属性更改：显示 Lib
+chflags nohidden ~/Library
+chflags hidden a.txt
+
+复制文件夹到另一个文件夹
+cp -a ~/Library/Rime ~/Library/Rime_ori
+
+# python 服务器
+# > python -m SimpleHTTPServer 8000
+
+
+系统图标位置
+/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/
+
+关闭SIP
+> sudo nvram boot-args="debug=0x146 kext-dev-mode=1"
+https://github.com/csujedihy/proximac
+
+
+
