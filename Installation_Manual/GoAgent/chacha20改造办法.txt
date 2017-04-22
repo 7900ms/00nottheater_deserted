@@ -1,0 +1,26 @@
+
+base reform
+
+改造办法：
+
+（OTA认证，chacha20）
+
+= brew =
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew list
+brew install shadowsocks-libev
+
+= ss-local =
+
+版本 GoAgentX 2.3.7 774
+cd /Applications/GoAgentX.app/Contents/PlugIns
+cd /Applications/GoAgentX.app/Contents/PlugIns/shadowsocks.gxbundle/Contents/Resources/bin/libev
+mv ss-local ss-local_ori
+echo "#!/bin/bash" >> ss-local
+echo "ss-local $@" >> ss-local ( 或 "ss-local $@ -A" 配合 vps 的 ss OTA )
+chmod +x ss-local
+brew install shadowsocks-libev
+检查 which ss-local #=> /usr/local/bin/ss-local & /usr/local/Cellar/shadowsocks-libev/2.4.7/bin/ss-local
+
+改模板 在高级设置-配置文件模板中将  "method": "{EncryptMethod}"改成
+"method": "chacha20"
