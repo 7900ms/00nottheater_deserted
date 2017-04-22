@@ -1,0 +1,36 @@
+
+privoxy 终端fq，支持开机启动
+
+
+privoxy 终端fq，支持开机启动
+
+1.
+安装
+brew install privoxy
+ln -s /usr/local/sbin/privoxy /usr/local/bin
+
+> which privoxy
+/usr/local/bin/privoxy -> /usr/local/sbin/privoxy -> ../Cellar/privoxy/3.0.26/sbin/privoxy
+
+2.
+配置
+> sudo cp /usr/local/etc/privoxy/config /usr/local/etc/privoxy/config_ori
+sudo rm /usr/local/etc/privoxy/config
+sudo touch /usr/local/etc/privoxy/config
+> sudo nano /usr/local/etc/privoxy/config
+```
+listen-address 0.0.0.0:8118
+forward-socks5 / localhost:1080 .
+```
+
+3.
+支持开机启动
+> brew services start privoxy
+(~/Library/LaunchAgents/homebrew.mxcl.privoxy.plist)
+(会运行 privoxy /usr/local/etc/privoxy/config)
+
+
+
+
+
+https://tech.jandou.com/to-accelerate-the-terminal.html
