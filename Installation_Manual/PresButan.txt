@@ -1,0 +1,32 @@
+
+PresButan.app
+
+== 作用 ==
+
+打开文件：回车键
+
+文件扔到回收站： delete 键
+
+
+== 开启功能 ==
+
+系统设置 - 安全性与隐私 - 隐私
+(原 Universal Access)
+
+PresButan.app 添加到启动项 
+
+
+
+== 重置 ==
+
+Activity Monitor 里 强制停止 PresButan 即 所有效果失效
+
+
+
+
+ref
+
+https://www.v2ex.com/t/329016
+
+https://computers.tutsplus.com/tutorials/enable-windows-like-features-on-your-mac--mac-59850
+
