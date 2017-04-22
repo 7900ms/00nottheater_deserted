@@ -1,0 +1,44 @@
+
+安装说明
+(2016.12.11)
+
+1.
+解压SIMBL-0.9.9.zip
+走 SIMBL-0.9.9.pkg
+
+2.
+安装插件：
+
+Afloat.bundle 放在
+/Library/Application Support/SIMBL/Plugins
+
+3.
+重启
+
+发现 safari - 窗口 可以置顶了
+
+
+
+ref
+
+http://www.culater.net/software/SIMBL/SIMBL.php
+不需要 EasySIMBL.app
+
+= = = 碎碎念 = = =
+
+
+清理环境：
+去掉 并卸载 EasySIMBL.app
+SIMBL Uninstaller.app
+
+rm -rf ~/Library/Application\ Support/SIMBL
+rm -rf ~/Library/ScriptingAdditions/EasySIMBL.osax
+sudo rm -rf /Library/ScriptingAdditions/EasySIMBL.osax
+
+rm -rf ~/Library/Application\ Support/SIMBL
+sudo rm -rf /Library/Application\ Support/SIMBL
+
+find ~/Library/Containers -name "*SIMBL*" -ls 全部删如
+rm -rf `find ~/Library/Containers -name "*SIMBL*" -ls`
+重启
+
