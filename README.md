@@ -16,6 +16,4 @@ https://www.macupdate.com/#(无下载量提示)
 
 [360](https://github.com/7900ms/nottheater_deserted/tree/master/supplementary)
 
-[wiki](https://github.com/7900ms/00notwiki_deserted)
-
 -
