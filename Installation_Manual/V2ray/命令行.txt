@@ -1,0 +1,27 @@
+
+查看是否启用
+ps -e | grep v2ray
+sudo lsof -i:1081
+lsof -i:1081
+(vps查看)
+
+
+开机运行和kill自动重启 (不用 supervisor, 也不用 brew services , 也不用 sudo brew services )
+用 /Library/LaunchDaemons
+
+my_v2ray.plist 放到 /Library/LaunchDaemons 里
+1.sudo chmod 600 /Library/LaunchDaemons/my_v2ray.plist && sudo chown root /Library/LaunchDaemons/my_v2ray.plist
+2.sudo launchctl load /Library/LaunchDaemons/my_v2ray.plist
+
+查看 ps -e | grep v2ray 已有，此时支持开机启动同时kill自动重启。
+(测试1:重启，测试2:sudo pkill v2ray 测试3: sudo lsof -i:1081
+ps -e | grep v2ray )
+
+
+
+卸载
+sudo launchctl unload /Library/LaunchDaemons/my_v2ray.plist
+sudo rm /Library/LaunchDaemons/my_v2ray.plist
+
+
+
