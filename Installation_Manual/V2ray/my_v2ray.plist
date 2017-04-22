@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>my_v2ray</string>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/Users/user7483/com/E02/D/Windows/System/v2ray/v2ray</string>
+      <string>-config</string>
+      <string>/Users/user7483/com/E02/D/Windows/System/v2ray/config.json</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+  </dict>
+</plist>
