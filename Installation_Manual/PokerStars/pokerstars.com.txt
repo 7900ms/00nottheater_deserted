@@ -1,0 +1,10 @@
+
+真网站
+https://www.pokerstars.com/
+PokerStars.app.zip
+
+假网站
+http://www.pokerstars.net/
+PokerStars.net.app.zip
+
+-
