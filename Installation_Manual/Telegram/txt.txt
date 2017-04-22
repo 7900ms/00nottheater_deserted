@@ -1,0 +1,7 @@
+
+== Proxifier 何时用 ==
+
+准备给 telegram.app 走代理的时候用
+
+
+———— 当然，如果用 telegram 的在线版 就不用了
