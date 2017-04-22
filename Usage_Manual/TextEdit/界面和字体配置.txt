@@ -1,0 +1,18 @@
+
+TextEdit.app
+
+文本设置
+
+
+1. 打开和储存
+纯文本文件编码：打开文件 =》 utf-8 ，储存文件 =》 utf-8 
+
+2. 新建文稿
+格式 纯文本
+
+3. 字体
+纯文本字体
+Menlo Regular 11 => Times New Roman 18 , Georgia 18 
+多信息文本字体 Helvetica 12 
+
+
