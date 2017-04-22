@@ -1,0 +1,40 @@
+XnViewMP
+
+回忆：
+在使用 XnViewMP 之前，用过一段时间 Macintosh Explorer
+
+= = = 碎碎念 = = =
+
+老式资源管理器
+Macintosh Explorer.app
+Preferences - General - Show Invisible Files (no)
+Preferences - Appearance - LucidaGrande,13,Small
+Preferences - Views - 4个勾选,100K,48,16,AsIcons
+
+收藏：
+Favorites
+
+添加收藏：
+File - Add to shelf
+
+显示收藏栏 / 取消收藏：
+View - Shelf Size - Hide
+
+= = = 碎碎念 = = =
+
+
+Macintosh_Explorer_app 是最好的
+
+不是最好的
+Easy Explore ( 太简约了，不是经典界面 ) 
+Commander One ( 根本没有 左侧的树形面板 )
+Forklift ( dual mode ，根本没有 左侧的树形面板 )
+Magician File ( 缺点是 不支持显示最新删除情况 )
+
+
+Path Finder ( 根本没有 左侧的树形面板 )
+FastCommander  ( 和 ForkLift 一样 ) 
+CRAX Commander ( 和 ForkLift 一样，根本没有 左侧的树形面板 )
+TotalFinder  ( 和 ForkLift 一样 ) 
+
+-
