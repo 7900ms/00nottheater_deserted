@@ -1,0 +1,15 @@
+
+Xcode Command Line Tools
+
+> gcc
+(> xcode-select --install)
+
+ref
+http://railsapps.github.io/xcode-command-line-tools.html
+
+= = = NEED NOT = = =
+
+不需要的
+(Xcode
+Xcode_7.1.1(7B1005)-10.10.5.dmg 运行一次) ✗ 不用安装
+
