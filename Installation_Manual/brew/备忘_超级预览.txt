@@ -1,0 +1,29 @@
+备忘_超级预览
+
+
+超级预览
+
+
+安装
+(fq)
+brew tap caskroom/cask
+brew cask install qlcolorcode qlstephen
+brew cask install quicklook-csv quicklook-json
+brew cask install qlimagesize webpquicklook
+
+
+
+~/Library/QuickLook
+
+ref
+https://github.com/sindresorhus/quick-look-plugins
+
+
+
+= = = = = = = = = = = =
+
+r
+https://aaaaaashu.gitbooks.io/mac-dev-setup/content/Homebrew/Cask.html
+http://sspai.com/31927
+https://medium.com/@Chenz5dong/那些强大的-预览-插件-mac-5d9b6f31efdd#.ooe9vra9e
+
