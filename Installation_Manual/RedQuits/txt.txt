@@ -1,5 +1,6 @@
 
 RedQuits
++RedQuits小红按钮真实退出器
 
 点击小红按钮就退出(cmd+q)
 
