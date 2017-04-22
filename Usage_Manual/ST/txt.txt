@@ -1,9 +1,28 @@
 
 Sublime Text 3
 
-版本
+
+== 何时用 ==
+
+在 写 exe 的时候用
+
+
+== 最后一个好的版本 ==
+
 SublimeTextBuild3114
 xSublimeText3_3126
+
+
+== 禁用更新 ==
+
+改 host
+
+> sudo nano /etc/hosts
+# 防止软件更新
+127.0.0.1 www.sublimetext.com
+
+安装
+cmd+shift+p  pci
 
 ctrl+`
 
@@ -19,8 +38,6 @@ Emmet
 ST - Preferences - Browse Packages ...
 ~/Library/Application Support/Sublime Text 3/Packages/PyV8/osx-p3/config.json
 
-sudo nano /etc/hosts 添加
-127.0.0.1 www.sublimetext.com
 
 Preferences - setting - user
 
