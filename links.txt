@@ -3,6 +3,11 @@ ln -s /bin .
 ln -s /sbin .
 ln -s /usr/bin .
 ln -s /usr/sbin .
+ln -s /usr/local/bin .
+ln -s /usr/local/sbin .
+ln -s /usr/local/Cellar .
+
+
 ln -s /Applications .
 ln -s /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources .
 ln -s ~/Library/LaunchAgents .
@@ -20,3 +25,13 @@ ln -s /Library/LaunchDaemons .
 /Library/LaunchDaemons/homebrew.mxcl.pcap_dnsproxy.plist
 ~/Library/LaunchAgents/homebrew.mxcl.pcap_dnsproxy.plist (无论有没有它，都没用 ps-e 里没有)
 
+brew
+/usr/local/bin
+/usr/local/sbin
+> brew --prefix
+> brew info wget
+/usr/local/Cellar/wget/1.18
+
+
+
+-
