@@ -1,0 +1,22 @@
+
+安裝软件和增强包
+cp -a ~/Library/Rime ~/Library/Rime_ori
+放进去 ~/Library/Rime 这里,重新部署
+
+参考
+https://segmentfault.com/a/1190000005754706
+
+
+
+
+配置目录
+
+配置目录
+~/Library/Rime/
+
+
+
+快捷键
+
+系统设置 - 键盘 - Shortcuts - Input Sources , ctrl+space
+
