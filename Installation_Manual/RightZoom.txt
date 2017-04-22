@@ -1,0 +1,29 @@
+
+== 作用 ==
+
+(系统默认的小绿点，单击是 full screen button，alt+小绿点单击 是 “窗口最大化” )
+
+窗口的小绿点 作为“窗口最大化”的功能 (maximize button)
+
+
+== 开启功能 ==
+
+系统设置 - 安全性与隐私 - 隐私
+(原 Universal Access)
+
+
+
+功能：
+不要用什么快捷键，直接 小绿点-
+
+窗口的小绿点 作为“窗口最大化”的功能 (maximize button)
+
+ref
+
+https://www.v2ex.com/t/329016
+
+https://computers.tutsplus.com/tutorials/enable-windows-like-features-on-your-mac--mac-59850
+
+http://www.blazingtools.com/downloads.html#RightZoom
+
+
