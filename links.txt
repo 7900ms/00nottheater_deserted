@@ -1,8 +1,20 @@
 
+ln -s /bin .
+ln -s /sbin .
+ln -s /usr/bin .
+ln -s /usr/sbin .
 ln -s /Applications .
+ln -s /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources .
+ln -s ~/Library/LaunchAgents .
+ln -s /Library/LaunchAgents .
+ln -s /Library/LaunchDaemons .
+
+
+
+= = = 碎碎念 = = =
 
 系统图标包
-/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/
+/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources
 
 启动项
 /Library/LaunchDaemons/homebrew.mxcl.pcap_dnsproxy.plist
