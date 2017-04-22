@@ -1,0 +1,98 @@
+{
+  "timeStamp": 1468750061953,
+  "version": "0.9.5.2",
+  "userSettings": {
+    "advancedUserEnabled": false,
+    "autoUpdate": true,
+    "collapseBlocked": true,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": false,
+    "experimentalEnabled": false,
+    "externalLists": "! Examples:\n! https://easylist-downloads.adblockplus.org/antiadblockfilters.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_sidebar.txt\n! https://easylist-downloads.adblockplus.org/fb_annoyances_newsfeed.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_comments.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_suggestions.txt\n! https://easylist-downloads.adblockplus.org/yt_annoyances_other.txt",
+    "firewallPaneMinimized": true,
+    "parseAllABPHideFilters": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": true
+  },
+  "filterLists": {
+    "assets/user/filters.txt": {
+      "group": "default",
+      "off": false,
+      "entryCount": 0,
+      "entryUsedCount": 0
+    },
+    "assets/ublock/filters.txt": {
+      "title": "uBlock filters",
+      "group": "default",
+      "off": false,
+      "entryCount": 137,
+      "entryUsedCount": 137
+    },
+    "assets/ublock/privacy.txt": {
+      "title": "uBlock filters – Privacy",
+      "group": "default",
+      "off": false,
+      "entryCount": 3,
+      "entryUsedCount": 3
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt": {
+      "title": "EasyList",
+      "group": "ads",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easylist.txt",
+      "off": false,
+      "entryCount": 83201,
+      "entryUsedCount": 82728
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylistchina.txt": {
+      "off": false,
+      "title": "CHN: EasyList China (中文)",
+      "group": "regions",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+      "entryCount": 13223,
+      "entryUsedCount": 13207
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
+      "title": "EasyPrivacy",
+      "group": "privacy",
+      "homeURL": "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
+      "off": false,
+      "entryCount": 12294,
+      "entryUsedCount": 12257
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
+      "title": "Malware domains",
+      "group": "malware",
+      "homeURL": "",
+      "off": false,
+      "entryCount": 9448,
+      "entryUsedCount": 9410
+    },
+    "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
+      "title": "Peter Lowe’s Ad server list",
+      "group": "ads",
+      "homeURL": "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext",
+      "off": false,
+      "entryCount": 2385,
+      "entryUsedCount": 2385
+    },
+    "assets/thirdparties/raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt": {
+      "off": false,
+      "title": "CHN: China: cjxlist (main focus on Chinese sites)",
+      "group": "regions",
+      "homeURL": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt",
+      "entryCount": 436,
+      "entryUsedCount": 436
+    },
+    "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
+      "title": "Malware Domain List",
+      "group": "malware",
+      "homeURL": "http://www.malwaredomainlist.com/hostslist/hosts.txt",
+      "off": false,
+      "entryCount": 1189,
+      "entryUsedCount": 1189
+    }
+  },
+  "netWhitelist": "about-scheme\nbehind-the-scene\nchrome-extension-scheme\nchrome-scheme\nloopconversation.about-scheme\nopera-scheme",
+  "dynamicFilteringString": "",
+  "userFilters": ""
+}
