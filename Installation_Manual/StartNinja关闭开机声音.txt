@@ -18,3 +18,53 @@ http://osxdaily.com/2010/01/28/how-to-stop-the-mac-startup-sound/
 
 
 
+= = = 碎碎念 = = =
+
+其他办法
+
+
+https://briian.com/33528/turn-off-mac-startup-chime.html
+
+
+    拔掉耳機、喇叭等外接裝置
+    登出目前使用者
+    在登入畫面中按鍵盤的 F11 或 F12 調整音量大小
+
+
+下次重開機或電腦完全斷電後再開機，都可以維持你所設定的開機音量大小
+
+(no use)
+
+-
+
+How do you turn off the startup sound on a Mac?
+
+To disable the startup sound that plays when you turn on your mac, simply hold down the mute button while pressing the power button. Keep it held down for a while, until after the sound would have normally played.
+
+开机和静音键同时按
+
+-
+
+
+关机之前，按静音键，以静音的状态关机
+
+(ok)
+
+-
+
+StartNinja - 关闭开机声音
+http://www.allvu.com/index.php/sndownloadpage.html
+http://mac.dailydownloaded.com/en/desktop-enhancements/tweaks-software/13968-startninja-download-install (dmg)
+https://www.macupdate.com/app/mac/41692/startninja
+
+(ok) ✓
+
+-
+
+ref
+
+http://osxdaily.com/2010/01/28/how-to-stop-the-mac-startup-sound/
+
+
+
+
