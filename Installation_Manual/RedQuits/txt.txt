@@ -1,0 +1,23 @@
+
+RedQuits
+
+点击小红按钮就退出(cmd+q)
+
+默认是仅cmd+w
+
+配置区：
+
+开机启动 ✓
+Quit only when 只有一个窗口 ✓
+
+
+- -
+
+支持的 app
+几乎所有
+
+不支持的 app
+iTunes
+
+
+
