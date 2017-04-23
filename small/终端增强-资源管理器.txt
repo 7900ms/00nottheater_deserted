@@ -21,4 +21,8 @@ fzf
 显示当前目录下所有文件 ctrl + t 
 http://triplecc.github.io/blog/2017-03-19-ru-he-yu-kuai-di-shi-yong-ming-ling-xing/#fzf
 
+[2]
+terminal bookmark directory
+
+
 -
