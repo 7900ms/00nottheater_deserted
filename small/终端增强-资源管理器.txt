@@ -29,5 +29,8 @@ https://unix.stackexchange.com/questions/26802/bookmarks-for-bash  command-line 
 [2]
 terminal bookmark directory
 
+[3]
+emacs file browser
+
 
 -
