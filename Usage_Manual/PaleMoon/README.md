@@ -15,6 +15,10 @@ Tab Utilities
 
   (x)https://github.com/7900ms/noname/blob/master/TUprefs.txt
 
+鼠标摇杆手势
+
+  MouseGesturesSuite
+  
 中文网址
 
   https://github.com/7900ms/noname/blob/master/firefox-cn-url.md
