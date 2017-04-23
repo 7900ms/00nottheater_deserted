@@ -7,6 +7,8 @@
 
 =
 
-fzf
-autojump
+终端  fzf
+终端 命令行智能联想/快速跳转 autojump
+终端 浏览器(可以收藏地址) lynx emacs-browser
 
+-
