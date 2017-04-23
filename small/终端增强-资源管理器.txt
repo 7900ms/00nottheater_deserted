@@ -20,6 +20,8 @@ fzf
 显示历史命令 	ctrl + r
 显示当前目录下所有文件 ctrl + t 
 http://triplecc.github.io/blog/2017-03-19-ru-he-yu-kuai-di-shi-yong-ming-ling-xing/#fzf
+
+fzf 的另类用法 - 书签面板：电脑上有一个links文件夹，cd 到这里，再用挑选书签(用fzf选并点击) [用到了快捷键：显示当前目录下所有文件 ctrl + t ]
 https://unix.stackexchange.com/questions/26802/bookmarks-for-bash  command-line fuzzy finder
 
 [2]
