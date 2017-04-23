@@ -17,7 +17,7 @@ Tab Utilities
 
 鼠标摇杆手势
 
-  MouseGesturesSuite
+  Mouse Gestures Suite
   
 中文网址
 
