@@ -28,12 +28,19 @@ homepage
   https://github.com/7900ms/noname/blob/master/homepage.txt
 
 
+=
 
+Google search link fix
+
+Just Disable Stuff
+
+Redirector
 
 = = = 碎碎念 = = =
 
 tab
 
+  Tab Mix Plus
   https://github.com/7900ms/noname/blob/master/TMPpref.txt
   (x 没有按钮用于“所有新标签在后台打开”)
 
