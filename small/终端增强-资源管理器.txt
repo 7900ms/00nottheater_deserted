@@ -12,3 +12,13 @@
 终端 浏览器(可以收藏地址) lynx emacs-browser
 
 -
+
+
+
+[1]
+fzf
+显示历史命令 	ctrl + r
+显示当前目录下所有文件 ctrl + t 
+http://triplecc.github.io/blog/2017-03-19-ru-he-yu-kuai-di-shi-yong-ming-ling-xing/#fzf
+
+-
