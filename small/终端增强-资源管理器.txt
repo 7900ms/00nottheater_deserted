@@ -20,6 +20,7 @@ fzf
 显示历史命令 	ctrl + r
 显示当前目录下所有文件 ctrl + t 
 http://triplecc.github.io/blog/2017-03-19-ru-he-yu-kuai-di-shi-yong-ming-ling-xing/#fzf
+https://unix.stackexchange.com/questions/26802/bookmarks-for-bash  command-line fuzzy finder
 
 [2]
 terminal bookmark directory
