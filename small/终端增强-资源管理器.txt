@@ -4,7 +4,7 @@
 == 何时使用 ==
 
 在终端里 各个目录乱窜的时候:
-1. 收藏夹
+1. 收藏夹 (收藏夹+鼠标)
 2. ftp地址,在侧面板（类似一个fileBrowser）
 
 =
@@ -23,7 +23,11 @@ fzf
 显示当前目录下所有文件 ctrl + t 
 http://triplecc.github.io/blog/2017-03-19-ru-he-yu-kuai-di-shi-yong-ming-ling-xing/#fzf
 
-fzf 的另类用法 - fzf面板当作书签面板：电脑上有一个links文件夹，cd 到这里，再用挑选书签(用fzf选并点击) [用到了快捷键：显示当前目录下所有文件 ctrl + t ]
+fzf 当收藏夹：
+收藏夹(书签面板)：links文件夹
+鼠标：fzf
+用法：
+电脑上有一个links文件夹，cd 到这里，再用挑选书签(用fzf选并点击) [用到了快捷键：显示当前目录下所有文件 ctrl + t ]
 https://unix.stackexchange.com/questions/26802/bookmarks-for-bash  command-line fuzzy finder
 
 [2]
