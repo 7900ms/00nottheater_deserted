@@ -2,3 +2,7 @@
 zsh on mac
 
 -
+
+ref
+https://github.com/7900ms/0nottheater_deserted/blob/master/book/zsh-fundamental-安装.txt
+-
