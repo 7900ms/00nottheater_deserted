@@ -26,6 +26,9 @@ google service
   谷歌应用商店
   GooglePlay服务更新
 
+root
+  kingRoot
+
 twitter
 
 
