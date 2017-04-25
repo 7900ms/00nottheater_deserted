@@ -1,0 +1,19 @@
+
+android app
+
+fq
+  ssr-android
+  https://github.com/shadowsocksr/shadowsocksr-android/releases
+
+google service
+  谷歌应用安装器
+  谷歌输入法
+  谷歌应用商店
+  GooglePlay服务更新
+
+twitter
+
+
+
+
+-
