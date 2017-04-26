@@ -12,6 +12,8 @@ Play Music Lyrics Fetcher
 Gaana Lyrics Extension
 无中文歌词
 
+Musixmatch Lyrics for YouTube
+不支持GoogleMusic
 
 
 -
