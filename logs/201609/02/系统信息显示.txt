@@ -1,0 +1,13 @@
+
+1.
+系统信息显示
+
+点击左上角到小苹果，点 option 出现 Hardware 信息
+
++
+快速预览增强(详情 untitled order widgets)
+
++
+Finder显示完整路径(详情 bash_profile/finder.sh)
+hidenopath
+
