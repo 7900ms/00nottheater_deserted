@@ -1,0 +1,28 @@
+
+1.
+关闭 App Store 自动更新
+
+系统偏好设置 － App Store － 自动检查更新 取消勾选
+
+2.
+联网
+高级 － DNS － 119.29.29.29
+
+3.
+flash
+https://get.adobe.com/flashplayer
+
+4.
+safari 9.1.2
+safari － 偏好设置 － 通用 － 下载后打开 取消勾选
+
+＋
+系统偏好设置 － 安全性与隐私 － 允许 任何来源
+
+Xcode
+Xcode_7.1.1(7B1005)-10.10.5.dmg 运行一次
+
+Xcode命令行工具
+xcode-select --install
+
+App Store 安装 系统更新补丁 (不要安装某软件更新)
