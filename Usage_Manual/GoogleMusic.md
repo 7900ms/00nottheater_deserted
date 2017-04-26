@@ -7,6 +7,9 @@ Google Music Lyrics 如何显示歌词
 Play Music Lyrics Fetcher
 无中文歌词
 
+Gaana Lyrics Extension
+无中文歌词
+
 
 
 -
