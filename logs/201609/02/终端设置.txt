@@ -1,0 +1,14 @@
+
+1.
+zsh
+
+2.
+iTerm2
+
+3.
+function lib
+
++
+mkdir -p /Users/E02/C/Program_Files/bash_profile
+touch /Users/E02/C/Program_Files/bash_profile/git
+
