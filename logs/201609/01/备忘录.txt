@@ -1,0 +1,30 @@
+
+深呼吸
+
+You don't worry about anything. -- Stephen Curry
+
+= =
+
+E01 - ME (Macintosh Explorer)
+E02 - Finder
+
+ZeroNet <- E02 <- Python <- brew
+ZeroNet <- bash_profile <- zsh <- brew
+ZeroNet <- zsh <- iTerm2
+
+v2ray <- E02 <- supervisor <- Python <- brew
+
+chef <- E02 <- Ruby <- brew
+
+从 E01, 远程连接到 E02 操作，操作完毕之后会自动在 E01 上生效。
+登入 E02 后，相当于对 E01 进行了 一次 底层hack ，然后安全退出，当作什么事也没发生：E02关机、E01正常用
+
+- -
+
+工单: 晚间关站时 从02修理01
+
+Sat:
+done:从E02修理E01的工单:百度网盘、ZeroNet
+not done:  E01电脑上的F盘(音乐储存)、kugouMusic文件夹(音乐下载)、音乐播放器、soguoMusic音乐搜索
+
+
