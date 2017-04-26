@@ -1,15 +1,15 @@
 
 Google Music Manager (Mac)
-上传歌曲用
+上传歌曲用 (with ss, Proxifier)
 
 下载
 https://play.google.com/music/listen?u=0#/manager
 
 登入
-OK 借助proxifier
+OK 借助Proxifier
 
 上传
-OK 借助proxifier
+OK 借助Proxifier
 
 -
 
