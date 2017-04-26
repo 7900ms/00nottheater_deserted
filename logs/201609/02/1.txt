@@ -1,0 +1,70 @@
+
+从02修理01
+(02已取得执照)
+
+1.
+系统信息显示
+
+2.
+终端设置
+
+3.
+网络通畅
+
+4.
+基础平台升级
+
+-
+
+工单: 晚间关站时 从02修理01
+
+1.
+supervisor 和记录开机时间
+
+2.
+v2ray 和开机自动运行
+
+3.
+ZeroNet
+
+4.
+ssh
+SSH Shell 16.06 Mac
+
+5.
+aria2
+Aria2GUI-v1.2.8
+
+6.
+imagemagick
+
+7.
+DS_Store的清理
+Asepsis
+
+8.
+finder 的替代品,a Macintosh file browser,a Finder alternative 
+~finder 的插件：TotalFinder，a plugin for Finder.app，XtraFinder~
+Path Finder.app
+
+-
+
+21.
+音乐播放器
+QQ音乐(有限的方便：可能有音乐网站限制)
+
+-
+
+31.
+课程表的制作
+outlook calendar + iPhone
+
+32.
+看电视
+
+33.
+本地音乐播放器(规避音乐网站的限制)
+iYY+MiniLyrics
+
+
+
