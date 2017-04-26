@@ -1,0 +1,32 @@
+
+系统美化设置
+
+1.
+Macintosh Explorer (在 E01 里用ME，在 E02 里用 Finder)
+
+2.
+不要做那些看起来怪怪的、一层又一层文件夹
+
+3.
+任务栏 ubar
+启动一次
+
+4.
+菜单栏 XMenu
+启动一次
+
+5.
+拖拽式选择 FinderPop
+
+6.
+菜单栏日历 Day-O
+
++
+系统偏好设置 - Dock - Right，自动隐藏
+
+开机启动
+finderpop-daemon(默认)
+ubar(默认)
+XMenu(手动添加启动项)
+Day-O(默认)
+
