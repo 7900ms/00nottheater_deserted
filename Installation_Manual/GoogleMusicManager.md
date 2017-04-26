@@ -14,5 +14,7 @@
 
 说明1：
 ssr PAC模式和全局模式 不能支持 GMM 登入
+说明2：
+Proxifier 用最大性能 开Default覆盖，支持 GMM 登入
 
 -
