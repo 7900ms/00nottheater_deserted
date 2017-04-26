@@ -21,4 +21,10 @@ https://github.com/7900ms/nottheater_deserted/blob/master/book/Proxifier-fundame
 说明3：
 如果出问题，1.校准电脑时间 2.换ss帐号
 
+
+-
+
+Proxifier
+https://github.com/7900ms/nottheater_deserted/blob/master/book/Proxifier-fundamental-conf.txt
+
 -
