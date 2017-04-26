@@ -1,0 +1,32 @@
+
+1.
+Finder
+Finder － 显示 － 显示状态栏
+Finder － 偏好设置 － 高级 － 显示扩展名
+Finder － 偏好设置 － 高级 － 执行搜索时 当前文件夹
+
+2.
+XtraFinder：剪切 粘贴
+XtraFinder - 关于 － 自动检查更新 取消勾选
+
+3.
+右键新建文件
+NewFileMenu.app
+
+4.
+老式资源管理器
+Macintosh Explorer.app
+Preferences - General - Show Invisible Files (no)
+Preferences - Appearance - 13
+Preferences - Views - File List Icon Size - 48
+
++
+关掉SIP
+sudo nvram boot-args="debug=0x146 kext-dev-mode=1"
+
+关掉开机声音(没用)
+sudo nvram SystemAudioVolume=" "
+
+zip软件
+keka、TheUnarchiver, BetterZip
+
