@@ -1,0 +1,12 @@
+
+ZeroNet <- E02 <- Python <- brew
+ZeroNet <- bash_profile <- zsh <- brew
+ZeroNet <- zsh <- iTerm2
+
+v2ray <- E02 <- supervisor <- Python <- brew
+
+chef <- E02 <- Ruby <- brew
+
+从 E01, 远程连接到 E02 操作，操作完毕之后会自动在 E01 上生效。
+登入 E02 后，相当于对 E01 进行了 一次 底层hack ，然后安全退出，当作什么事也没发生：E02关机、E01正常用
+
