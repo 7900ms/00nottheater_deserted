@@ -1,10 +1,9 @@
 
-[Google Music Manager (Mac)](https://play.google.com/music/listen?u=0#/manager)
+Google Music Manager (Mac)
 上传歌曲用
 
 下载
-
-[地址](https://play.google.com/music/listen?u=0#/manager)
+https://play.google.com/music/listen?u=0#/manager
 
 登入
 
@@ -16,5 +15,6 @@
 ssr PAC模式和全局模式 不能支持 GMM 登入
 说明2：
 Proxifier 用最大性能 开Default覆盖，Rules: "MusicManager.app, GoogleChrome.app" => 支持 GMM 登入，支持 GMM 上传
+https://github.com/7900ms/nottheater_deserted/blob/master/book/Proxifier-fundamental-conf.txt
 
 -
