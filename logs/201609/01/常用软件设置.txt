@@ -1,0 +1,32 @@
+
+1.
+下载工具 Xunlei
+
+2.
+电影播放器 MPlayerX
+
+3.
+音乐下载 网易云音乐
+歌曲位置 ~/Library/Containers/com.netease.163music/Data/Caches/online_play_cache
+
+4.
+音乐播放器 Decibel
+歌曲信息修改器 Tagr
+
+5.
+文件格式转换
+Total_Video_Converter_Lite(MAS)
+
+6.
+电子书
+calibre-2.55.0
+
+7.
+FTP
+ForkLift2.6.3Cr
+
+8.
+办公 myBase
+右键新建一个 myBase 文档：
+NewFileMenu - Templates 添加模板
+
