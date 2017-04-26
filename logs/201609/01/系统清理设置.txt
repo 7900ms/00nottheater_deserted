@@ -1,0 +1,16 @@
+
+系统清理设置
+
+1.
+防火墙 Hands Off!
+
+2.
+NTFS
+Paragon_NTFS
+
+3.
+CleanMyMac
+AppDeleter
+
+cocktail - 系统隐藏微调
+Cocktail - System - Misc - Disable startup sound
