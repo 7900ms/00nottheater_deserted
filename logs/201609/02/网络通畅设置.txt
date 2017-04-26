@@ -1,0 +1,36 @@
+
+1.
+终端fq
+provixy
+
+2.
+dns污染
+pcap_dnsproxy
+
+3.
+(v2ray <- supervisor 开机启动的)
+
+
++
+lsof -i:1080
+brew services restart privoxy
+
+
+
+测试
+source ~/.bash_profile
+export http_proxy='http://localhost:8118'
+export https_proxy='https://localhost:8118'
+curl -I -fsSL -v https://support.google.com/youtube/answer/2807622
+wget https://www.google.com.hk
+
++
+用不同的 dns 服务器来查看一个网址 ( 是否发生 dns 劫持 )
+dig @114.114.114.114 +tcp http://www.google.com
+dig @8.8.4.4 +tcp http://www.google.com
+dig @127.0.0.1 +tcp http://www.google.com
+
+nslookup www.google.com ( 会走到 216.58.203.4 )
+dig www.google.com ( 会走到 216.58.203.4 )
+ping www.google.com ( 会走到 216.58.203.4 )
+
