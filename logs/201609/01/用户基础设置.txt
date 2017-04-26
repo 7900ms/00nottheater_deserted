@@ -1,0 +1,45 @@
+
+1.
+自动登入电脑 不用输入密码
+
+系统偏好设置 － 用户和群组 － 登陆选项 自动登录
+
+2.
+开电脑
+
+启动终端
+> cd /
+> sudo mkdir -p /Users
+> sudo chown -R $(whoami):staff /Users
+> mkdir /Users/E01
+
+> mkdir -p /Users/E02/opt
+> sudo ln -s /Users/E02/opt /opt
+
+3.
+输入法
+Rime rime_pro
+
+4.
+浏览器 firefox
+FoxyProxy
+ublock
+google search link fix
+Tab Mix Plus
+FlashDisable
++
+中文网址
+about:config
+network.standard-url.escape-utf8 改为 f
+
+5.
+fq工具
+GoAgentX
+Proxifier
+
+Proxifier 导入规则
+
+6.
+编辑器
+文本过滤 st3
+
