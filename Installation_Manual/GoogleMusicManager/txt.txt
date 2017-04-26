@@ -6,8 +6,10 @@ Google Music Manager (Mac)
 https://play.google.com/music/listen?u=0#/manager
 
 登入
+OK 借助proxifier
 
 上传
+OK 借助proxifier
 
 -
 
