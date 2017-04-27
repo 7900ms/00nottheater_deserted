@@ -10,6 +10,5 @@
 
 
 歌词目录迁移(首先确认有 ~/com/E02/D/Program_Files/Decibel/lyrics 目录为歌词主目录)
-trash ~/Library/Application\ Support/iYY/LRC
+rm -rf ~/Library/Application Support/iYY/LRC
 ln -s ~/com/E02/D/Program_Files/Decibel/lyrics ~/Library/Application\ Support/iYY/LRC
-
