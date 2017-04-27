@@ -20,13 +20,13 @@ App Store
 
 Xcode Command Line Tools
 
-zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
-
-输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
-
 handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
 
 [uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
+
+输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
+
+zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
 
 XMenu
 
