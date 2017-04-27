@@ -1,1 +1,19 @@
 
+小调整：
+鼠标滚动方向
+dock位置
+dock窗口最小化方式
+Finder - Sidebar
+后缀名 - Finder - show all file extension
+
+小调整：
+输入法切换方式(系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
+AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意安装包(系统设置-安全与隐私-允许任意安装包)
+
+小调整：
+分辨率 一般上网分辨率1152x720，游戏分辨率1140x900
+
+小调整：
+自动登入电脑 不用输入密码(系统偏好设置 － 用户和群组 － 登陆选项 自动登录)
+
+#
