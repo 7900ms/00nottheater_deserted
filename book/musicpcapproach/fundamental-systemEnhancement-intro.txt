@@ -1,0 +1,71 @@
+
+YLMF纯净版-1.
+Xcode Command Line Tools
+
+YLMF纯净版-2.
+zip
+
+YLMF纯净版-3.
+输入法
+
+YLMF纯净版-4.
+uBar
+
+YLMF纯净版-5.
+XMenu
+
+YLMF纯净版-6.
+鼠标右键 New File Menu
+
+YLMF纯净版-7.
+AppStore 不要自动更新
+
+YLMF纯净版-8.
+AppCleaner
+
+YLMF纯净版-9.
+TextWrangler
+
+YLMF纯净版-10.
+NTFS驱动 Paragon_NTFS
+
+YLMF纯净版-11.
+一份基础 brew
+
+YLMF纯净版-12.
+一份基础的目录结构
+
+YLMF纯净版-13.
+handsOff!防火墙
+
+(安完大约12G,创建快照)
+
+
+
+- - -
+
+小调整：
+鼠标滚动方向
+dock位置
+dock窗口最小化方式
+Finder - Sidebar
+后缀名 - Finder - show all file extension
+
+小调整：
+输入法切换方式(系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
+AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意安装包(系统设置-安全与隐私-允许任意安装包)
+
+小调整：
+分辨率 一般上网分辨率1152x720，游戏分辨率1140x900
+
+小调整：
+自动登入电脑 不用输入密码(系统偏好设置 － 用户和群组 － 登陆选项 自动登录)
+
+
+
+= 大礼包附加 =
+SIP关闭+Asepsis DS清理器
+一套触发角
+一套PATH
+
+
