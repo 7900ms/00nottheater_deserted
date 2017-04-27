@@ -8,6 +8,7 @@
 Finder 高级 - show all file extension
 
 dock窗口最小化方式
+缩放效果
 
 菜单栏
 系统偏好设置 - 通用 - 自动隐藏菜单栏
