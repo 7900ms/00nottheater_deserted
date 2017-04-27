@@ -13,6 +13,30 @@ dock窗口最小化方式
 菜单栏
 系统偏好设置 - 通用 - 自动隐藏菜单栏
 
+-
+
+App Store
+不要自动更新
+
+Xcode Command Line Tools
+
+zip
+
+输入法
+
+uBar
+
+XMenu
+
+鼠标右键 New File Menu
+
+AppCleaner
+
+TextWrangler
+
+NTFS驱动 Paragon_NTFS
+
+handsOff!防火墙
 
 = = = 碎碎念 = = =
 
