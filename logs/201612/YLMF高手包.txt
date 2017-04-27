@@ -1,0 +1,59 @@
+
+"本地 > 网络
+小插件 > 大软件
+看得见的 > 看不见的
+正要功能 > 附加功能
+国内功能 > fq功能"
+
+拿来用的 > 不是拿来用的(后台跑,排错用的)
+正式用的 > 不是正式用的(别人专业的,我业余的)
+系统相关的 > 有其他特定功能的作业
+玩真的 > 不玩真的(排错用的,业余搞的)
+
+《这些软件，直接放在 E盘 ~/com/E02/E/Program_Files 再做 alias 。
+不放在 /Applications 文件夹 》
+
+YLMF高手小明包-1.
+Firefox 浏览器
+
+YLMF高手小明包-2.
+iCollections
+
+YLMF高手小明包-3.
+PD虚拟机和里面的Office办公
+
+YLMF高手小明包-4.
+PD虚拟机的QQ精简版
+
+YLMF高手小明包-5.
+一个玩得顺手的音乐播放器 iYY
+
+YLMF高手小明包-6.
+广告过滤实体化软件 ublock
+
+YLMF高手小明包-7.
+一份目录结构挪移(Downloads目录挪移)
+
+
+- - -
+
+小调整：
+我的电脑 快捷方式放桌面
+
+小调整：
+文件属性更改：显示 Lib
+chflags nohidden ~/Library
+
+小调整：
+终端-自动退出(配置-Profiles-Shell-whenExits-CloseIfTheShellExitedClearly)
+
+小调整：
+不用 Spotlight, 不用 cmd+q
+
+=
+
+
+
+
+
+
