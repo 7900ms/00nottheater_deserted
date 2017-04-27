@@ -20,23 +20,27 @@ App Store
 
 Xcode Command Line Tools
 
-zip
+zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
 
-输入法
+输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
-uBar
+handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
+
+[uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
 
 XMenu
 
 鼠标右键 New File Menu
 
-AppCleaner
+[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
 
-TextWrangler
+[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)
 
 NTFS驱动 Paragon_NTFS
 
-handsOff!防火墙
+AppCleaner
+
+CleanMyMac
 
 = = = 碎碎念 = = =
 
