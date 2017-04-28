@@ -34,6 +34,7 @@ Finder 高级 - show all file extension
 +StartNinja 开机声音关闭
 +Day-O日历菜单栏
 +MenubarCountdown
+mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连进去(必须知道电脑上都安了什么软件)
 +XtraFinder
 
 #### 输入法
