@@ -1,5 +1,5 @@
 
-StartNinja - 关闭开机声音
+StartNinja - 关闭开机声音 (安装即可，不用添加到启动项)
 
 http://www.allvu.com/index.php/sndownloadpage.html
 
