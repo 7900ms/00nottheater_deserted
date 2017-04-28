@@ -5,7 +5,7 @@ music pc
 - ST(写歌词本用)
 - 迅雷(下载用)
 - MPlayerX(视频用)
-- PaleMoon + Firefox
+- [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox
 - Decibel
 
 #### foobar2000
