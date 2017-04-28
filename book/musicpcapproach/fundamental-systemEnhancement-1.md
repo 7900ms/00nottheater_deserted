@@ -15,6 +15,9 @@ Finder 高级 - show all file extension
 #### 菜单栏
 系统偏好设置 - 通用 - 自动隐藏菜单栏
 
+#### 文件管理器
+Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
+
 -
 
 #### App Store
