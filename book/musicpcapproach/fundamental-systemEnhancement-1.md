@@ -40,6 +40,8 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连进去(必须知道电脑上都安了什么软件)
 +[XtraFinder](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XtraFinder)
 
+(下载命令 "curl -O http://xxxxx.plist" )
+
 #### Safari
 去掉 下载后打开文件
 
