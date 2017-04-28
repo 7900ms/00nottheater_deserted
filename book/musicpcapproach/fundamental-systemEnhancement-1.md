@@ -21,7 +21,7 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 -
 
 #### App Store
-AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意安装包(系统设置-安全与隐私-允许任意安装包)
+AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意安装包(系统设置-安全与隐私-允许任意安装包) (关闭防火墙和FileVault-默认关闭)
 
 #### Xcode Command Line Tools
 
