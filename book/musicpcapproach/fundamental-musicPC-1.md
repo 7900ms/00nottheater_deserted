@@ -1,6 +1,13 @@
 
 music pc
 
+#### 预装软件
+- ST(写歌词本用)
+- 迅雷(下载用)
+- MPlayerX(视频用)
+- PaleMoon + Firefox
+- Decibel
+
 #### foobar2000
 - foobar2000
 音乐播放 标签处理 重命名工具 (with CrossOver win7)
@@ -19,11 +26,9 @@ music pc
 - chrome-在线GoogleMusic
 - GoogleMusicManager.app(withProxifier)-上传音乐
 
-#### 小播放器
-- Decibel
 
-#### 视频播放器
-- MPlayerX
+
+
 
 #### 音乐记录
 以 playlist 为模样的 网络收藏夹
