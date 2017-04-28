@@ -1,5 +1,6 @@
 
 http://zh.wikihow.com/重置Macbook-Pro
+https://support.apple.com/zh-cn/HT201255#恢复模式cmd+r
 
 重启电脑 到U盘：启动时按住option
 single-user mode：启动时按住 cmd+s 等屏幕上出现白色文字
