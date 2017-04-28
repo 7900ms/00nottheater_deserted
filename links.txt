@@ -8,8 +8,10 @@ ln -s /usr/local/sbin .
 ln -s /usr/local/Cellar .
 
 ln -s ~/Library/Rime .
-ln -s ~/com/E02/D/TDownloads .
 ln -s ~/Library/Safari/Extensions .
+ln -s ~/Documents/iCollections .
+
+ln -s ~/com/E02/D/TDownloads .
 ln -s /Applications .
 ln -s /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources .
 
