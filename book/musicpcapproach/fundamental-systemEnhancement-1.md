@@ -1,40 +1,52 @@
 
-鼠标滚轮
+#### 鼠标滚轮
 
 
-开机登入
+#### 开机登入
 
-后缀名
+#### 后缀名
 Finder 高级 - show all file extension
 
-dock窗口最小化方式
+#### dock窗口最小化方式
 缩放效果
 
-菜单栏
+#### 菜单栏
 系统偏好设置 - 通用 - 自动隐藏菜单栏
 
 -
 
-App Store
+#### App Store
 不要自动更新
 
-Xcode Command Line Tools
+#### Xcode Command Line Tools
 
-handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
+#### DS_Store清理和防生成
+[DS清理器 Asepsis](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/去掉-去掉DS_Store.txt)
 
-[uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
-
+#### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
+#### links文件夹
+
+#### 任务栏
+[uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
+
+#### zip
 zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
 
-XMenu
-
+#### 鼠标右键
 鼠标右键 New File Menu
 
+#### XMenu
+XMenu
+
+#### 文本
 [TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
 
 ~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
+
+#### 防火墙 驱动 卸载
+handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
 
 NTFS驱动 Paragon_NTFS
 
