@@ -21,6 +21,8 @@ music pc
 #### 小播放器
 - Decibel
 
+#### 视频播放器
+- MPlayerX
 
 = = = 碎碎念 = = =
 
