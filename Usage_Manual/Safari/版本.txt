@@ -43,3 +43,6 @@ https://www.douyu.com/directory/game/FTG
 
 
 
+-
+10.11.5 默认的 safari 版本是 9.1.1
+-
