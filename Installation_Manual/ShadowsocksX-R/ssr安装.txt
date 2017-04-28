@@ -5,10 +5,11 @@ https://github.com/yichengchen/ShadowsocksX-R/releases
 
 ssr 的客户端：系-ShadowsocksX-NG (支持10.11.5)
 https://github.com/shadowsocksr/ShadowsocksX-NG/releases
-
+(ShadowsocksX-NG-R8.dmg)
 
 = = in use = =
-ssr11.18 139 (pac模式)
+10.10.5 ssr11.18 139 (pac模式)
+10.11.5 ShadowsocksX-NG-R8 (pac模式)
 
 pac模式可以自动fq safari可翻
 https://docs.imssx.com/284.html
