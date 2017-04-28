@@ -10,7 +10,7 @@ music pc
 
 #### foobar2000
 - foobar2000
-音乐播放 标签处理 重命名工具 (with CrossOver win7)
+音乐播放 标签处理 重命名工具 (with [CrossOver](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/CrossOver) win7)
 
 #### 音乐下载
 - chrome-[百度网盘下载-Aria2GUI](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
@@ -18,8 +18,8 @@ music pc
 
 #### 音乐整理
 - dropbox-lyrics
-- chrome-在线GoogleMusic
-- GoogleMusicManager.app(withProxifier)-上传音乐
+- chrome-[在线GoogleMusic](https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md)
+- [GoogleMusicManager.app(withProxifier)](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/GoogleMusicManager-withProxifier)-上传音乐
 
 
 
