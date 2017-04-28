@@ -5,8 +5,10 @@ music pc
 - [ST](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/ST)(写歌词本用)
 - [迅雷](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Thunder)(下载用)
 - MPlayerX(视频用)
-- [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox (查资料用)
 - Decibel (临时播放用)
+- [Safari](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Safari)
+- [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox (查资料用)
+
 
 #### foobar2000
 - foobar2000
