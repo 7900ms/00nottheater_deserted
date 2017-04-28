@@ -5,20 +5,21 @@ music pc
 音乐播放 标签处理 重命名工具
 
 #### Browser
-PaleMoon
-Firefox
+- PaleMoon
+- Firefox
 
 #### 音乐下载
-chrome-百度网盘
-虾米-听个虾米 声海盗
+- chrome-百度网盘
+- 迅雷
+- 虾米-听个虾米 声海盗
 
 #### 音乐整理
-dropbox-lyrics
-chrome-在线GoogleMusic
-GoogleMusicManager.app-上传音乐
+- dropbox-lyrics
+- chrome-在线GoogleMusic
+- GoogleMusicManager.app-上传音乐
 
 #### 小播放器
-Decibel
+- Decibel
 
 
 = = = 碎碎念 = = =
