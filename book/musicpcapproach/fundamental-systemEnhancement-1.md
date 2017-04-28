@@ -18,6 +18,9 @@ Finder 高级 - show all file extension
 #### 文件管理器
 Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 
+#### 触发角
+[触发角](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/触发角.txt)
+
 -
 
 #### App Store
