@@ -1,6 +1,6 @@
 
 PaleMoon
-
+```
 图集
 http://imgur.com/a/sgrpQ
 
@@ -14,6 +14,7 @@ FoxyProxy Standard
 Tab Utilities
 
   (x)https://github.com/7900ms/noname/blob/master/TUprefs.txt
+  见本页的 
 
 鼠标摇杆手势
 
@@ -49,6 +50,5 @@ tab
   (x 没有按钮用于“所有新标签在后台打开”)
 
 
-
-
+```
 
