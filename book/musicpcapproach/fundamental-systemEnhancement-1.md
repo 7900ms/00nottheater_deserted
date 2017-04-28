@@ -32,6 +32,7 @@ AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意�
 [DS清理器 Asepsis](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/去掉-去掉DS_Store.txt)
 
 #### 防止休眠
+```
 [caffeine, Amphetamine_MAS](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Amphetamine)
 +XMenu
 +StartNinja 开机声音关闭
@@ -43,7 +44,7 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把9个东西都连�
 +[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
 +zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
 ~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
-
+```
 (下载命令 "curl -O http://xxxxx.plist" )
 
 #### Safari
