@@ -4,7 +4,8 @@ PaleMoon
 图集
 http://imgur.com/a/sgrpQ
 
-
+下载
+curl -O http://xxxx.plist
 
 FoxyProxy Standard
 
