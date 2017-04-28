@@ -2,4 +2,4 @@
 http://kb.parallels.com/cn/116526
 
 configuration window -> Hardware -> Boot Order
-
+reboot, choose Mac OS X Recovery
