@@ -41,7 +41,7 @@ AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意�
 ```
 [caffeine, Amphetamine_MAS](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Amphetamine)
 +XMenu
-+StartNinja 开机声音关闭
++[StartNinja 开机声音关闭](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/StartNinja关闭开机声音.txt)
 +Day-O日历菜单栏
 +MenubarCountdown
 +鼠标右键 New File Menu
