@@ -21,7 +21,7 @@ music pc
 
 #### 音乐整理
 - dropbox-lyrics
-- chrome-[在线GoogleMusic](https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md)
+- [chrome](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Chrome)-[在线GoogleMusic](https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md)
 - [GoogleMusicManager.app(withProxifier)](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/GoogleMusicManager-withProxifier)-上传音乐
 
 
