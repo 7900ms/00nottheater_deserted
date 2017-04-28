@@ -16,7 +16,7 @@ music pc
 #### 音乐整理
 - dropbox-lyrics
 - chrome-在线GoogleMusic
-- GoogleMusicManager.app-上传音乐
+- GoogleMusicManager.app(withProxifier)-上传音乐
 
 #### 小播放器
 - Decibel
