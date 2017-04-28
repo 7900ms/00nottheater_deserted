@@ -18,10 +18,12 @@ Xunlei
 
 == safari 降级 ==
 
-在808系统上有
+在10.10.5系统上有 safari808 有
 /Applications/Safari.app
 /System/Library/PrivateFrameworks/Safari.framework
 /System/Library/PrivateFrameworks/SafariServices.framework
+
+在10.11.5系统上有 safari911 覆盖相应的文件 ———— 无法降级！
 
 == safari 下载设置 ==
 
