@@ -1,5 +1,5 @@
 
-# doc
+# blog
 
 #### 鼠标滚轮
 系统偏好设置 - 自然方向 取消
@@ -43,8 +43,9 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
-#### ~~links文件夹~~
+#### links文件夹
 [links文件夹](https://github.com/7900ms/00nottheater_deserted/blob/master/links.txt)
+把 rime 文件夹放进去 (~/Library/Rime)(必须知道电脑上都安了什么软件)
 
 #### 任务栏
 [uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
