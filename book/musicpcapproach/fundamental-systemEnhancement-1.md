@@ -79,6 +79,10 @@ AppCleaner
 
 CleanMyMac
 
+#### 文件管理器
+
+[XnViewMP](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XnViewMP)
+
 = = = 碎碎念 = = =
 
 小调整：
