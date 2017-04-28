@@ -1,6 +1,10 @@
 
-ssr 的客户端：系-ShadowsocksX-R (支持10.10.5)
+ssr 的客户端：系-ShadowsocksX-R (支持10.10.5。不支持10.11.5)
+https://github.com/yichengchen/ShadowsocksX-R/releases
 (ssr11.18.zip)
+
+ssr 的客户端：系-ShadowsocksX-NG (支持10.11.5)
+https://github.com/shadowsocksr/ShadowsocksX-NG/releases
 
 
 = = in use = =
