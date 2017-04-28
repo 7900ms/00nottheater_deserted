@@ -8,7 +8,7 @@ music pc
 - Decibel (临时播放用)
 - [Safari](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Safari)
 - [ShadowsocksX-R](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/ShadowsocksX-R) ,[V2ray](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/V2ray)
-- [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox (查资料用)
+- [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + [Firefox](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Firefox) (查资料用)
 
 
 #### foobar2000
