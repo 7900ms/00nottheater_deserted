@@ -5,6 +5,7 @@ uBar 3.1.2 中文版 | 让Mac拥有类似Windows的任务栏 2015-12-04 MacStock
 http://mp.weixin.qq.com/s?__biz=MzI5NTAxMzk4OA==&mid=400486804&idx=1&sn=1ef485b69e9e5239b0233cc607b05b35&3rd=MzA3MDU4NTYzMw==&scene=6#rd 
 运行「uBar 3.x [SP].app」,然后将应用程序目录中的「uBar.app」拖拽到「uBar 3.x [SP].app」上即可完成破解。
 
+G mac start menu ubar
 
 = = = 碎碎念 = = =
 
