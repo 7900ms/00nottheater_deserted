@@ -40,5 +40,6 @@ asepsisctl diagnose
 
 
 
-
+SIP
+https://github.com/7900ms/nottheater_deserted/blob/master/supplementary/360安全卫士-系统修复-SIP.txt
 
