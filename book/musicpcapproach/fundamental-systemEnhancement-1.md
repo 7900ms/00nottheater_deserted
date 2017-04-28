@@ -26,7 +26,7 @@ Finder 高级 - show all file extension
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
-#### links文件夹
+#### ~~links文件夹~~
 [links文件夹](https://github.com/7900ms/00nottheater_deserted/blob/master/links.txt)
 
 #### 任务栏
