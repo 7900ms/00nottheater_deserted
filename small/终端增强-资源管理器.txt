@@ -36,5 +36,9 @@ terminal bookmark directory
 [3]
 emacs file browser
 
+[4]
+ranger 文件管理器 *
+https://www.v2ex.com/t/227934?p=2
+
 
 -
