@@ -37,8 +37,12 @@ AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意�
 +StartNinja 开机声音关闭
 +Day-O日历菜单栏
 +MenubarCountdown
-mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连进去(必须知道电脑上都安了什么软件)
++鼠标右键 New File Menu
+mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把9个东西都连进去(必须知道电脑上都安了什么软件)
 +[XtraFinder](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XtraFinder)
++[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
++zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
+~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
 
 (下载命令 "curl -O http://xxxxx.plist" )
 
@@ -53,27 +57,14 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连
 #### links文件夹
 [links文件夹](https://github.com/7900ms/00nottheater_deserted/blob/master/links.txt)
 把 rime 文件夹放进去 (~/Library/Rime)(必须知道电脑上都安了什么软件)
-
+```
 > mkdir -p ~/E02/links
 > cd ~/E02/links
 > ln -s ~/Library/Rime .
+```
 
 #### 任务栏
 [uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
-
-#### zip
-zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
-
-#### 鼠标右键
-鼠标右键 New File Menu
-
-#### XMenu
-XMenu
-
-#### 文本
-[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
-
-~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
 
 #### 防火墙 驱动 卸载
 handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
