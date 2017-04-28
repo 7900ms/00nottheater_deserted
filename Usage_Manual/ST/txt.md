@@ -13,14 +13,6 @@ SublimeTextBuild3114
 xSublimeText3_3126
 
 
-== 禁用更新 ==
-
-改 host
-
-> sudo nano /etc/hosts
-# 防止软件更新
-127.0.0.1 www.sublimetext.com
-
 安装
 cmd+shift+p  pci
 
@@ -55,6 +47,14 @@ Preferences - setting - user
   "trim_trailing_white_space_on_save": true,
   "update_check": false
 }
+
+== 禁用更新 ==
+
+改 host
+
+> sudo nano /etc/hosts
+# 防止软件更新
+127.0.0.1 www.sublimetext.com
 
 Licence
 
