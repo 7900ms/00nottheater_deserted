@@ -2,7 +2,8 @@
 music pc
 
 #### foobar2000
-音乐播放 标签处理 重命名工具
+- foobar2000
+音乐播放 标签处理 重命名工具 (with CrossOver win7)
 
 #### Browser
 - PaleMoon
