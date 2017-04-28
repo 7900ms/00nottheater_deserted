@@ -22,6 +22,12 @@ Finder 高级 - show all file extension
 
 #### Xcode Command Line Tools
 
+#### SIP
+[关闭SIP](https://github.com/7900ms/nottheater_deserted/blob/master/supplementary/360安全卫士-系统修复-SIP.txt)
+
+#### 防止休眠
+[caffeine, Amphetamine_MAS](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Amphetamine)
+
 #### DS_Store清理和防生成
 [DS清理器 Asepsis](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/去掉-去掉DS_Store.txt)
 
