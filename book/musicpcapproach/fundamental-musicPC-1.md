@@ -2,8 +2,8 @@
 music pc
 
 #### 预装软件
-- ST(写歌词本用)
-- 迅雷(下载用)
+- [ST](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/ST)(写歌词本用)
+- [迅雷](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Thunder)(下载用)
 - MPlayerX(视频用)
 - [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox
 - Decibel
@@ -12,13 +12,8 @@ music pc
 - foobar2000
 音乐播放 标签处理 重命名工具 (with CrossOver win7)
 
-#### Browser
-- PaleMoon
-- Firefox
-
 #### 音乐下载
-- chrome-百度网盘
-- 迅雷
+- chrome-[百度网盘下载-Aria2GUI](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
 - 虾米-听个虾米 声海盗
 
 #### 音乐整理
