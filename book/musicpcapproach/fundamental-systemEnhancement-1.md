@@ -88,6 +88,10 @@ CleanMyMac
 
 [XnViewMP](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XnViewMP)
 
+#### 桌面排布
+
+[iCollections](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/iCollections)
+
 = = = 碎碎念 = = =
 
 小调整：
