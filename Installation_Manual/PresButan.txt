@@ -12,8 +12,7 @@ PresButan.app
 
 系统设置 - 安全性与隐私 - 隐私 - 辅助功能 +PresButan.app
 (原 Universal Access)
-
-PresButan.app 添加到启动项 
+并把 PresButan.app 添加到启动项 
 
 
 
