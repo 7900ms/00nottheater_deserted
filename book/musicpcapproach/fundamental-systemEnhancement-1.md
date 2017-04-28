@@ -21,6 +21,9 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 #### 触发角
 [触发角](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/触发角.txt)
 
+#### 防误触cmdQ
+[防误触cmdQ](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/防误触cmdQ.txt)
+
 -
 
 #### App Store
@@ -42,10 +45,11 @@ AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意�
 +Day-O日历菜单栏
 +MenubarCountdown
 +鼠标右键 New File Menu
-
++[PresButan](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/PresButan.txt)
 +[XtraFinder](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XtraFinder)
 +[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
 +zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
++
 ~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
 ```
 
