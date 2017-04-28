@@ -1,0 +1,6 @@
+
+双开 MultiFirefox.app
+~/Library/Application Support/Firefox/Profiles/
+
+https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon
+
