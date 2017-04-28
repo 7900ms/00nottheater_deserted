@@ -13,8 +13,8 @@ FoxyProxy Standard
 
 Tab Utilities
 
-  (x)https://github.com/7900ms/noname/blob/master/TUprefs.txt
-  见本页的 
+  (x 老旧)https://github.com/7900ms/noname/blob/master/TUprefs.txt
+  见本页的最新
 
 鼠标摇杆手势
 
@@ -47,7 +47,7 @@ tab
 
   Tab Mix Plus
   https://github.com/7900ms/noname/blob/master/TMPpref.txt
-  (x 没有按钮用于“所有新标签在后台打开”)
+  (不用 Tab Mix Plus 因为没有按钮，用于“所有新标签在后台打开”)
 
 
 ```
