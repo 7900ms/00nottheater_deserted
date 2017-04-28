@@ -12,6 +12,10 @@ FoxyProxy Standard
   https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
   AutoProxy Base64
 
+Google
+
+  https://www.google.com/ncr
+
 Tab Utilities
 
   (x 老旧)https://github.com/7900ms/noname/blob/master/TUprefs.txt
