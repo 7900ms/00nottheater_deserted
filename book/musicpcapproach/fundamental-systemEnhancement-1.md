@@ -25,11 +25,16 @@ Finder 高级 - show all file extension
 #### SIP
 [关闭SIP](https://github.com/7900ms/nottheater_deserted/blob/master/supplementary/360安全卫士-系统修复-SIP.txt)
 
-#### 防止休眠
-[caffeine, Amphetamine_MAS](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Amphetamine)
-
 #### DS_Store清理和防生成
 [DS清理器 Asepsis](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/去掉-去掉DS_Store.txt)
+
+#### 防止休眠
+[caffeine, Amphetamine_MAS](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Amphetamine)
++XMenu
++StartNinja 开机声音关闭
++XtraFinder
++Day-O日历菜单栏
++MenubarCountdown
 
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
