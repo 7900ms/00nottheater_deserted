@@ -54,6 +54,10 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把六个东西都连
 [links文件夹](https://github.com/7900ms/00nottheater_deserted/blob/master/links.txt)
 把 rime 文件夹放进去 (~/Library/Rime)(必须知道电脑上都安了什么软件)
 
+> mkdir -p ~/E02/links
+> cd ~/E02/links
+> ln -s ~/Library/Rime .
+
 #### 任务栏
 [uBar](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/uBar)
 
