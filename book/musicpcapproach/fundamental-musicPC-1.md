@@ -7,6 +7,7 @@ music pc
 - MPlayerX(视频用)
 - Decibel (临时播放用)
 - [Safari](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Safari)
+- [ShadowsocksX-R](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/ShadowsocksX-R)
 - [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + Firefox (查资料用)
 
 
