@@ -25,6 +25,9 @@ music pc
 #### 视频播放器
 - MPlayerX
 
+#### 音乐记录
+以 playlist 为模样的 网络收藏夹
+
 = = = 碎碎念 = = =
 
 Clementine 播放器
