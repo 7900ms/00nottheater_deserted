@@ -53,4 +53,6 @@ https://www.v2ex.com/t/227934?p=2
 2bwm 不是平铺式窗口管理器(tiling wm: fvwm i3wm awesome)
 https://www.v2ex.com/t/227934?p=1
 
+选难的事：尽量用和 选最难的那帮人 一样的，跟他们走，不自己走。
+
 -
