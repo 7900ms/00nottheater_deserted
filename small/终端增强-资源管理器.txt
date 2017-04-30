@@ -40,5 +40,15 @@ emacs file browser
 ranger 文件管理器(允许鼠标) *
 https://www.v2ex.com/t/227934?p=2
 
+[5]
+电源管理 bin
+https://www.v2ex.com/t/227934?p=2
+
+[6]
+slim
+slim+fvwm 
+https://www.v2ex.com/t/227934?p=2
+
+
 
 -
