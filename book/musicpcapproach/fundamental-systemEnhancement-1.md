@@ -1,7 +1,7 @@
 
 # blog
 
-osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/blob/master/small/系统分划and防系统污染.md)” ，它能通过接口和 “其他系统” 连接。
+osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/blob/master/small/系统分划and防系统污染.md)” ，它能通过接口和 “其他系统” 通信，在热插拔的连接之后。
 
 它是一个电脑系统，其他都不重要。软件的作用是重要的，特性是不重要的。这个民用系统的（琐碎特性），其实是不重要的。
 
