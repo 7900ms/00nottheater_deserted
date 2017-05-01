@@ -19,7 +19,7 @@ music pc
 音乐播放 标签处理 重命名工具 (with [CrossOver](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/CrossOver) win7)
 
 #### 音乐下载
-- chrome-[百度网盘下载-Aria2GUI](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
+- [Chrome](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Chrome)-[百度网盘下载-Aria2GUI](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
 - 虾米-听个虾米 声海盗
 
 #### 音乐整理
