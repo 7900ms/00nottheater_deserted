@@ -17,6 +17,8 @@ music pc
 #### foobar2000
 - foobar2000
 音乐播放 标签处理 重命名工具 (with [CrossOver](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/CrossOver) win7)
+- 格式转换
+格式转换-Total_Video_Converter_Lite(MAS)
 
 #### 音乐下载
 - [Chrome](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Chrome)-[百度网盘下载-Aria2GUI](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
