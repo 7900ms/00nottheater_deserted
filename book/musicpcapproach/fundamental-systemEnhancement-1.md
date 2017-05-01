@@ -28,6 +28,9 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 #### 防误触cmdQ
 [防误触cmdQ](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/防误触cmdQ.txt)
 
+#### 最近使用程序
+[最近使用程序](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/recent-applications.txt)
+
 -
 
 #### App Store
