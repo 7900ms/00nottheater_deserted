@@ -3,5 +3,6 @@ foobar2000 是一个可以显示歌词、搜索歌词的播放器。类似的还
 
 如果想备份 foobar2000 的歌词，复制一份到 dropbox 即可
 
+[千千静听5](https://tieba.baidu.com/p/2467145631)
 
 -
