@@ -1,6 +1,6 @@
 
 已做好的：
-- “民用系统” (和“其他系统”接口连接)
+- “民用系统” (和“其他系统”接口连接 [无污染](https://github.com/7900ms/00nottheater_deserted/blob/master/small/系统分划and防系统污染.md))
 - 2个民用系统
 - 用民用系统的人，不用跟人抬杠 (抬杠、广告、自说自话) <br>
 mac 和 LXDE on Fedora ，不用安太多软件
