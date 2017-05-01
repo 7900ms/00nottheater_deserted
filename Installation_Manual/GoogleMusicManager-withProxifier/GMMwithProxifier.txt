@@ -5,21 +5,6 @@ Google Music Manager (Mac)
 下载
 https://play.google.com/music/listen?u=0#/manager
 
-联网
-```
-小小办法（失败）
-Proxifier 退出
-ssr PAC模式
-(没有代理设置)(代理 1080)
-
-终极办法
-Proxifier Default 覆盖
-Proxifier +MusicManager.app 1080
-ssr PAC模式
-(没有代理设置)代理 自动检测
-
-```
-
 登入
 OK 借助Proxifier
 
@@ -30,6 +15,22 @@ OK 借助Proxifier
 https://play.google.com/music
 
 -
+
+
+联网
+```
+小小办法（失败）
+Proxifier 退出
+ssr PAC模式 / 全局模式
+(没有代理设置)(代理 1080)
+
+终极办法
+Proxifier Default 覆盖
+Proxifier +MusicManager.app 1080
+ssr PAC模式
+(没有代理设置)代理 自动检测
+
+```
 
 说明1：
 ssr PAC模式和全局模式 不能支持 GMM 登入
