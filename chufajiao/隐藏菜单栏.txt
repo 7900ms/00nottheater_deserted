@@ -1,0 +1,10 @@
+
+mac hide menu bar
+
+10.11.5
+System Preferences > General. Next, check the box for Automatically hide and show the menu bar
+
+10.10.5
+http://osxdaily.com/2011/02/24/hide-mac-menu-bar/
+
+-
