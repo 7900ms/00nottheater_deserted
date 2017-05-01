@@ -35,7 +35,7 @@ music pc
 
 #### 音乐记录
 以 playlist 为模样的 网络收藏夹<br>
-(音乐专题)
+([虾米音乐专题](http://www.xiami.com/event/templates-more/c/2#template))
 
 = = = 碎碎念 = = =
 
