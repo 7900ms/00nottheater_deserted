@@ -29,7 +29,7 @@ music pc
 - 虾米-听个虾米 声海盗
 
 #### 音乐整理
-- dropbox-lyrics
+- [Dropbox](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Dropbox)-lyrics
 - [Chrome](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Chrome)-[在线GoogleMusic](https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md)
 - [GoogleMusicManager.app(withProxifier)](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/GoogleMusicManager-withProxifier)-上传音乐
 
