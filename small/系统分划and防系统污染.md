@@ -32,6 +32,6 @@
 民用系统：
 很少的软件
 对其他系统的接口
-美化(软件menu or Launchpad)
+美化(start menu or Launchpad)
 
 -
