@@ -22,3 +22,16 @@ http://music.163.com/#/m/song?id=186114
 NeteaseMu   866 hong   22w     REG                1,4       1198 3911953 /Users/hong/Library/Saved Application State/com.netease.163music.savedState/windows.plist
 NeteaseMu   866 hong   34w     REG                1,4    4788183 4437551 /Users/hong/Library/Containers/com.netease.163music/Data/Caches/online_play_cache/186001-_-_128-_-_d08add8397181cefb1014a7b09ee4a92.uc!
 
+=
+
+
+可用：
+豆瓣电台_AtPill_MAS
+
+不可用：
+豆瓣电台_歌词_LessDJ_v1.6
+
+无用：
+豆瓣电台_歌词_LessLyrics_latest.tar
+
+
