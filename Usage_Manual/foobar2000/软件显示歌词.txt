@@ -1,5 +1,5 @@
 
 会显示 这里的歌词
-win7/drive_c/Program Files/foobar2000/lyrics/梁静茹 - 我还记得.lrc
+~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000/lyrics/梁静茹 - 我还记得.lrc
 
 -
