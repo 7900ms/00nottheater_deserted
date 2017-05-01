@@ -1,4 +1,8 @@
 
 “最近使用的程序”
 
+终端输入
+defaults write com.apple.dock persistent-others -array-add '{ "tile-data" = { "list-type" = 1; }; "tile-type" = "recents-tile"; }'
+killall Dock
+
 https://www.lifewire.com/add-recent-applications-stack-to-dock-2260860
