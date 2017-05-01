@@ -20,9 +20,9 @@ https://github.com/7900ms/0nottheater_deserted/blob/master/fvwm.txt
 
 民用系统，不用安太多软件，不用折腾。
 
-软件的作用是重要的，特性是不重要的。 
+> 软件的作用是重要的，特性是不重要的。
 
-这里都是 **特性型软件** ，不是作用型软件。所以没有形成完成的思路，似乎也不需要
+本页记录的都是 **特性型软件** ，不是作用型软件 ———— 所以不用跟人抬杠(抬杠、广告、自说自话)。所以没有形成完成的思路，似乎也不需要
 
 省电 Endurance.app
 https://www.producthunt.com/@dustin/collections/menubar-apps
