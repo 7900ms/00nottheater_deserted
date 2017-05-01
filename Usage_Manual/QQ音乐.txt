@@ -5,3 +5,20 @@ https://y.qq.com/download
 歌曲位置 当前播放
 ~/Library/Containers/com.tencent.QQMusicMac/Data/Library/Application Support/QQMusicMac/iTemp/playing/QQMusicCache-410314-13-0.tm3
 
+=
+
+
+网易云音乐 歌曲位置
+周杰伦 - 爱在西元前
+http://music.163.com/#/m/song?id=186114
+
+~/Library/Containers/com.netease.163music/Data/Caches/online_play_cache/186114-_-_128-_-_d2becd582ead07365fefb5442cbb077e.uc!
+
+检测办法
+打开网易云音乐，随便播放一首没有听过的歌曲。然后运行下面的命令，
+
+>lsof | grep -e "[[:digit:]]\+w" | grep -i netease
+
+NeteaseMu   866 hong   22w     REG                1,4       1198 3911953 /Users/hong/Library/Saved Application State/com.netease.163music.savedState/windows.plist
+NeteaseMu   866 hong   34w     REG                1,4    4788183 4437551 /Users/hong/Library/Containers/com.netease.163music/Data/Caches/online_play_cache/186001-_-_128-_-_d08add8397181cefb1014a7b09ee4a92.uc!
+
