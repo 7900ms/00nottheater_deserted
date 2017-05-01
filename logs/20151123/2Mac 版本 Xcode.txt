@@ -1,0 +1,30 @@
+
+版本更替
+
+
+OS X El Capitan 10.11.1 （2015年11月 MAS ）
+OS X Yosemite 10.10.5 & Xcode 7 （貌似是 Y 的最后一个版本）
+OS X Yosemite 10.10.3 & Xcode 7 beta（我用过）
+
+https://support.apple.com/downloads/
+验证
+https://support.apple.com/zh-cn/HT202369
+
+=
+
+版本问题：
+Yosemite 10.10.3 不支持 Xcode 7.1.1
+Yosemite 10.10.3  支持 Xcode 7 beta
+
+OS X 10.10.4 支持 Xcode 7 
+
+=
+
+「
+
+Xcode 7.1 适用于 OS X Yosemite v10.10.5 或更高
+Xcode 7.0 适用于 OS X Yosemite v10.10.4 或更高  【】
+Xcode 7 beta  适用于 OS X Yosemite v10.10.3 或更高  【】
+Xcode 6.3 适用于 OS X Yosemite v10.10 或更高版本 
+https://support.apple.com/zh-cn/HT201222 
+
