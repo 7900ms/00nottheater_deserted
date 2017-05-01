@@ -8,6 +8,9 @@ killall Finder
 defaults write com.apple.finder AppleShowAllFiles -bool false
 killall Finder
 
+Finder标题栏显示完整路径
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool TRUE
+killall Finder
 
 清理某一个文件夹和其子文件夹下的 DS_Store
 > cd /Users
