@@ -9,6 +9,7 @@ ssr PAC模式
 
 终极办法
 Proxifier Default 覆盖
+Proxifier +Dropbox.app 1080
 ssr PAC模式
 代理 自动检测
 
