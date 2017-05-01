@@ -1,4 +1,9 @@
 
+```
+proxy
+
+  SwitchyOmega
+
 flash
 
   StopFlash Flash Blocker 由Juloo[提供](https://chrome.google.com/webstore/detail/stopflash-flash-blocker/oiiohfpnbijbgdidjfcpcljcfbmkaooi)
@@ -8,7 +13,7 @@ flash
   声海盗(Sound Pirate)
   
   听个虾米
-  
+```
 
 === 碎碎念 ===
 
