@@ -3,6 +3,7 @@
 proxy
 
   SwitchyOmega
+  curl -O https://github.com/7900ms/00nottheater_deserted/raw/master/Usage_Manual/Chrome/chrome-SwitchyOmega.bak
 
 flash
 
