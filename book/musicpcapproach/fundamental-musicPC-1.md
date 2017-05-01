@@ -3,6 +3,7 @@ music pc
 
 (必须知道电脑上都安了什么软件。写一个放一个)
 ~/Library/Application Support/XMenu/Custom/Programs
+安完大约18G
 
 #### 预装软件
 - [ST](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/ST)(写歌词本用)
