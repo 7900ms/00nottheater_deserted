@@ -1,5 +1,5 @@
 
-[Google Music](https://play.google.com/music)
+[▶️ Google Music](https://play.google.com/music)
 
 Google Music Lyrics 如何显示歌词(扩展程序)
 
