@@ -3,6 +3,15 @@
 10.11.5 默认的 safari 版本是 9.1.1 。为了使用 mama2 请降级 ———— 然而，10.11.5的Safari无法降级
 (不要升级)
 
+mama2
+supported by safari 808 only
+safari 808
+supported by 10.10.5 only
+顶部的可隐藏的菜单栏
+supported by 10.11.5 only
+
+=
+
 下载后打开 取消
 safari － 偏好设置 － 通用 － 下载后打开 取消勾选
 
@@ -13,7 +22,7 @@ safari － 偏好设置 － 通用 － 下载后打开 取消勾选
 ublock
 Lastpass
 ClickToFlash
-mama2 (Safari 9.1.2)
+mama2 (supported by Safari 8.0.8)
 Xunlei
 
 == safari 降级 ==
