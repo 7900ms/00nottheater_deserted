@@ -7,9 +7,11 @@ google photos, music
 authy
 workflow
 twitter telegram skype
+GMail
 1992
 wechat alipay qq
 shadowrocket
+QQ邮箱
 音乐圈
 
 
