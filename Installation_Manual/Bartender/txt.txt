@@ -1,0 +1,12 @@
+
+
+
+额外文件
+
+    /Library/ScriptingAdditions/BartenderHelper.osax
+
+    /Library/PrivilegedHelperTools/com.surteesstudios.Bartender.BartenderInstallHelper
+
+
+
+-
