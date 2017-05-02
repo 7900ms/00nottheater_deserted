@@ -2,11 +2,11 @@
 ```
 预装软件
 1776
-twitter
+Browser and File Manager
 google photos, music
 authy
 workflow
-telegram skype
+twitter telegram skype
 1992
 wechat alipay qq
 shadowrocket
