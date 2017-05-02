@@ -10,5 +10,11 @@ Bartender 2.1.6
     /Library/PrivilegedHelperTools/com.surteesstudios.Bartender.BartenderInstallHelper
 
 
+= = = 碎碎念 = = =
+
+下载
+https://www.waitsun.com/bartender-2-1-6.html
+说明
+https://www.waitsun.com/bartender-2-1-0.html
 
 -
