@@ -7,7 +7,7 @@ osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/
 
 #### 鼠标滚轮
 系统偏好设置 - 自然方向 取消
-time machine 关，安全和隐私 - FileVault 关，防火墙 关
+time machine 关，安全和隐私 - FileVault 关，防火墙 关，键盘灯 关
 
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
