@@ -56,11 +56,11 @@ AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意�
 +[XtraFinder](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/XtraFinder)
 +[TextEdit](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextEdit)
 +zip (keka,TheUnarchiver)[link](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Keka)
-+
++[Bartender](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Bartender)
 ~~[TextWrangler](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/TextWrangler)~~
 ```
 
-mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把十个东西都连进去(必须知道电脑上都安了什么软件。写一个放一个)
+mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把十一个东西都连进去(必须知道电脑上都安了什么软件。写一个放一个)
 
 (下载命令 "curl -O http://xxxxx.plist" )
 
