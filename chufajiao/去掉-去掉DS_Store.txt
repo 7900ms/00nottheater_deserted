@@ -21,8 +21,9 @@ DS清理器Asepsis+SIP关闭
 
 
 关闭SIP
-touch ~/.no-asepsis-os-restriction 并安装
-重启
+touch ~/.no-asepsis-os-restriction
+touch ~/.asepsis-suppress-update-errors
+并安装,然后重启
 
 After reboot .DS_Store files are no longer created when you open Finder and browse folders (in case .DS_Store files are not already present there).
 
