@@ -8,7 +8,13 @@ osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/
 #### 鼠标滚轮
 系统偏好设置 - 自然方向 取消
 
+#### 输入法
+输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
+
+(输入法切换 系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
+
 #### 开机登入
+系统偏好设置 - 
 
 #### 后缀名
 Finder 高级 - show all file extension
@@ -72,11 +78,6 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把十一个东西都
 去掉 下载后打开文件
 
 [flash](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt)
-
-#### 输入法
-输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
-
-(输入法切换 系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
 
 #### links文件夹
 [links文件夹](https://github.com/7900ms/00nottheater_deserted/blob/master/links.txt)
