@@ -12,19 +12,35 @@ DNS 解析错误
 目标：
 打开网站
 
-终极办法：
+小小办法：
 远程解析 DNS
 
-G dns污染 shadowsocks
+终极办法：
+()
 
 = 终端 =
 
 目标：
 dig facebook.com 有能访问的IP
 
+小小办法：
+fqt(不成)
+
+小小办法：
+dig facebook.com @8.8.8.8
+dig +tcp facebook.com @8.8.8.8 (不成)
+(主动被劫持，“主动去撞到” tcp reset,不加tcp是劫持到空网址，加tcp是tcp reset)
+
 终极办法：
+dig +tcp facebook.com @127.0.0.1 -p 40
 
 
+= = = 碎碎念 = = =
 
+浏览器 - 小小办法
+G dns污染 shadowsocks
+
+终端 - 终极办法
+DNSCrypt(brew install dnscrypt-proxy) + DNSMasq(域名分发器)(brew install dnsmasq)
 
 -
