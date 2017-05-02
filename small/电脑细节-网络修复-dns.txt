@@ -41,6 +41,10 @@ dig +tcp facebook.com @127.0.0.1 -p 40
 浏览器 - 小小办法
 G dns污染 shadowsocks
 
+ss 自带远程解析 DNS 的功能
+只要把本地上网的 DNS 胡乱设置一下，如把本地 DNS 设置成 1.1.1.1 显然，如果是后一种假设，DNS 解析会不成功。但实际上浏览器设置好了 DNS 远程解析 ( ss 全局模式 ) 以后，浏览器上网页是 OK 的
+https://www.douban.com/note/61150512/
+
 终端 - 终极办法
 DNSCrypt(brew install dnscrypt-proxy) + DNSMasq(域名分发器)(brew install dnsmasq)
 
