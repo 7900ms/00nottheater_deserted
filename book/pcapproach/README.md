@@ -6,8 +6,8 @@
 事办了，材省着。(不用抬杠说‘省着干嘛使’ -- 不省着怎么延长使用寿命？ )
 
 <br><br>
-those who being extravagant; luxurious; wasteful. Who cares. I have a more durable machine. Move on.
-基本上，装机的时候把必备的装上，然后就很少安装软件了，专心干别的去 (甚至不用听那些软件 广告、抬杠、自说自话)
+those who being extravagant; luxurious; wasteful. Who cares. I have a more durable machine. Move on. <br>
+基本上，装机的时候把必备的装上，然后就很少安装软件了，专心学习、生活、看书、干别的 ———— 就不用再整电脑了 (不用听那些电脑装机城小哥的了，那些软件 广告、抬杠、自说自话)
 <br><br>
 
 机子 应该简单 精简。不用那么复杂。零件化就够了 不用奢靡感
