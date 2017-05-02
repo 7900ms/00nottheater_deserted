@@ -5,6 +5,7 @@
 twitter
 google photos
 google music
+authy
 1992
 wechat
 shadowrocket
