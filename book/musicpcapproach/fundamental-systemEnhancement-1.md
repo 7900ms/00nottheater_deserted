@@ -48,6 +48,7 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 AppStore - 不要自动更新(系统设置-不检查更新),允许安装任意安装包(系统设置-安全与隐私-允许任意安装包) (关闭防火墙和FileVault-默认关闭)
 
 #### Xcode Command Line Tools
+[Xcode Command Line Tools](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Xcode-Command-Line-Tools)
 
 #### SIP
 [关闭SIP](https://github.com/7900ms/nottheater_deserted/blob/master/supplementary/360安全卫士-系统修复-SIP.txt)
