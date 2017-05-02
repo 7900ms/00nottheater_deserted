@@ -3,6 +3,8 @@
 
 (LXDE - GUI软件 PCMan File Manager)File managers tree view
 https://en.wikipedia.org/wiki/PCMan_File_Manager
+ranger
+https://en.wikipedia.org/wiki/Console_application
 
 == 何时使用 ==
 
