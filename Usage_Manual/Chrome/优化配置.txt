@@ -1,6 +1,8 @@
 
 清除DNS缓存
   chrome://net-internals/#dns
+禁 DNS 缓存
+  Chrome – > 扳手 – > 选项 – > 高级选项 – > 去勾 “预测网络操作，以提高网页载入速度”
 
 https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon
 
