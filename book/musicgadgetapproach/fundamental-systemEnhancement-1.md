@@ -3,14 +3,12 @@
 预装软件
 1776
 twitter
-google photos
-google music
+google photos, music
 authy
 workflow
-telegram
-skype
+telegram skype
 1992
-wechat
+wechat alipay qq
 shadowrocket
 音乐圈
 
