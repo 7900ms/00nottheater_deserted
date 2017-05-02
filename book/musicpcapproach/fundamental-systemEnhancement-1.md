@@ -31,6 +31,10 @@ Finder - 边栏 - 硬盘 外置磁盘 外置设备 CD-DVD-iPod
 #### 最近使用程序
 [最近使用程序](https://github.com/7900ms/00nottheater_deserted/blob/master/chufajiao/recent-applications.txt)
 
+#### 分辨率
+一般上网 1152 x 720
+游戏最大 1440 x 900
+
 -
 
 #### App Store
