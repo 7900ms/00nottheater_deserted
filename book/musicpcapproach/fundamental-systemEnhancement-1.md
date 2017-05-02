@@ -9,8 +9,6 @@ osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/
 系统偏好设置 - 自然方向 取消
 time machine 关，安全和隐私 - FileVault 关，防火墙 关，键盘灯 关，f1当作功能键 ✓ ，去掉Spotlight的快捷键，音量在菜单栏
 
-Finder 排序 Date Added, icon视图
-
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
@@ -24,6 +22,7 @@ Finder 排序 Date Added, icon视图
 
 #### 后缀名
 Finder 高级 - show all file extension
+Finder 排序 Date Added, icon 视图，不用 columns 视图
 
 #### 菜单栏 **
 系统偏好设置 - 通用 - 自动隐藏菜单栏
@@ -79,7 +78,7 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把十一个东西都
 (下载命令 "curl -O http://xxxxx.plist" )
 
 #### Safari
-去掉 下载后打开文件
+去掉 安全的文件下载后打开
 
 [flash](https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt)
 
