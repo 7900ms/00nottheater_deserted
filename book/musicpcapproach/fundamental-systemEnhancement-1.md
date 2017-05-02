@@ -7,6 +7,7 @@ osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/
 
 #### 鼠标滚轮
 系统偏好设置 - 自然方向 取消
+time machine 关，安全和隐私 - FileVault 关，防火墙 关
 
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
@@ -14,15 +15,15 @@ osx 是一个 “[民用系统](https://github.com/7900ms/00nottheater_deserted/
 (输入法切换 系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
 
 #### 开机登入
-系统偏好设置 - 
-
-#### 后缀名
-Finder 高级 - show all file extension
+系统偏好设置 - Users & Group - login option - 自动登入
 
 #### dock窗口最小化方式
 系统偏好设置 - dock - 缩放效果(默认是神奇效果)
 
-#### 菜单栏
+#### 后缀名
+Finder 高级 - show all file extension
+
+#### 菜单栏 -
 系统偏好设置 - 通用 - 自动隐藏菜单栏
 
 #### 文件管理器
