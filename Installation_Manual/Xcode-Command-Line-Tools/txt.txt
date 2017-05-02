@@ -3,7 +3,7 @@ Xcode Command Line Tools
 
 > gcc
 (> xcode-select --install)
-(不需要点‘获取Xcode’)
+(点‘Install’。不需要点‘获取Xcode’)
 
 ref
 http://railsapps.github.io/xcode-command-line-tools.html
