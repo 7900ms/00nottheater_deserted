@@ -18,7 +18,7 @@ rm -rf ~/Library/Google
 
 mv ~/Library/Google/GoogleSoftwareUpdate ~/Library/Google/GoogleSoftwareUpdate-1
 
-终极办法
+小小办法(不灵)
 > defaults write com.google.Keystone.Agent checkInterval 0
 
 
