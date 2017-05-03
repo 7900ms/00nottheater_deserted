@@ -1,21 +1,17 @@
 
-#### 版本
+#### Chrome 版本
 
 不支持拖入插件
 googlechrome_51.0.2704.79.dmg，51 57
 
-#### 第三方插件安装
-
-[安装第三方 chrome 插件](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
-
-#### 卸载
+#### Chrome 的卸载
 
 额外删除
 ```
 rm -rf ~/Library/Application\ Support/Google/Chrome
 rm -rf ~/Library/Google
 ```
-#### 关闭自动更新
+#### Chrome 关闭自动更新
 (在 Proxifier Default覆盖 的情况下 会自动更新)
 
 小小办法(不灵)
@@ -25,6 +21,9 @@ mv ~/Library/Google/GoogleSoftwareUpdate ~/Library/Google/GoogleSoftwareUpdate-1
 小小办法(不灵)
 > defaults write com.google.Keystone.Agent checkInterval 0
 
+#### 第三方插件安装
+
+[安装第三方 chrome 插件](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
 
 ```
 proxy
