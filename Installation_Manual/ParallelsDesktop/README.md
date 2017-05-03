@@ -14,6 +14,14 @@ ParallelsDesktop-12.2
 HandOff!切断网络<br>
 (安完后666MB)<br>
 
+-
 
+```
+下载
+http://xclient.info/s/parallels-desktop.html
+Parallels Desktop Business Edition 12.2.0-41591 [TNT].dmg.zip
+magnet:?xt=urn:btih:B219AFA0B62595C6E303DCB2BCA7D23EC7B0CE35
+
+```
 
 -
