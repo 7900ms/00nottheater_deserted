@@ -107,7 +107,7 @@ mkdir -p ~/Library/Application\ Support/XMenu/Custom/Tools 把十一个东西都
 #### 防火墙 驱动 卸载
 handsOff![防火墙](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/HandsOff)
 
-NTFS驱动 Paragon_NTFS
+NTFS驱动 [Paragon_NTFS](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/ParagonNTFS)
 
 AppCleaner
 
