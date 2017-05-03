@@ -16,12 +16,11 @@ rm -rf ~/Library/Google
 #### 关闭自动更新
 (在 Proxifier Default覆盖 的情况下 会自动更新)
 
-小小办法
+小小办法(不灵)
 
 mv ~/Library/Google/GoogleSoftwareUpdate ~/Library/Google/GoogleSoftwareUpdate-1
 
 终极办法
-
 > defaults write com.google.Keystone.Agent checkInterval 0
 
 
