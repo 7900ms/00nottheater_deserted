@@ -7,12 +7,16 @@
 
 = = = 安装 = = =
 
+网盘助手(导出到aria2/aria2-rpc)
+https://github.com/acgotaku/BaiduExporter
+网盘助手安装到 Chrome
+Chrome - Extentions(Developer Mode) - Load unpacked extensions - 指到 BaiduExporter/chrome 文件夹
+
 Aria2GUI
 下载地址 https://github.com/yangshun1029/aria2gui
 
 安装 Aria2GUI.app , 配合 chrome 插件
 aria2+网盘助手(导出到aria2/aria2-rpc)
-https://github.com/acgotaku/BaiduExporter
 
 = = = 测试 = = =
 
