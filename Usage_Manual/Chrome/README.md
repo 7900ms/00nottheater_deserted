@@ -1,13 +1,22 @@
 
-版本
+#### 版本
+
 支持拖入插件
 googlechrome_51.0.2704.79.dmg，
 不支持拖入插件
 57
 
-关闭自动更新
+#### 关闭自动更新
 (在 Proxifier Default覆盖 的情况下 会自动更新)
+
+小小办法
+
+mv ~/Library/Google/GoogleSoftwareUpdate ~/Library/Google/GoogleSoftwareUpdate-1
+
+终极办法
+
 > defaults write com.google.Keystone.Agent checkInterval 0
+
 
 ```
 proxy
