@@ -1,3 +1,21 @@
+
+[卸载旧版](http://www.macappstore.net/tips/parallels-desktop-uninstall/)
+
+用 AppCleaner 之后
+
+sudo rm -rf /Users/这里改成你的系统用户名/Library/Preferences/com.parallel*
+
+sudo rm -rf /Users/这里改成你的系统用户名/Library/Parallels
+
+sudo rm -rf /private/var/db/Parallels
+
+sudo rm -rf /Library/Logs/parallels*
+
+sudo rm -rf /Library/Preferences/Parallels
+
+sudo  rm -rf  /private/var/.Parallels_swap
+
+
 ```
 版本
 10.10.5
