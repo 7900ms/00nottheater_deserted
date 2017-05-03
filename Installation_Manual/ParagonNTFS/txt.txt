@@ -1,0 +1,10 @@
+
+版本
+14: 支持10.8-10.11
+15: 支持10.12
+
+12 free 官方
+http://www.paragon-drivers.com/cn/ntfs-mac-free/ntfs-free.html
+
+
+-
