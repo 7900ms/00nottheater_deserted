@@ -14,7 +14,9 @@ http://www.paragon-drivers.com/cn/ntfs-mac-free/ntfs-free.html
 
 
 软件<2>的破解步骤
-安装
+安装,不重启
+运行脚本 > sudo -i install_ntfs14_refresh.sh
+重启
 
 
 = = = 碎碎念 = = =
