@@ -60,7 +60,7 @@ Preferences - setting - user
 
 Licence
 
-```
+
 ----- BEGIN LICENSE -----
 Affinity Computer Technology
 10 User License
