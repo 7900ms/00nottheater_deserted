@@ -82,6 +82,9 @@ game
 
 ```
 
+```
 关闭自动更新
 http://www.chromium.org/administrators/turning-off-auto-updates
 G google chrome disable update mac
+http://wikieswan.github.io/2015/10/20/mac-shout-down-chrome-update
+```
