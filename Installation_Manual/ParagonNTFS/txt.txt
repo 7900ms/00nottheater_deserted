@@ -19,7 +19,7 @@ https://www.macnwins.com/paragon-ntfs-for-mac-14-2-359-full-crack/
 执行两个命令，依次 
 > sudo -i
 > . install_ntfs14_refresh.sh
-重启
+重启。破解的效果是每次重启都有(每次都是新的)10天试用期
 
 
 = = = 碎碎念 = = =
