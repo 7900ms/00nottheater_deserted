@@ -41,6 +41,11 @@ flash
   声海盗(Sound Pirate)
   
   听个虾米
+
+广告过滤
+
+  ublock
+
 ```
 
 === 碎碎念 ===
