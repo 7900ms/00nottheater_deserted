@@ -16,7 +16,8 @@ time machine 关，安全和隐私 - FileVault 关，防火墙 关，键盘灯 �
 
 #### 触摸板
 触摸板 单击打开、三指拖动选文字
-tap to click (one finger),
+Trackpad - tap to click (one finger) 打开, MissionControl三指取消
+Accessibility - Mouse&Trackpad - Trackpad Options - Enable Dragging 3 finger drag
 
 #### 开机登入
 系统偏好设置 - Users & Group - login option - 自动登入
