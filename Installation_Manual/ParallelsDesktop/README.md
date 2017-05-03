@@ -9,10 +9,10 @@ ParallelsDesktop-12.0.2-41353.dmg
 ```
 
 安装：
-断网安装
-断网run第一次
-HandOff!切断网络
-(安完后666MB)
+断网安装<br>
+断网run第一次<br>
+HandOff!切断网络<br>
+(安完后666MB)<br>
 
 
 
