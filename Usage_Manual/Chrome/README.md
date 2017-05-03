@@ -18,6 +18,8 @@ proxy
 flash
 
   StopFlash Flash Blocker 由Juloo[提供](https://chrome.google.com/webstore/detail/stopflash-flash-blocker/oiiohfpnbijbgdidjfcpcljcfbmkaooi)
+  
+  chrome://settings/content
 
 音乐
 
