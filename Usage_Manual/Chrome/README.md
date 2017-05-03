@@ -42,6 +42,8 @@ flash
   
   听个虾米
 
+  https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md
+
 广告过滤
 
   ublock
