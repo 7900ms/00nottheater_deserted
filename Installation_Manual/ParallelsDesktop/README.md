@@ -32,6 +32,8 @@ ParallelsDesktop-12.2
 HandOff!切断网络<br>
 (安完后666MB)<br>
 
+关闭更新
+
 -
 
 ```
