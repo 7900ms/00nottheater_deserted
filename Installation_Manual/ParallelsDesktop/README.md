@@ -1,4 +1,13 @@
 
+#### 卸载
+
+容器、软件、清理
+
+1. 关闭所有 "虚拟机容器" 的 应用共享 功能
+
+2. AppCleaner 卸载
+
+3.
 [卸载旧版](http://www.macappstore.net/tips/parallels-desktop-uninstall/)
 
 用 AppCleaner 之后
