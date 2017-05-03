@@ -3,7 +3,7 @@
 10.10.5
 ParallelsDesktop-12.0.2-41353.dmg
 10.11.5
-ParallelsDesktop-12.0.2-41353.dmg
+ParallelsDesktop-12.2
 
 
 ```
