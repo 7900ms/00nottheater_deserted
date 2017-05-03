@@ -10,12 +10,15 @@ http://www.paragon-drivers.com/cn/ntfs-mac-free/ntfs-free.html
 (10.10.5)
 <1>112_z_(OLD)破解Paragon_NTFS_10.1.78-www.chinamac.com-苹果在线.dmg
 (10.11.5)
-<2>ParagonNTFS14.2.359_Cr https://www.macnwins.com/paragon-ntfs-for-mac-14-2-359-full-crack/
+<2>ParagonNTFS14.2.359_Cr.zip
+https://www.macnwins.com/paragon-ntfs-for-mac-14-2-359-full-crack/
 
 
 软件<2>的破解步骤
 安装,不重启
-执行两个命令，依次  ```sudo -i```  ```. install_ntfs14_refresh.sh```
+执行两个命令，依次 
+> sudo -i
+> . install_ntfs14_refresh.sh
 重启
 
 
