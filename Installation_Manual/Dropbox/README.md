@@ -14,4 +14,8 @@ ssr PAC模式
 代理 自动检测
 
 ```
+
+给予权限
+系统设置 - 安全与隐私 - 隐私 - 辅助功能Accessibility - 添加Dropbox.app
+
 -
