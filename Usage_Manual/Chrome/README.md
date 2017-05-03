@@ -1,7 +1,7 @@
 
 版本
 支持拖入插件
-googlechrome_51.0.2704.79.dmg
+googlechrome_51.0.2704.79.dmg，
 不支持拖入插件
 57
 
