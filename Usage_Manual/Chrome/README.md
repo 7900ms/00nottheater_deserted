@@ -10,6 +10,7 @@ googlechrome_51.0.2704.79.dmg，
 
 额外删除
 
+rm -rf ~/Library/Application\ Support/Google/Chrome
 rm -rf ~/Library/Google
 
 #### 关闭自动更新
