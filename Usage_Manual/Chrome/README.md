@@ -4,6 +4,10 @@
 不支持拖入插件
 googlechrome_51.0.2704.79.dmg，51 57
 
+#### 第三方插件安装
+
+[安装第三方 chrome 插件](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/baiduWangpan)
+
 #### 卸载
 
 额外删除
