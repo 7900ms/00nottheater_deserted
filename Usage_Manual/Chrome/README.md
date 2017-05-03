@@ -6,6 +6,12 @@ googlechrome_51.0.2704.79.dmg，
 不支持拖入插件
 57
 
+#### 卸载
+
+额外删除
+
+rm -rf ~/Library/Google
+
 #### 关闭自动更新
 (在 Proxifier Default覆盖 的情况下 会自动更新)
 
