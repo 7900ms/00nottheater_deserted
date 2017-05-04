@@ -1,4 +1,4 @@
-
+```
 1.
 新建容器 win7
 ~/Library/Application Support/CrossOver/Bottles/win7
@@ -42,3 +42,4 @@ https://www.codeweavers.com/support/wiki/mac/faq/cxoffice62_choosedifferentlangu
 
 脑容量回收站
 https://www.zhihu.com/question/24310666/answer/40138485
+```
