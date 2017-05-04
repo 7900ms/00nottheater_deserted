@@ -1,2 +1,6 @@
 
 Applications - Share - share windows app with mac 取消，share mac app with windows 取消
+
+在不需要 融合模式 的情况下，就这么呆着就OK
+
+-
