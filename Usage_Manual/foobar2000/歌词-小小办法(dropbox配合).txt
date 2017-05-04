@@ -4,7 +4,7 @@ crossover foobar2000
 ~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
 
 歌词路径：
-Y:\Dropbox\lyrics aka(~/Dropbox/lyrics) 【 **_dropbox配合_** `sudo ln -s /Users/$(logname)/Dropbox /Dropbox` 】
+Y:\Dropbox\lyrics aka(~/Dropbox/lyrics) 【 **_dropbox配合_** `sudo ln -s /Users/$(logname)/Dropbox /Dropbox` `sudo ln -s /Users/$(logname)/Desktop /Desktop` 】
 Z:\Dropbox\lyrics aka(/Dropbox/lyrics)  【 ✓ 】
 
 ### 共享搜索办法
