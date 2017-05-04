@@ -32,6 +32,7 @@ ParallelsDesktop-12.0.2-41353.dmg
 10.11.5
 ParallelsDesktop-12.2
 Parallels Desktop-12.1.3-41532 by Gentleman
+parallels 9 ？
 
 ```
 
@@ -58,5 +59,8 @@ http://www.macx.cn/thread-2188899-1-1.html
 ```
 
 [破解办法](http://www.macappstore.net/parallels-desktop-12-po-jie)
+
+[PD一直开是否费电](https://www.mobile01.com/topicdetail.php?f=481&t=4496415)
+
 
 -
