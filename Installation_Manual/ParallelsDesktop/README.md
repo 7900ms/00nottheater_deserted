@@ -37,7 +37,19 @@ parallels 11 正式可以
 
 ```
 
-### 安装
+#### 官方下载
+
+http://www.parallels.com/cn/products/desktop
+
+
+#### 不断获取新的试用期
+
+cd /Library/Preferences/Parallels
+https://www.youtube.com/watch?v=Wo83lXznZfs
+
+<hr>
+
+### 破解版的安装
 安装：<br>
 断网安装<br>
 断网run第一次<br>
@@ -46,12 +58,8 @@ HandOff!切断网络<br>
 
 关闭更新
 
-### 不断获取新的试用期
 
-cd /Library/Preferences/Parallels
-https://www.youtube.com/watch?v=Wo83lXznZfs
 
--
 
 ```
 下载
