@@ -14,6 +14,9 @@ OK 借助Proxifier
 ▶️ 播放
 https://play.google.com/music
 
+重启后上传
+OK 借助Proxifier
+
 -
 
 
@@ -39,7 +42,7 @@ Proxifier 用最大性能 开Default覆盖，Rules: "Default覆盖,MusicManager.
 说明3：
 如果出问题，1.校准电脑时间 2.换ss帐号
 说明4：
-GMM 开机运行时，必须启用 Proxifier-Default覆盖
+GMM 开机运行时，(不)必须启用 Proxifier-Default覆盖 (只要登入了就能上传歌曲)
 
 -
 
