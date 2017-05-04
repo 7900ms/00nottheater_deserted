@@ -18,3 +18,6 @@ PD foobar2000 (和PD共享Home目录)
 共享歌词路径：
 Z:\Dropbox\lyrics
 
+### 结果
+
+crossover 的 Z盘 (/目录) 和 PD视角的 Z盘 (~/目录) 是链接起来的
