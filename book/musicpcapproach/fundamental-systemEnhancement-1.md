@@ -53,6 +53,9 @@ Finder - 边栏 - 外置磁盘
 一般上网 1152 x 720,
 游戏最大 1440 x 900
 
+#### locale
+[locale](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/locale)
+
 -
 
 #### App Store
