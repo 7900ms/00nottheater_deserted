@@ -32,7 +32,8 @@ ParallelsDesktop-12.0.2-41353.dmg
 10.11.5
 ParallelsDesktop-12.2
 Parallels Desktop-12.1.3-41532 by Gentleman
-parallels 9 ？
+parallels 9 ？勉强可以
+parallels 11 正式可以
 
 ```
 
