@@ -1,5 +1,5 @@
 
-#### 卸载
+### 卸载
 
 容器、软件、清理
 
@@ -37,6 +37,7 @@ parallels 11 正式可以
 
 ```
 
+### 安装
 安装：<br>
 断网安装<br>
 断网run第一次<br>
@@ -44,6 +45,10 @@ HandOff!切断网络<br>
 (安完后666MB)<br>
 
 关闭更新
+
+### 不断获取新的试用期
+
+https://www.youtube.com/watch?v=Wo83lXznZfs
 
 -
 
