@@ -7,9 +7,12 @@ crossover foobar2000
 Y:\Dropbox\lyrics
 (~/Dropbox/lyrics)
 
-### 搜索办法
+### 共享搜索办法
 PD foobar2000 (和PD共享Home目录)
 
-歌词路径：
+共享软件路径：
+~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
 
+共享歌词路径：
+~/Dropbox/lyrics
 
