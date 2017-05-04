@@ -28,9 +28,8 @@ nano ~/Library/Application Support/CrossOver/Bottles/win7/cxbottle.conf 在 [Env
 
 
 
-= = =
+= = = 脑容量回收站(碎碎念) = = =
 
-碎碎念
 /Applications/Safari.app/Contents/MacOS/Safari -AppleLanguages '(de)' 支持
 /Applications/CrossOver.app/Contents/MacOS/CrossOver -AppleLanguages '(de)' 不支持
 G mac 一个程序 系统语言
@@ -41,3 +40,5 @@ https://www.codeweavers.com/support/wiki/mac/faq/cxdifferentlang
 瓶子和程序中文
 https://www.codeweavers.com/support/wiki/mac/faq/cxoffice62_choosedifferentlanguage
 
+脑容量回收站
+https://www.zhihu.com/question/24310666/answer/40138485
