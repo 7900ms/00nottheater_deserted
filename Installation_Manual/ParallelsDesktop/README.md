@@ -51,6 +51,10 @@ http://xclient.info/s/parallels-desktop.html
 Parallels Desktop Business Edition 12.2.0-41591 [TNT].dmg.zip
 magnet:?xt=urn:btih:B219AFA0B62595C6E303DCB2BCA7D23EC7B0CE35
 
+下载
+by Gentleman
+http://www.macx.cn/thread-2188899-1-1.html
+
 ```
 
 [破解办法](http://www.macappstore.net/parallels-desktop-12-po-jie)
