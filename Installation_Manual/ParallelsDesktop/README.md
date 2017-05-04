@@ -45,7 +45,14 @@ http://www.parallels.com/cn/products/desktop
 #### 不断获取新的试用期
 
 sudo rm /Library/Preferences/Parallels/licenses.xml
+
 https://www.youtube.com/watch?v=Wo83lXznZfs
+
+#### 无法进入 融合模式
+
+排错
+
+http://kb.parallels.com/cn/123381
 
 <hr>
 
