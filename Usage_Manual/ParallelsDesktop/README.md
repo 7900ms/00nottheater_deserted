@@ -9,7 +9,7 @@
 
 Applications - Share - share windows app with mac 取消，share mac app with windows 取消
 
-然后 通过启动 融合模式 (10.11.5 not work coherence)，自动开启所需要的东西
+然后 通过启动 融合模式 (10.11.5 not work coherence, even with official software)，自动开启所需要的东西
 
 
 -
