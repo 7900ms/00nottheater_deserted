@@ -54,4 +54,6 @@ Noizio 环境音
 iTunes特效
 iTunes+MiniLyrics
 
+至今 iTunes 没有启动过
+
 -
