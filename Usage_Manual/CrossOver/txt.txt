@@ -21,3 +21,10 @@ G mac 一个程序 系统语言
 /Applications/CrossOver.app/Contents/Resources/zh_CN.lproj
 
 -
+
+
+= = =
+碎碎念
+/Applications/Safari.app/Contents/MacOS/Safari -AppleLanguages '(de)' 支持
+/Applications/CrossOver.app/Contents/MacOS/CrossOver -AppleLanguages '(de)' 不支持
+
