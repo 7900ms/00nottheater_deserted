@@ -23,6 +23,6 @@ Z:\Dropbox\lyrics
 crossover 的 Z盘 (/目录) 和 PD视角的 Z盘 (~/目录) 是链接起来的
 
 副作用：在 crossover 里拖动添加的歌曲(Y:) 在 pd (Z:) 里无法播放
-办法：调节其中一个的盘符
+办法：调节其中一个的盘符 aka 调整PD的虚拟盘的盘符(由Z变成Y)
 
 -
