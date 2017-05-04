@@ -44,7 +44,7 @@ http://www.parallels.com/cn/products/desktop
 
 #### 不断获取新的试用期
 
-cd /Library/Preferences/Parallels
+sudo rm /Library/Preferences/Parallels/licenses.xml
 https://www.youtube.com/watch?v=Wo83lXznZfs
 
 <hr>
