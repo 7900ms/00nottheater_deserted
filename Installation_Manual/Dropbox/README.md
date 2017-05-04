@@ -20,6 +20,6 @@ ssr PAC模式
 
 -
 
-为了和foobar2000的配置文件 相配合，需要[这么做](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/foobar2000)
+为了和foobar2000的配置文件 相配合，(不)需要[这么做](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/foobar2000) ，请直接和 PD 配合
 
 -
