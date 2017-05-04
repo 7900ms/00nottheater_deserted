@@ -10,8 +10,9 @@ Y:\Dropbox\lyrics aka(~/Dropbox/lyrics) 【 **_PD配合_** PD里 映射一个网
 PD foobar2000 (和PD共享Home目录)
 
 (PD视角)
+映射一个网络驱动器到Y盘: 网络 - Mac - Home 右键 映射网络驱动器 Y
 共享软件路径：
-~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
+Y~~~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
 
 共享歌词路径：
 Y:\Dropbox\lyrics
