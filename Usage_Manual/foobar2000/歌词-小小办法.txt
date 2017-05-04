@@ -1,0 +1,15 @@
+
+### 显示办法
+crossover foobar2000
+~/Library/Application Support/CrossOver/Bottles/win7/drive_c/Program Files/foobar2000
+
+歌词路径：
+Y:\Dropbox\lyrics
+(~/Dropbox/lyrics)
+
+### 搜索办法
+PD foobar2000 (和PD共享Home目录)
+
+歌词路径：
+
+
