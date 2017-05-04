@@ -59,6 +59,9 @@ https://www.youtube.com/watch?v=Wo83lXznZfs
 - http://kb.parallels.com/cn/123381
 - http://kb.parallels.com/cn/115094
 
+结果
+- 用官方版本 也无法进入融合模式 (10.11.5, ParallelsDesktop-12.2.0-41591官方15天(融合模式x).dmg)
+
 <hr>
 
 ### 破解版的安装
