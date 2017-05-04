@@ -3,10 +3,14 @@ foobar2000 ESLyric 歌词面板配色
 
 Panel Preferences, Custom (rgb)
 
-default theme
+<default theme>
 background: 50,50,50
 normal: 255,255,255
 highlight: 255,128,64
 
+<TTPlayer purple>
+background: 37,38,57
+normal: 117,120,171
+highlight: 232,232,232
 
 -
