@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=Wo83lXznZfs
 
 #### 无法进入 融合模式
 
+建议
+- http://kb.parallels.com/cn/111474
+
 排错
 - http://kb.parallels.com/cn/123381
 - http://kb.parallels.com/cn/115094
