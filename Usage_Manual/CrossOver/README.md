@@ -15,10 +15,10 @@ defaults write com.codeweavers.CrossOver AppleLanguages -array en
 (CrossOver.app 的某个瓶子的程序的语言 设置为中文)
 程序中文
 nano ~/Library/Application Support/CrossOver/Bottles/win7/cxbottle.conf 在 [EnvironmentVariables] 下添加
-```
+`
 ;;"LANG" = "en_US.UTF-8"
 "LANG" = "zh_CN.UTF-8"
-```
+`
 
 4.
 运行程序(保存到指令面板)
