@@ -1,7 +1,12 @@
 
 foobar2000 ESLyric 歌词面板配色
 
-Panel Preferences
+Panel Preferences, Custom (rgb)
+
+default theme
+background: 50,50,50
+normal: 255,255,255
+highlight: 255,128,64
 
 
 -
