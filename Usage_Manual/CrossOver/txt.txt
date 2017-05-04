@@ -16,6 +16,7 @@ defaults write com.codeweavers.CrossOver AppleLanguages -array en
 程序中文
 nano ~/Library/Application Support/CrossOver/Bottles/win7/cxbottle.conf 在 [EnvironmentVariables] 下添加
 ```
+;;"LANG" = "en_US.UTF-8"
 "LANG" = "zh_CN.UTF-8"
 ```
 
