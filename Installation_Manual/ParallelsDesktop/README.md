@@ -48,6 +48,7 @@ HandOff!切断网络<br>
 
 ### 不断获取新的试用期
 
+cd /Library/Preferences/Parallels
 https://www.youtube.com/watch?v=Wo83lXznZfs
 
 -
