@@ -12,19 +12,25 @@
 
 用 AppCleaner 之后
 
-sudo rm -rf /Users/$(logname)/Library/Preferences/com.parallel*
-
-sudo rm -rf /Users/$(logname)/Library/Preferences/Parallels
+sudo rm -rf /Users/$(logname)/Library/Caches/com.parallel*
 
 sudo rm -rf /Users/$(logname)/Library/Parallels
 
-sudo rm -rf /private/var/db/Parallels
+sudo rm -rf /Users/$(logname)/Library/Preferences/Parallels
 
-sudo rm -rf /Library/Logs/parallels*
+sudo rm -rf /Users/$(logname)/Library/Preferences/com.parallel*
+
+sudo rm -rf /Users/$(logname)/Library/Saved\ Application\ State/com.parallel*
+
+sudo rm -rf /Users/$(logname)/Library/Logs/parallel*
 
 sudo rm -rf /Library/Preferences/Parallels
 
-sudo  rm -rf  /private/var/.Parallels_swap
+sudo rm -rf /Library/Logs/parallel*
+
+sudo rm -rf /private/var/.Parallels_swap
+
+sudo rm -rf /private/var/db/Parallels
 
 ### 破解版
 
