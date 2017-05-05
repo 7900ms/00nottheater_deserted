@@ -1,0 +1,3 @@
+
+cat ~/Library/Logs/parallels.log
+cat /Library/Logs/parallels.log
