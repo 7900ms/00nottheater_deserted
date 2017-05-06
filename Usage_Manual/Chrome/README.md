@@ -96,3 +96,11 @@ http://www.chromium.org/administrators/turning-off-auto-updates
 G google chrome disable update mac
 http://wikieswan.github.io/2015/10/20/mac-shout-down-chrome-update
 ```
+
+
+= = = 脑容量回收站 = = =
+
+网页快照收藏 - Google Save
+https://www.v2ex.com/t/359547
+
+鼠标手势 摇杆手势 - crxMouse Chrome Gestures
