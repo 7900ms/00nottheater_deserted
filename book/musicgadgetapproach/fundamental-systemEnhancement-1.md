@@ -6,8 +6,8 @@ Browser and File Manager
 google photos, music
 authy
 workflow
-twitter telegram skype
-GMail
+twitter telegram Instagram skype
+GMail textnow
 1992
 wechat alipay qq
 shadowrocket
