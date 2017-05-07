@@ -42,6 +42,9 @@ SSD写入保护
 
   https://www.v2ex.com/t/308601
 
+三方插件
+  about:config 页面，xpinstall.signatures.required 设置为 false
+
 ad
 
   https://github.com/7900ms/noname/blob/master/ublock.txt
