@@ -5,7 +5,7 @@
 Browser and File Manager
 google photos, music
 authy
-workflow Gboard
+workflow Google(启用中文输入法)
 twitter telegram Instagram skype
 GMail textnow
 1992
