@@ -25,3 +25,4 @@ http://www.wjjsoft.com/download.html
 
 Times New Roman 12 =》Georgia 13.5
 
+2. 让 myBase 默认是不可编辑，按 f2 编辑。设置：打开缺省 HTML 内容时自动进入编辑状态，取消勾选。
