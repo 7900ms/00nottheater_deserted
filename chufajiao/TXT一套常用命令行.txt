@@ -5,7 +5,7 @@ chflags hidden a.txt
 
 显示所有文件
 defaults write com.apple.finder AppleShowAllFiles YES
-(不显示隐藏文件)defaults write com.apple.finder AppleShowAllFiles NO
+(不显示隐藏文件)defaults write com.apple.finder AppleShowAllFiles NO (推荐)
 killall Finder
 (不显示桌面上的隐藏文件：XtraFinder 特性 - 隐藏桌面的系统文件)
 
