@@ -1,6 +1,6 @@
 
 文件属性更改：显示 Lib
-chflags nohidden ~/Library
+chflags nohidden ~/Library (推荐)
 chflags hidden a.txt
 
 显示所有文件
