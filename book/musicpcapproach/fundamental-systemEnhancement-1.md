@@ -11,12 +11,12 @@ Mac OS Extended (Journaled),OSX扩展(日志式)
 
 #### 鼠标滚轮
 系统偏好设置 - 自然方向 取消
-time machine 关，安全和隐私 - FileVault 关，防火墙 关，键盘灯 关，f1当作功能键 ✓ ，去掉Spotlight的快捷键，音量在菜单栏
+time machine 关，安全和隐私 - FileVault 关，防火墙 关，键盘灯 关，f1当作功能键 ✓ 快捷键 - 所有控制 ✓，去掉Spotlight的快捷键，音量在菜单栏
 
 #### 输入法
 输入法 [rime](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/Rime)
 
-(输入法切换 系统设置-keyboard->shortcuts->inputSources 快捷键 ctrl+空格)
+(输入法切换 系统设置-keyboard->shortcuts->inputSources 选择上一个输入源 ctrl⌃+空格)
 
 #### 触摸板
 触摸板 单击打开、三指拖动选文字
