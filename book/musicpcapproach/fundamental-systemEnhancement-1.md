@@ -28,6 +28,7 @@ Accessibility - Mouse&Trackpad - Trackpad Options - Enable Dragging 3 finger dra
 
 #### dock窗口最小化方式
 系统偏好设置 - dock - 缩放效果(默认是神奇效果)
+窗口最大化 - 双击标题栏 or 绿色按钮+option
 
 #### 后缀名
 Finder 高级 - show all file extension
