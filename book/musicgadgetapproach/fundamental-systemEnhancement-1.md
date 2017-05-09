@@ -8,6 +8,7 @@ authy
 workflow Google(启用中文输入法)
 twitter telegram Instagram skype
 GMail textnow
+SoundCloud 通话录音软件
 1992
 wechat alipay qq
 shadowrocket
