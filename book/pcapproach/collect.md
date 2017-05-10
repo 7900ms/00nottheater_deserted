@@ -30,6 +30,7 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 
 菜单栏收缩 Bartender.app
 
+窗口一直在前 SIMBL+AFloat
 
 
 -
