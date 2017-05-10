@@ -8,7 +8,7 @@ authy
 workflow Google(启用中文输入法)
 twitter telegram Instagram skype
 GMail textnow
-~~SoundCloud+AudioCopy录音~~ 自带录音软件+iCloud 通话录音软件
+自带录音软件+iCloud，Voice Recorder by TapMedia， 通话录音软件
 1992
 wechat alipay qq
 shadowrocket
