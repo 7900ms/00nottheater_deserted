@@ -46,5 +46,8 @@ QQ
 附件
 ```
 
+### 后台刷新
+
+Settings - General - Background App Refresh
 
 -
