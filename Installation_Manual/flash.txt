@@ -4,3 +4,8 @@ adobe_flash_plugin
 == flash 下载地址 ==
 http://www.adobe.com/software/flash/about/
 
+
+为 chrome 开启 falsh
+
+chrome://settings/content
+flash - Allow Sites to run Flash
