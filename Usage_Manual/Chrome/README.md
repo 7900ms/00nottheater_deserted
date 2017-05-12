@@ -33,7 +33,7 @@ proxy
 
 flash
 
-  flash (https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt)
+  flash (不必额外下载chrome版flash 见 https://github.com/7900ms/00nottheater_deserted/blob/master/Installation_Manual/flash.txt)
 
   StopFlash Flash Blocker 由Juloo[提供](https://chrome.google.com/webstore/detail/stopflash-flash-blocker/oiiohfpnbijbgdidjfcpcljcfbmkaooi)
   
