@@ -11,6 +11,7 @@ http://jingyan.baidu.com/article/d621e8da0abd192865913f1f.html
 自启动‘IPSEC 服务’
 
 2
+gpedit.msc
 http://jingyan.baidu.com/article/7e44095337e4112fc1e2ef76.html
 
 ```
