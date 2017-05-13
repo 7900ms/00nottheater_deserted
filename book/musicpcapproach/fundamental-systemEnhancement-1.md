@@ -54,6 +54,9 @@ Finder - 边栏 - 外置磁盘
 一般上网 1152 x 720,
 游戏最大 1440 x 900
 
+#### 防火墙
+System Preferences - Security & Privacy - Firewall - On - Block all incoming connections
+
 #### locale
 [locale](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/locale)
 
