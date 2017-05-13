@@ -5,6 +5,6 @@
 `/System/Library/CoreServices/Applications/`
 
 win
-`netstat -anp tcp`
+`netstat -anp tcp # 关闭445 端口`
 
 -
