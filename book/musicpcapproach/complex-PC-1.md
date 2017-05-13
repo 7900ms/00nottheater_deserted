@@ -4,6 +4,7 @@
 [网络实用工具](https://support.apple.com/kb/PH25801)
 `/System/Library/CoreServices/Applications/`
 
-
+win
+`netstat -anp tcp`
 
 -
