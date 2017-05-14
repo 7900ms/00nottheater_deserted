@@ -7,19 +7,6 @@ xunlei 2.7.6 破解版 feng.com
 迅雷3的界面有一个很大的变化，不喜欢
 
 
-== 禁用更新 ==
-
-改 host
-
-> sudo nano /etc/hosts
-# 防止软件更新
-127.0.0.1 liveupdate.mac.sandai.net
-
-
-
-https://www.v2ex.com/t/333703
-
-
 == 其他下载工具 ==
 
 FDM
