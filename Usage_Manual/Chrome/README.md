@@ -43,7 +43,7 @@ flash
 
   声海盗(Sound Pirate) (缓存抓取)
   
-  听个虾米 (对于虾米下架的歌曲，本扩展通过在QQ音乐上搜索对应歌曲进行播放)
+  听个虾米 (虾米不需要flash，对于虾米下架的歌曲，本扩展通过在QQ音乐上搜索对应歌曲进行播放)
 
   https://github.com/7900ms/00nottheater_deserted/blob/master/Usage_Manual/GoogleMusicOnChrome.md
 
