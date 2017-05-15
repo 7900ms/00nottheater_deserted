@@ -20,3 +20,10 @@ https://www.sohu.com/a/140337306_606775
 http://bbs.360.cn/thread-14973844-1-1.html
 
 ```
+
+#### 路由器
+
+UPnp功能必须使用计算机的端口来进行工作，取得控制权的攻击者，还有可能利用这些端口，达到攻击者的目的
+G 路由器 端口 关闭 UPnP
+http://itbbs.pconline.com.cn/network/12473184.html
+
