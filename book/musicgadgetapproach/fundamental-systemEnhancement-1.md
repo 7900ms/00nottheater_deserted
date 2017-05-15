@@ -15,7 +15,9 @@ shadowrocket
 QQ邮箱
 音乐圈
 FM Radio Station(Mino)
-
+```
+```
+不瞎晃荡:(不安装游戏)
 
 ```
 
