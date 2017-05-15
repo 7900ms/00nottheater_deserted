@@ -10,7 +10,7 @@ twitter telegram Instagram skype
 GMail textnow
 自带录音软件+iCloud，Voice Recorder by TapMedia， 通话录音软件
 1992
-wechat alipay qq
+wechat alipay qq 腾讯手机管家(拦截骚扰)
 shadowrocket
 QQ邮箱
 音乐圈
