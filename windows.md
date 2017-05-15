@@ -18,4 +18,8 @@ http://jingyan.baidu.com/article/7e44095337e4112fc1e2ef76.html
 windows自带的防火墙
 https://www.sohu.com/a/140337306_606775
 
+4
+注册表
+http://bbs.360.cn/thread-14973844-1-1.html
+
 ```
