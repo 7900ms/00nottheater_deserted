@@ -19,7 +19,9 @@ FM Radio Station(Mino)
 ```
 不瞎晃荡:(不安装游戏)
 符合自然天相和正确机子使用习惯
+隔离
 ```
+[隔离,掌控自己主动部分](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-separating-隔离导致更好的隔离.md)
 
 #### 关闭自动更新
 
