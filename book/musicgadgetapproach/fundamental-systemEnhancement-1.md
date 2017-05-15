@@ -21,7 +21,7 @@ FM Radio Station(Mino)
 符合自然天相和正确机子使用习惯
 隔离
 ```
-[隔离,掌控自己主动部分。随机应变](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-separating-隔离导致更好的隔离.md)
+[隔离,掌控自己主动部分。随机应变但不让轻易进门](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-separating-隔离导致更好的隔离.md)
 
 #### 关闭自动更新
 
