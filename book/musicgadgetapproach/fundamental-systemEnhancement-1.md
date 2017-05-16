@@ -10,7 +10,7 @@ twitter telegram Instagram skype
 GMail textnow
 自带录音软件+iCloud，Voice Recorder by TapMedia， 通话录音软件
 1992
-wechat alipay qq 腾讯手机管家(拦截骚扰)
+wechat alipay qq 腾讯手机管家(拦截骚扰) qq同步助手(恢复电话本)
 shadowrocket
 QQ邮箱
 音乐圈
@@ -53,5 +53,9 @@ QQ
 ### 后台刷新
 
 Settings - General - Background App Refresh
+
+### 通讯录管理
+
+[QQ同步助手](https://pim.qq.com/help/2/iphone.html)
 
 -
