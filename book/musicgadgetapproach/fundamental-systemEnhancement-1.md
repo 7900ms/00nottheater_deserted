@@ -56,6 +56,6 @@ Settings - General - Background App Refresh
 
 ### 通讯录管理
 
-[QQ同步助手](https://pim.qq.com/help/2/iphone.html)
+[QQ同步助手 - QQ号登入(网页端也是Q号登入)](https://pim.qq.com/help/2/iphone.html)
 
 -
