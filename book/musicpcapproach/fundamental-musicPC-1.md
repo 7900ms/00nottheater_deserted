@@ -13,7 +13,7 @@ music pc
 - [Safari](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Safari)
 - [ShadowsocksX-R](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/ShadowsocksX-R) ,[V2ray](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/V2ray)
 - [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + [Firefox](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Firefox) (查资料用)
-- [Avira Free Antivirus 杀毒软件](https://www.avira.com/en/free-antivirus-mac)
+- [Sophos](https://home.sophos.com/) [x avast! Avira Free Antivirus](https://www.avira.com/en/free-antivirus-mac) [杀毒软件]()
 
 #### foobar2000
 - 本地音乐播放
