@@ -14,3 +14,9 @@ https://www.reddit.com/r/foobar2000/comments/40bl96/lyrics_show_panel_v3_says_on
 
 规避办法：用 pd-foobar2k 下载歌词可正常下载
 
+
+= = = 脑容量回收站 = = =
+
+troubleshooting:
+If any of your lyrics errored out from Lyrics Panel trying to download, you should see text files in your folder with the following text: <?xml version="1.0" encoding="UTF-8" ?> <result errmsg="Search ID or Code error!" errcode="32006"></result> Delete these erroneous text files and you should display the proper lyrics if you have a matching .lrc file for your song.
+https://www.reddit.com/r/foobar2000/comments/428yrf/lrc_lyrics_workaround/
