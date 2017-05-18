@@ -32,5 +32,8 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 
 窗口一直在前 SIMBL+AFloat
 
+游戏 [合金弹头](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-game)
+
+安卓模拟器 [--](https://www.genymotion.com/download/)
 
 -
