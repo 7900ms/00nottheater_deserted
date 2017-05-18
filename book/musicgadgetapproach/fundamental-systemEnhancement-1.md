@@ -2,12 +2,12 @@
 ```
 预装软件
 1776
+GMail textnow GoogleVoice
+authy
 Browser and File Manager
 google photos, music
-authy
 workflow Google(启用中文输入法)
 twitter telegram Instagram skype
-GMail textnow
 自带录音软件+iCloud，Voice Recorder by TapMedia， 通话录音软件
 1992
 wechat alipay qq 腾讯手机管家(拦截骚扰) qq同步助手(恢复电话本)
