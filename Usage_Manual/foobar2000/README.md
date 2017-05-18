@@ -10,6 +10,12 @@ foobar2000 是一个可以显示歌词、搜索歌词的播放器。类似的还
 
 #### 最新结构
 
+旧结构：一个软件
+
+[Usage_Manual/foobar2000](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/foobar2000)
+
+新结构：把媒体处理当作一个‘其他系统’
+
 [systemsoftware - local-musicplay](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-musicplay)
 
 [最新结构](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/Usage_Manual/foobar2000)
