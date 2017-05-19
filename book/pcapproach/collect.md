@@ -36,4 +36,6 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 
 安卓模拟器 [--](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-android-emulator)
 
+窗口前置器 [--](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/SIMBL)
+
 -
