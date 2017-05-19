@@ -13,7 +13,7 @@ Afloat.bundle 放在
 /Library/Application Support/SIMBL/Plugins
 
 3.
-重启
+不用重启
 
 发现 safari - 窗口 可以置顶了
 
