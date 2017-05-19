@@ -23,6 +23,8 @@ FM Radio Station(Mino)
 ```
 [隔离,掌控自己主动部分。随机应变](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/chain-separating-隔离导致更好的隔离.md)
 
+[精品中国象棋](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/local-chessgame)
+
 #### 关闭自动更新
 
 #### 触发点
