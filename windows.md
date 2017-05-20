@@ -27,3 +27,7 @@ UPnp功能必须使用计算机的端口来进行工作，取得控制权的攻�
 G 路由器 端口 关闭 UPnP
 http://itbbs.pconline.com.cn/network/12473184.html
 
+#### 官方补丁
+
+http://www.iplaysoft.com/wannacry.html
+
