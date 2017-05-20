@@ -9,7 +9,7 @@ google photos, music
 workflow Google(启用中文输入法)
 twitter telegram Instagram skype
 自带录音软件+iCloud，Voice Recorder by TapMedia， 通话录音软件
-dict-牛津高阶英汉双解词典
+dict-牛津高阶英汉双解词典(via Bing)
 1992
 wechat alipay qq 腾讯手机管家(拦截骚扰) qq同步助手(恢复电话本)
 shadowrocket
