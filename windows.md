@@ -36,3 +36,5 @@ http://itbbs.pconline.com.cn/network/12473184.html
 
 http://www.iplaysoft.com/wannacry.html
 
+http://www.appinn.com/windowsxp-kb4012598-x86-custom/
+
