@@ -34,6 +34,8 @@ http://itbbs.pconline.com.cn/network/12473184.html
 
 #### 官方补丁
 
+(Microsoft Windows SMB 服务器安全更新)
+
 http://www.iplaysoft.com/wannacry.html
 
 http://www.appinn.com/windowsxp-kb4012598-x86-custom/
