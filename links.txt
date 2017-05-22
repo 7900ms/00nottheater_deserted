@@ -40,6 +40,9 @@ brew
 > which ss-local
 /usr/local/bin/ss-local -> ../Cellar/shadowsocks-libev/2.5.6(2.4.7)/bin/ss-local
 
+~
+cd /Users/$(logname)/E02/links
+ln -s /Users/$(logname)/Library/Rime .
 
 
 -
