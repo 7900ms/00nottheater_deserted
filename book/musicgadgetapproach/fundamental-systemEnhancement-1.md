@@ -13,7 +13,7 @@ dict-牛津高阶英汉双解词典(via Bing)
 1992
 wechat alipay qq 腾讯手机管家(拦截骚扰) qq同步助手(恢复电话本)
 shadowrocket
-QQ邮箱
+QQ邮箱 CamScanner+
 音乐圈
 FM Radio Station(Mino)
 ```
