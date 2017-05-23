@@ -40,3 +40,14 @@ http://www.iplaysoft.com/wannacry.html
 
 http://www.appinn.com/windowsxp-kb4012598-x86-custom/
 
+
+#### WIN7
+
+G WannaCry windows patch
+
+https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/
+
+https://support.microsoft.com/en-us/help/2696547/how-to-enable-and-disable-smbv1-smbv2-and-smbv3-in-windows-and-windows-server
+
+
+
