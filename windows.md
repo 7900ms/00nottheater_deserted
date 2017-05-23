@@ -11,8 +11,10 @@ http://jingyan.baidu.com/article/d621e8da0abd192865913f1f.html
 自启动‘IPSEC 服务’
 
 2
-gpedit.msc
+策略组编辑器 (Group Policy Editor) gpedit.msc
 http://jingyan.baidu.com/article/7e44095337e4112fc1e2ef76.html
+win7 的策略组编辑器 gpedit.msc
+https://zhidao.baidu.com/question/129968700.html
 
 3
 windows自带的防火墙
@@ -42,6 +44,10 @@ http://www.appinn.com/windowsxp-kb4012598-x86-custom/
 
 
 #### WIN7
+
+win7 的策略组编辑器 gpedit.msc
+
+https://zhidao.baidu.com/question/129968700.html
 
 G WannaCry windows patch
 
