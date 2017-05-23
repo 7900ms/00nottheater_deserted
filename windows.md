@@ -1,4 +1,7 @@
 
+面对病毒：
+[360安全卫士 - 病毒](http://www.360.cn/qiaozha/index.html)
+
 #### windows
 
 关闭端口 [教程](http://bbs.360.cn/thread-14973844-1-1.html)
@@ -47,7 +50,7 @@ http://www.appinn.com/windowsxp-kb4012598-x86-custom/
 
 win7 的策略组编辑器 gpedit.msc
 
-https://zhidao.baidu.com/question/129968700.html
+360安全卫士吧.里面常用→电脑体检项.下面就有组策略是否禁用选项.显示是已禁用你就开启一下就OK
 
 G WannaCry windows patch
 
