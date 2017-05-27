@@ -13,7 +13,7 @@ music pc
 - [Safari](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Safari)
 - [ShadowsocksX-R](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/ShadowsocksX-R) ,[V2ray](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/V2ray)
 - [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + [Firefox](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Firefox) (查资料用)
-- 屏幕保护
+- 屏幕保护 (触发角)
 - [avast!](https://www.avast.com/free-mac-security) [x Sophos Avira Free Antivirus](https://www.avira.com/en/free-antivirus-mac) [杀毒软件](https://www.av-comparatives.org/mac-security-reviews/)
 
 #### foobar2000
