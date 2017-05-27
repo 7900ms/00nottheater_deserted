@@ -41,6 +41,6 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 - = - =
 
 - Google Earth
-- 天文游戏
+- 天文游戏 stellarium
 
 
