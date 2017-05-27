@@ -38,4 +38,9 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 
 窗口前置器 [--](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/SIMBL)
 
--
+- = - =
+
+- Google Earth
+- 天文游戏
+
+
