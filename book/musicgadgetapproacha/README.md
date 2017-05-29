@@ -6,7 +6,7 @@ Android
 ```
 预装软件
 Google Photos, Google 输入法
-ROOT管理器 phh.superuser, 冰箱, AppWererabbit,
+ROOT管理器 phh.superuser, 权限管理 , 冰箱, AppWererabbit,
 ```
 
 硬盘
@@ -33,4 +33,4 @@ links
 
 [不用SuperSU,用me.phh.superuser](https://play.google.com/store/apps/details?id=me.phh.superuser)
 
-[]()
+[App Ops - 权限管理](https://play.google.com/store/apps/details?id=rikka.appops)
