@@ -6,7 +6,10 @@ Android
 ```
 预装软件
 Google Photos, Google 输入法
-ROOT管理器 phh.superuser, 权限管理 , 冰箱, AppWererabbit,
+ROOT管理器 phh.superuser, 权限管理 rikka.appops, 冰箱, AppWererabbit,
+GMail, QQ邮箱, Hotmail
+QQ同步助手
+
 ```
 
 硬盘
