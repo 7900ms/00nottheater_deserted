@@ -15,6 +15,7 @@ music pc
 - [PaleMoon](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon) + [Firefox](https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/Firefox) (查资料用)
 - 屏幕保护 (触发角)
 - [avast!](https://www.avast.com/free-mac-security) [x Sophos Avira Free Antivirus](https://www.avira.com/en/free-antivirus-mac) [杀毒软件](https://www.av-comparatives.org/mac-security-reviews/)
+- [mac-source](https://github.com/7900ms/00nottheater_deserted/tree/master/Installation_Manual/mac-source)
 
 #### foobar2000
 - 本地音乐播放
