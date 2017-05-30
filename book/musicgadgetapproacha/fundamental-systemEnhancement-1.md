@@ -5,10 +5,11 @@ Android
 
 ```
 预装软件
+Google Play Store, ssr
+ROOT管理器 phh.superuser, 权限管理 rikka.appops, 冰箱, AppWererabbit
 Google Photos, Google 输入法
-ROOT管理器 phh.superuser, 权限管理 rikka.appops, 冰箱, AppWererabbit,
 GMail, QQ邮箱, Hotmail
-QQ同步助手
+QQ同步助手(联系人,短信,通话记录), 微云
 
 ```
 
