@@ -5,7 +5,7 @@ Android
 
 ```
 预装软件
-Google Play Store, ssr
+GMS谷歌服务框架, Google Play Store, ssr
 ROOT管理器 phh.superuser, 权限管理 rikka.appops, 冰箱, AppWererabbit
 Google Photos, Google 输入法
 GMail, QQ邮箱, Hotmail
