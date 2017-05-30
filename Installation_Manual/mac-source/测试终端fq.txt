@@ -4,6 +4,6 @@
 > echo "alias ss='export ALL_PROXY=socks5://127.0.0.1:1080'" >> ~/.bashrc
 > echo "alias fq='export ALL_PROXY=socks5://127.0.0.1:1080'" >> ~/.bashrc
 > echo "alias fqt='curl -I www.google.com.tw'" >> ~/.bashrc
-重启 或 执行 mac-source
+打开新tab (如未生效，重启 或 执行 mac-source)
 > curl -I www.google.com.tw
 > curl -O https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
