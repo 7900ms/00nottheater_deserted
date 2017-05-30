@@ -1,0 +1,8 @@
+
+简便fq办法
+> lsof -i:1080
+> echo "alias ss='export ALL_PROXY=socks5://127.0.0.1:1080'" >> ~/.bashrc
+> echo "alias fq='export ALL_PROXY=socks5://127.0.0.1:1080'" >> ~/.bashrc
+> echo "alias fqt='curl -I www.google.com.tw'" >> ~/.bashrc
+> curl -I www.google.com.tw
+> curl -O https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
