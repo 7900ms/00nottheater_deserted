@@ -26,4 +26,6 @@ echo "#" >> ~/.bashrc
 
 3.
 像 linux 一样，所有东西写在 ~/.bashrc 里
+
+每次更新了 ~/.bashrc 之后，重启或执行 mac-source
 ```
