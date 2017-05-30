@@ -29,5 +29,6 @@ echo "#" >> ~/.bashrc
 
 生效：
 Linux : 每次更新了 ~/.bashrc 之后，打开新的终端tab (会索引 ~/.bashrc)
+mac : 每次更新了 ~/.bashrc 之后，打开新的终端tab (会索引 ~/.bashrc)
 mac : 每次更新了 ~/.bashrc 之后，重启或执行 mac-source (会索引 ~/.bashrc)
 ```
