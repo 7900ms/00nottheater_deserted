@@ -42,5 +42,5 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 
 - Google Earth
 - 天文游戏 stellarium
-
+- 朗读 Text2Speech
 
