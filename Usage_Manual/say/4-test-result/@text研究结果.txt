@@ -1,0 +1,54 @@
+
+say hello, I am you mac
+say -v Bruce hello, I am you mac
+say -v Vicki hello, I am you mac
+
+say -v Cellos hello, I am you mac Here are a list of the available voices that come on a Mac. The names are case sensitive and enter the names in quotes
+say -v 'Ralph' hello, I am you mac. Here are a list of the available voices that come on a Mac. The names are case sensitive and enter the names in quotes if there is a space in the name.
+
+-
+
+say -v "Ralph" -r 350 hello, I am you mac. Here are a list of the available voices that come on a Mac. The names are case sensitive and enter the names in quotes if there is a space in the name.
+
+-
+
+say -v "Ralph" -i hello, I am you mac. Here are a list of the available voices that come on a Mac.
+
+-
+
+say -v "Ralph" -r 350 -i hello, I am you mac. Here are a list of the available voices that come on a Mac.
+
+-
+
+say -v "Agnes" -i NBA Defensive Player of the Year Award
+* say -v "Kathy" -i NBA Defensive Player of the Year Award
+* say -v "Princess" -i NBA Defensive Player of the Year Award
+** say -v "Vicki" -i NBA Defensive Player of the Year Award
+** say -v "Victoria" -i NBA Defensive Player of the Year Award
+
+**say -v "Bruce" -r 200 -i NBA Defensive Player of the Year Award
+* say -v "Fred" -r 200 -i NBA Defensive Player of the Year Award
+* say -v "Junior" -r 200 -i NBA Defensive Player of the Year Award
+** say -v "Ralph" -r 200 -i NBA Defensive Player of the Year Award
+say -v "Whisper" -r 200 -i NBA Defensive Player of the Year Award
+say -v "Boing" -r 200 -i NBA Defensive Player of the Year Award
+
+
+
+say -v "Agnes" -i -f so.txt
+* say -v "Kathy" -i -f so.txt
+* say -v "Princess" -i -f so.txt
+** say -v "Vicki" -i -f so.txt
+** say -v "Victoria" -i -f so.txt
+
+say -v "Bruce" -r 200 -i -f boy.txt
+* say -v "Fred" -r 200 -i -f boy.txt
+* say -v "Junior" -r 200 -i -f boy.txt
+** say -v "Ralph" -r 200 -i -f boy.txt
+say -v "Whisper" -r 200 -i -f boy.txt
+say -v "Boing" -r 200 -i -f boy.txt
+
+ref G mac say 
+https://gohgarry.wordpress.com/2010/01/16/fun-with-mac-say-command/
+https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/say.1.html
+
