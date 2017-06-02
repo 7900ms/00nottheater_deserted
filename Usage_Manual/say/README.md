@@ -5,4 +5,4 @@
 
 voice[s](http://www.makeuseof.com/tag/mac-can-read-text-heres/)
 
-软件： Text2Speech [-](http://www.makeuseof.com/tag/mac-can-read-text-heres/)
+本地软件： Text2Speech [-](http://www.makeuseof.com/tag/mac-can-read-text-heres/)
