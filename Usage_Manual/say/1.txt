@@ -1,0 +1,18 @@
+say
+
+say -v "Vicki" -i NBA Defensive Player of the Year Award
+
+say -v "Bruce" -r 200 -i NBA Defensive Player of the Year Award
+
+say -v "Ralph" -r 200 -i NBA Defensive Player of the Year Award
+
+英音 
+sayVK a bottle filled with sulphuric acid into which splints treated with chemicals were dipped
+
+
+- - - -
+
+2016-03-13 22:19:46
+say -v "Bruce" -r 200 -i about DPOY: The NBA  Defensive Player of the Year Award is an annual National Basketball Association  award given since the 1982–83 NBA season to the top defensive player of the regular season. The winner is selected by a panel of 124 sportswriters and broadcasters throughout the United States and Canada, each of whom casts a vote for first, second and third place selections. Each first-place vote is worth five points, second-place voted are worth three points, and a third-place vote is worth one. The player with the highest point total, regardless of the number of first-place votes, wins the award. 
+( each of whom , sportswriter , cast a vote ) 
+
