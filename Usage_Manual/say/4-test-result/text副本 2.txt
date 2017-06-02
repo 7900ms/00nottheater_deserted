@@ -1,0 +1,6 @@
+
+alias in ~/.bash_profile 
+
+# say
+alias sayB="say -v 'Bruce' -r 200 -i"
+alias sayV="say -v 'Victoria' -r 200 -i"
