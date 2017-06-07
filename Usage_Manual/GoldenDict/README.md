@@ -7,7 +7,11 @@ using : Golden Dict 1.5.0-RC-428-gebad891
 
 ### 目录
 
-~/.goldendict
+~/.goldendict/dict
+
+### 配置
+
+词典分组：牛津、韦氏、AHD
 
 ### 模式一
 
