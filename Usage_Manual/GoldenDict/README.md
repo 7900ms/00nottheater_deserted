@@ -3,6 +3,8 @@
 
 using : Golden Dict 1.5.0-RC-428-gebad891
 
+[备用](#--GoldenDict 1.5.0-RC-374-ge2b0a7f.dmg)
+
 [最新下载(不能用的垃圾)](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X)
 
 ### 目录
