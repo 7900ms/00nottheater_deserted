@@ -51,3 +51,20 @@ https://github.com/csujedihy/proximac
 
 
 
+= = = = = = = = = = = =
+
+把一个文件夹，给予当前用于以权限
+类似
+# sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+(node js 的权限)
+
+sudo chown -R $(whoami) /data
+(数据库mongodb 的权限)
+
+
+ref
+
+https://coolestguidesontheplanet.com/installing-node-js-on-osx-10-10-yosemite/
+
+= = = = = = = = = = = =
+
