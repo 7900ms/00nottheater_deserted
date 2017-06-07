@@ -3,7 +3,7 @@
 - “民用系统” (和“其他系统”接口连接 [无污染](https://github.com/7900ms/00nottheater_deserted/blob/master/small/系统分划and防系统污染.md))
 - 2个民用系统
 - 用民用系统的人，不用跟人抬杠 (抬杠、广告、自说自话) <br>
-mac 和 LXDE on Fedora ，不用安太多软件
+mac 和 ~~LXDE on Fedora~~ Xfce on CentOS7 ，不用安太多软件
 - 民用系统一
 musicpc (mac)
 - 民用系统二
@@ -14,7 +14,7 @@ https://www.v2ex.com/notes/28112
 - 老4大件
 fvwm urxvt-terminalEmulator zsh-shell tumx
 - 新4大件(支持电源管理)
-LXDE(DE) urxvt-terminalEmulator zsh-shell tumx
+~~LXDE(DE)~~ Xfce(DE) urxvt-terminalEmulator zsh-shell tumx
 https://github.com/7900ms/0nottheater_deserted/blob/master/fvwm.txt
 
 -
