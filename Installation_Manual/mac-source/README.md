@@ -28,7 +28,7 @@ alias mac-source='source ~/.bashrc'
 nano ~/.bashrc 写入
 alias ssss='say bobo'
 
-打开新终端tab
+打开新终端tab(无论shell是bash还是zsh)
 
 > ssss
 
