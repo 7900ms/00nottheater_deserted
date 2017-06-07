@@ -21,6 +21,9 @@ using : Golden Dict 1.5.0-RC-428-gebad891
 
 - 英译中,阅读
 - 中译英,翻译词典条目
+- dialogue
+- monologue
+- [tender](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/physical-tender)
 
 ### 模式一
 
