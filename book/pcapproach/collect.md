@@ -44,4 +44,4 @@ https://www.producthunt.com/@dustin/collections/menubar-apps
 - 天文游戏 stellarium
 - 朗读 Text2Speech
 - 查询 GoldenDict
-
+- 播放列表 QuodLibet
