@@ -14,7 +14,7 @@ https://www.v2ex.com/notes/28112
 - 老4大件
 fvwm urxvt-terminalEmulator zsh-shell tumx
 - 新4大件(支持电源管理)
-~~LXDE(DE)~~ Xfce(DE) urxvt-terminalEmulator zsh-shell tumx
+~~LXDE(DE)~~ Xfce(DE) urxvt-terminalEmulator zsh-shell tmux
 https://github.com/7900ms/0nottheater_deserted/blob/master/fvwm.txt
 
 -
