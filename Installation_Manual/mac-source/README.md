@@ -13,6 +13,39 @@ mac默认不会source任何东西
 echo "#" >> ~/.bashrc
 
 2.
+nano ~/.bash_profile 写入
+if [ -f ~/.bashrc ]; then . ~/.bashrc; fi
+alias mac-source='source ~/.bashrc'
+
+3.
+nano ~/.zshrc 写入
+if [ -f ~/.bashrc ]; then . ~/.bashrc; fi
+alias mac-source='source ~/.bashrc'
+
+4.
+测试
+
+nano ~/.bashrc 写入
+alias ssss='say bobo'
+
+打开新终端tab
+
+> ssss
+
+成功
+
+
+
+
+
+= = = 碎碎念(脑容量回收站) = = =
+
+1.
+建立 ~/.bashrc
+
+echo "#" >> ~/.bashrc
+
+2.
 让 ~/.bashrc 每次在新建 tab 的时候被自动索引
 
 思路：
