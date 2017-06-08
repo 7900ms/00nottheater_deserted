@@ -4,7 +4,7 @@
 1776
 GMail textnow GoogleVoice
 authy
-Browser and File Manager
+Browser and File Manager, pic-Tailor imgur AwesomeScreenShot(diigo)
 google photos, music
 workflow Google(启用中文输入法)
 twitter telegram Instagram skype
