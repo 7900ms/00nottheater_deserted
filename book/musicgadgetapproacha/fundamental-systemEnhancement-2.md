@@ -4,6 +4,7 @@
 
 0.解锁BL
 http://www.romzhijia.net/shuaji/12785
+http://root.mgyun.com/course/courselink/2
 
 1.三清
 1.1.进入Recovery模式
