@@ -1,5 +1,5 @@
 
-Fat32 (单文件上限4G)(手机可支持)
+Fat32 (单文件上限4G)(手机可支持) https://blog.gtwang.org/mobile/fat32-format-for-mobile/
 ExFat (SD卡买来时是)
 
 新买的
