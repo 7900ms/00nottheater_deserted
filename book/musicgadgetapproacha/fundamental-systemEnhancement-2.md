@@ -2,6 +2,9 @@
 刷机
 ```
 
+0.解锁BL
+http://www.romzhijia.net/shuaji/12785
+
 1.三清
 1.1.进入Recovery模式
 小米3(Android 5.1.1, MIUI 7.1) 进入Recovery模式：
