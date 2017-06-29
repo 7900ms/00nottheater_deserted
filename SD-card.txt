@@ -1,0 +1,22 @@
+
+新买的
+- SD卡：ExFat
+- U盘：
+
+mac能做成的格式：
+- Mac OS X Extended (Journaled)
+- Mac OS X Extended (Journaled, Case-sensitive)
+- Fat
+- ExFat
+
+mac硬盘
+- Mac OS X Extended (Journaled)
+
+mac扩展卡
+- ExFat
+
+手机
+
+相机格式化之后的
+
+
