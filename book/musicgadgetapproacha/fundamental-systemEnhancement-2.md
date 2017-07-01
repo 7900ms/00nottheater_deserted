@@ -8,6 +8,7 @@ http://jingyan.baidu.com/article/08b6a591a0708c14a80922ff.html
 
 对于 不解锁刷机
 http://www.muzisoft.com/shuaji/235917.html
+http://embed.bbs.miui.com/shuaji-329.html # 自动三清
 -
 
 1.三清
