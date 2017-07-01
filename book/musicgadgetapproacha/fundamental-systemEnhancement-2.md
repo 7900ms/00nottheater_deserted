@@ -1,10 +1,13 @@
 
 刷机
 ```
-
 0.解锁BL
 http://www.romzhijia.net/shuaji/12785
 http://root.mgyun.com/course/courselink/2
+ 
+对于 不解锁刷机
+http://www.muzisoft.com/shuaji/235917.html
+-
 
 1.三清
 1.1.进入Recovery模式
@@ -15,12 +18,6 @@ http://root.mgyun.com/course/courselink/2
 清除内置存储所有数据、清除所有用户数据
 选择简体中文>清除数据>清除缓存+清除用户数据
 
-2.
-
-
-
-
--
 ```
 ```
 电脑刷机
