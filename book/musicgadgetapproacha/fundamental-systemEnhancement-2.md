@@ -4,7 +4,8 @@
 0.解锁BL
 http://www.romzhijia.net/shuaji/12785
 http://root.mgyun.com/course/courselink/2
- 
+http://jingyan.baidu.com/article/08b6a591a0708c14a80922ff.html
+
 对于 不解锁刷机
 http://www.muzisoft.com/shuaji/235917.html
 -
