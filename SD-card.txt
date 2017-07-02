@@ -19,7 +19,7 @@ mac扩展卡
 - ExFat
 
 手机(小米手机3)
-- FAT32 (用用guiformat 工具格式为FAT32)
+- FAT32 (即VFAT, 用guiformat 工具格式为FAT32)
 
 NIKON D5100 相机格式化之后的
 - ExFat
