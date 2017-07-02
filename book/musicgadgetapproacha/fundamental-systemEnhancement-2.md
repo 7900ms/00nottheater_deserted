@@ -38,7 +38,7 @@ http://www.miui.com/thread-2218804-1-1.html
 恢复出厂设置：
 （设置 - 其他高级设置 - 备份和重置）
 手机容量复原 OK
-KingRoot 仍在 等于已 root OK
+KingRoot(4.8.5) 仍在 等于已 root OK
 手机预装软件 都在 OK
 （不是三清）
 
