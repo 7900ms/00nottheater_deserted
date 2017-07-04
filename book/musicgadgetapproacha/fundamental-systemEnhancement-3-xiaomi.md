@@ -1,5 +1,5 @@
 
-xiaomi
+xiaomi 全新机
 ```
 谷歌应用下载器_1.0_0.apk
 com.android.vending_6.0.5-80430500_minAPI9(nodpi)PlayStore.apk
