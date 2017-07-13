@@ -1,7 +1,22 @@
 
 BL刷机系统：
 
+
+
 关键词：高通模式9008刷机
+
+关键材料：
+无锁的线刷包
+
+参考
+http://bbs.xiaomi.cn/t-12700804
+
+WARNING---
+- 不带BL锁的ROM
+-> www.miui.com/thread-7253103-1-1.html
+->> http://www.miui.com/thread-6289533-1-1.html
+->>> http://www.miui.com/thread-3845129-1-1.html # 没提到解锁
+->>>> http://bbs.xiaomi.cn/t-12700804#解BL锁
 
 = = =
 
