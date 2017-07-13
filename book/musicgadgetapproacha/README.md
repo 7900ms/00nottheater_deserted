@@ -23,6 +23,7 @@
 - - 计划：1.解锁BL 2.刷入第三方Rec 3.刷入 国际版波兰版开发版 4.防止升级 [-](http://tieba.baidu.com/p/3786609525) [-](http://www.miui.com/thread-6378531-2-1.html#防升级) [-](http://ju.outofmemory.cn/entry/274743#防升级用改build.prod) [参考](https://yeziting.com/441.html#G-波兰版miui)
 
 
+
 ref
 - 卡刷参考 [-](http://www.miui.com/thread-8222552-1-1.html) [-](http://www.miui.com/shuaji-329.html) [-](http://www.miui.com/thread-6187019-1-1.html#卡刷开发版-解锁BL-获得root)
 
