@@ -18,6 +18,8 @@
 - - 路径三：防升级 <- 三方root <- 刷(国际版)开发版 <- 目前是稳定版,卡刷 || 全程不解锁 [-](http://www.miui.com/thread-6187019-1-1.html#开发版若不解锁BL则无'开发版自带的ROOT') [--](http://www.miui.com/thread-3926281-1-1.html#不解锁对卡刷的影响----) [--](http://www.miui.com/shuaji-329.html#不解锁对卡刷的影响--基本等于不能卡刷or只能卡刷最新版--甚至不能刷国际版咯)
 - - 路径四：防升级 <- 三方root <- 刷(国际版)稳定版 <- 目前是稳定版,卡刷 || 全程不解锁 [-](https://www.zhihu.com/question/22656694#稳定版root)
 - - 路径五：防升级 <- 官方自带root <- 刷最新开发版 <- 带BL锁的机子也可以刷机,不解锁的机子只能卡刷最新稳定版/开发版 [-](http://www.miui.com/shuaji-329.html)
+- - 目的：1.防升级,防止未来的升级 2.用老系统,用过去的系统。需要：1.自由刷入任何rom(比如国际版开发版ROM)。需要：1.解锁BL(否则只能刷入当前最近一个稳定版/开发版) 2.刷入官方Rec
+
 
 ref
 - 卡刷参考 [-](http://www.miui.com/thread-8222552-1-1.html) [-](http://www.miui.com/shuaji-329.html) [-](http://www.miui.com/thread-6187019-1-1.html#卡刷开发版-解锁BL-获得root)
