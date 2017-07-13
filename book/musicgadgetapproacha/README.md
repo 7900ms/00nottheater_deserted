@@ -33,7 +33,7 @@ ref
 
 
 info
-- [ROMS](http://www.miui.com/download-312.html#红米手机3) [ROMS](http://en.miui.com/download-298.html#Redmi3)
+- [ROMS](http://www.miui.com/download-312.html#红米手机3) [ROMS](http://en.miui.com/download-298.html#Redmi3) [ROMS](http://www.miui.com/thread-6289533-1-1.html#红米旧ROM)
 - 版本记号：7.3.3.0 稳定版, 8.1.1.0 稳定版, 7.6.8 波兰版, 其他国际版[-](http://ju.outofmemory.cn/entry/274743)
 
 -
