@@ -11,6 +11,6 @@
 
 info
 - [ROMS](http://www.miui.com/download-312.html#红米手机3)
--
+- 版本记号：7.3.3.0 稳定版, 8.1.1.0 稳定版
 
 -
