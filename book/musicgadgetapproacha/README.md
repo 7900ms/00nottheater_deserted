@@ -21,6 +21,7 @@
 - - 目的：1.防升级,防止未来的升级 2.用老系统,用过去的系统。需要：1.自由刷入任何rom(比如国际版开发版ROM)。需要：1.解锁BL(否则只能刷入当前最近一个稳定版/开发版) 2.刷入官方Rec
 - - 不解锁会造成： 1.只能刷入当前最近一个稳定版/开发版，但你可以设置防止未来升级 2.无法自由刷入任何rom(比如国际版开发版ROM, 波兰版 miui)
 - - 计划：1.解锁BL 2.刷入第三方Rec 3.刷入 国际版波兰版开发版 4.防止升级 [-](http://tieba.baidu.com/p/3786609525) [-](http://www.miui.com/thread-6378531-2-1.html#防升级) [-](http://ju.outofmemory.cn/entry/274743#防升级用改build.prod) [参考](https://yeziting.com/441.html#G-波兰版miui)
+- - 计划2 ：1. 刷国际版 [-](http://www.miui.com/thread-2870129-1-1.html#国际版) [-](http://ju.outofmemory.cn/entry/274743)
 
 
 
