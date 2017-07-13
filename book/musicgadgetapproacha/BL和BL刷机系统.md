@@ -21,7 +21,7 @@ bcdedit /set testsigning on
 软件准备
 - x小米助手(官方版,启动一次顺利安装本手机的驱动)
 - 高通9008驱动
-- MiFlash
+- MiFlash (ADB工具)
 参考
 http://bbs.xiaomi.cn/t-12700804
 http://www.miui.com/thread-3845129-1-1.html
