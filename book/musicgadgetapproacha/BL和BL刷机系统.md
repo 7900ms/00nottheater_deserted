@@ -114,7 +114,7 @@ info:
 
 暴力解锁原理：刷老系统，然后 没锁，然后自由，然后刷新系统 [-](http://tieba.baidu.com/p/4423852926#G-解锁-秒解-小米)
 
-解锁之后：刷入Rec, 刷入SuperSU, 刷入新ROM [-](http://www.miui.com/thread-3926387-1-1.html)
+解锁之后：刷入Rec, 刷入SuperSU(放弃解锁后自带的root), 刷入新ROM [-](http://www.miui.com/thread-3926387-1-1.html)
 
 
 
