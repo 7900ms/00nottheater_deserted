@@ -16,6 +16,7 @@
 - - 路径一：天生带BL锁+现ROM是稳定版+新ROM是开发版+关闭自动升级+卡刷 || 国际版去广告+开发版防升级 [-](https://www.zhihu.com/question/22282114) [-](http://www.miui.com/thread-2870129-1-1.html#国际版) [-](http://www.miui.com/thread-6378531-2-1.html#防升级)
 - - 路径二：防升级 <- 官方自带root <- 刷(国际版)开发版 <- 在稳定版解锁BL [-](http://www.miui.com/thread-6187019-1-1.html)
 - - 路径三：防升级 <- 三方root <- 刷(国际版)开发版 <- 目前是稳定版,卡刷 || 全程不解锁 [-](http://www.miui.com/thread-6187019-1-1.html#开发版若不解锁BL则无'开发版自带的ROOT')
+- - 路径四：防升级 <- 三方root <- 刷(国际版)稳定版 <- 目前是稳定版,卡刷 || 全程不解锁 [-](https://www.zhihu.com/question/22656694#稳定版root)
 
 ref
 - 卡刷参考 [-](http://www.miui.com/thread-8222552-1-1.html) [-](http://www.miui.com/shuaji-329.html) [-](http://www.miui.com/thread-6187019-1-1.html#卡刷开发版-解锁BL-获得root)
