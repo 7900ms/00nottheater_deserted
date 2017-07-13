@@ -33,6 +33,7 @@ http://www.miui.com/thread-6289533-1-1.html
 
 4.
 刷入旧版ROM
+(解锁原理：直接刷入旧ROM,它内置Rec)
 
 参考
 http://tieba.baidu.com/p/4423852926
