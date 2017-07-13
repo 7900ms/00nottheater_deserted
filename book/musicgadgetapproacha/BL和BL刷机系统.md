@@ -7,6 +7,7 @@ BL刷机系统：
 0.
 miui开发版6.1.7以上和稳定版7.1以上的版本中加入了BL锁
 旧ROM自带旧Rec https://read01.com/2K7Q3L.html
+(红米手机3 MIUI6)
 
 1.
 电脑准备
