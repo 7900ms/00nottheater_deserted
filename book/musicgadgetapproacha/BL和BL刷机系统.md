@@ -57,7 +57,7 @@ not work
 
 4.3【成功】
 http://bbs.xiaomi.cn/t-12700804#解BL锁-高通模式9008刷机
-adb devices
+adb devices (允许开发者选项-USB调试模式)
 adb reboot edl
 
 
