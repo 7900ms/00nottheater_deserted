@@ -1,6 +1,10 @@
 
 刷Rec，刷SuperSURoot，卡刷ROM(国际版波兰版)
 
+注意：
+- 每次刷新ROM 【得到新ROM机】 都会把SuperSURoot覆盖掉
+- 每次在本ROM之内三清【得到全心机】，不会把SuperSURoot抹掉
+
 ```
 实验记录
 
