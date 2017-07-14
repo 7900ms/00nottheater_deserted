@@ -46,18 +46,17 @@ Recovery设置
 https://yeziting.com/441.html#G-波兰版miui
 http://www.miui.com/thread-2870129-1-1.html
 http://www.miui.com/thread-3926387-1-1.html
+
 参考
 找rom
 http://en.miui.com/download-298.html#Redmi3
-
-开发版
++开发版
 7.6.8 dev
 7.4.27 dev
 MIUI8
 MIUI7
 6.5.26 dev(?)
-
-稳定版
++稳定版
 8.1.3.0 stable
 8.0.2.0 stable
 MIUI8
