@@ -1,5 +1,5 @@
 
-刷Rec，刷SuperSURoot，卡刷ROM(国际版波兰版,MIUI7)
+刷Rec，刷SuperSURoot，卡刷ROM(国际版波兰版,MIUI7,TW自带谷歌输入法)
 
 注意：
 - 每次刷新ROM 【得到新ROM机】 都会把SuperSURoot覆盖掉
