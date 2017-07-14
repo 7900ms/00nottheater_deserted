@@ -46,6 +46,6 @@ ro.build.version.incremental=99.99.9
 
 
 [-](https://github.com/7900ms/00nottheater_deserted/blob/master/book/musicgadgetapproacha/android-mac-connection.md)
-[-](#)
+[-](http://ju.outofmemory.cn/entry/274743#防升级用改build.prod)[=](http://www.miui.com/thread-6378531-2-1.html#防升级)
 
 -
