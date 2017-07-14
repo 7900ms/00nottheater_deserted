@@ -20,6 +20,7 @@ http://bbs.ydss.cn/thread-627967-1-1.html
 
 3.
 连电脑
+用管理员身份 进入到 文件夹里，运行 一键刷入recovery(需要先解bl锁).bat
 参考
 http://android.tgbus.com/Android/yizhi/201412/511888.shtml
 
@@ -33,3 +34,5 @@ http://bbs.ydss.cn/forum-redmi3-1.html
 G 如何刷入Recovery
 
 -
+
+
