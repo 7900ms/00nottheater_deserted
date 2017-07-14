@@ -1,5 +1,8 @@
 
-刷Rec，刷SuperSURoot，卡刷ROM(国际版波兰版,MIUI7,简中香港自带谷歌输入法)
+刷Rec，刷SuperSURoot，卡刷ROM(国际版波兰版,MIUI7,简中香港自带谷歌输入法)<br>
+刷新ROM，刷SuperSURoot<br>
+刷新ROM，刷SuperSURoot<br>
+定期三清手机
 
 注意：
 - 每次刷新ROM 【得到新ROM机】 都会把SuperSURoot覆盖掉
