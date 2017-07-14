@@ -1,6 +1,9 @@
 
 adb 线刷和刷recovery的办法
 
+设置：
+- 开发者选项-USB调试 打开
+
 ```
 fastboot flash recovery.img
 回车
