@@ -3,8 +3,10 @@ BL刷机系统：
 
 BootLoader是在操作系统内核运行之前运行的一段小程序。其实Bootloader就相当于手机的bios，通过这段小程序，进行硬件初始化，获取内存大小信息等，调整手机到适配状态。所以Bootloader是很重要的，如果bootloader不能正常加载，手机就是砖头一个，无法正常启动和使用。然后以用户的按键组合进入到某种启动模式，如所熟知的电源键和音量键的组合，可以进入到Recovery、Fastboot 或者正常开机。
 
-值得注意的是，Bootloader被锁的手机必须要破解才能刷第三方rom。如果不破解bootloader，就无法初始化手机硬件，手机也就无法使用。
+值得注意的是，Bootloader被锁的手机必须要破解(解锁BL)才能刷第三方rom。如果不破解bootloader，就无法初始化手机硬件，手机也就无法使用。
 而在我们接触刷机时，Bootloader、Fastboot已经混合为一个概念;我们只需了解的是，对部分机型，有Bootloader解锁以及对应驱动。
+
+不解锁BL，只能刷最新版的MIUI的稳定版/开发版，且无法刷入Rec和SuperSU-ROOT
 
 https://www.qiuqiuweb.cn/archives/53
 
