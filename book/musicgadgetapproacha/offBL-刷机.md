@@ -11,6 +11,7 @@
 0.
 移动叔叔 找红米的rec
 http://bbs.ydss.cn/forum-redmi3-1.html
+http://bbs.ydss.cn/thread-627967-1-1.html
 
 1.
 软件准备
