@@ -29,7 +29,13 @@ Recovery设置
 进入设置 (尝试重启到正常系统 - 自动进入设置)，会有提示 ”是否覆盖掉原版Recovery(是)，是否安装SuperSU(是)“
 
 5.
+进入手机系统
 正常使用
+(SuperSU已安装)
+(刷Rec ✓ ，刷SuperSURoot ✓)
+
+6.
+国际版ROM 卡刷包
 
 
 ```
