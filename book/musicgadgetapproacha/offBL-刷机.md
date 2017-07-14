@@ -65,6 +65,7 @@ MIUI7
 7.5.2.0 stable ✓
 
 8.
+刷完新ROM 重刷SuperSUROOT
 再次
 Recovery设置
 进入设置 (尝试重启到正常系统 - 自动进入设置)，会有提示 ”是否覆盖掉原版Recovery(是)，是否安装SuperSU(是)“
