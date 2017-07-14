@@ -69,7 +69,8 @@ MIUI8
 MIUI7
 7.5.2.0 stable ✓
 
-语言 English 国家 HK
+option1 语言 English 国家 HK 无谷歌输入法
+option2 语言 简中 国家 TW 自带谷歌输入法
 
 8.
 重置
