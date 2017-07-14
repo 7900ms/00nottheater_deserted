@@ -35,7 +35,7 @@ Recovery设置
 (刷Rec ✓ ，刷SuperSURoot ✓)
 
 6.
-国际版ROM 卡刷包
+国际版ROM 卡刷包 (地区选择香港)
 https://yeziting.com/441.html#G-波兰版miui
 http://www.miui.com/thread-2870129-1-1.html
 参考
