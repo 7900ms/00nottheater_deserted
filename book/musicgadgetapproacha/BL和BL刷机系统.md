@@ -8,6 +8,8 @@ BootLoader是在操作系统内核运行之前运行的一段小程序。其实B
 
 https://www.qiuqiuweb.cn/archives/53
 
+[解锁状态查看](https://github.com/7900ms/00nottheater_deserted/blob/master/book/musicgadgetapproacha/term-BL解锁状态.md)
+
 ```
 实验记录
 
