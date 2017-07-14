@@ -43,6 +43,17 @@ http://www.miui.com/thread-3926387-1-1.html
 找rom
 http://en.miui.com/download-298.html#Redmi3
 
+开发版
+7.6.8
+7.4.27
+MIUI8
+MIUI7
+6.5.26(?)
+
+稳定版
+MIUI8
+MIUI7
+MIUI 7.5.2.0 stable
 
 
 
