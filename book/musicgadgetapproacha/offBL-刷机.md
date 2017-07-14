@@ -24,6 +24,12 @@ http://bbs.ydss.cn/thread-627967-1-1.html
 参考
 http://android.tgbus.com/Android/yizhi/201412/511888.shtml
 
+4.
+Recovery设置
+进入设置 (尝试重启到正常系统 - 自动进入设置)，会有提示 ”是否覆盖掉原版Recovery(是)，是否安装SuperSU(是)“
+
+5.
+正常使用
 
 
 ```
