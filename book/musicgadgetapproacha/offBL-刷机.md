@@ -51,9 +51,11 @@ MIUI7
 6.5.26(?)
 
 稳定版
+8.1.3.0 stable
+8.0.2.0 stable
 MIUI8
 MIUI7
-MIUI 7.5.2.0 stable
+7.5.2.0 stable
 
 
 
