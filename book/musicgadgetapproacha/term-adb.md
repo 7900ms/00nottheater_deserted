@@ -7,8 +7,8 @@ adb 线刷和刷recovery的办法
 - 手机连接电脑
 
 ```
-fastboot flash recovery.img
-回车
+fastboot flash recovery twrp.img
+fastboot reboot
 ```
 
 http://android.tgbus.com/Android/yizhi/201412/511888.shtml
