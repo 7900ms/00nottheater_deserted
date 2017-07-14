@@ -39,6 +39,9 @@ Recovery设置
 (刷Rec ✓ ，刷SuperSURoot ✓)
 
 6.
+成功进入Rec (电源键+上音量键，选择进入 Rec - 进入了第三方Recovery
+
+7.
 国际版ROM 卡刷包 (地区选择香港)
 https://yeziting.com/441.html#G-波兰版miui
 http://www.miui.com/thread-2870129-1-1.html
@@ -61,7 +64,10 @@ MIUI8
 MIUI7
 7.5.2.0 stable ✓
 
-
+8.
+再次
+Recovery设置
+进入设置 (尝试重启到正常系统 - 自动进入设置)，会有提示 ”是否覆盖掉原版Recovery(是)，是否安装SuperSU(是)“
 
 ```
 
