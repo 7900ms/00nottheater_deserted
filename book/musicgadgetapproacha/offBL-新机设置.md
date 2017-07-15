@@ -45,6 +45,8 @@ ro.build.version.incremental=99.99.9
 (修改之前复制一份备份出来)
 ```
 
+国际版ROM已知问题(地区：“设置-高级-地区” 会自动跳回到中国(而且一旦更改,时区会变)；)
+
 
 
 [-](https://github.com/7900ms/00nottheater_deserted/blob/master/book/musicgadgetapproacha/android-mac-connection.md)
