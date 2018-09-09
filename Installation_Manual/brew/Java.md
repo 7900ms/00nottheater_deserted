@@ -18,4 +18,5 @@ Java will be installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk
 > jenv add /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
 > jenv versions
 > jenv global oracle64-1.8.0.181
+> java -version
 ```
