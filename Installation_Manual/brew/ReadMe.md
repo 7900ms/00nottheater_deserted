@@ -5,6 +5,7 @@
 > brew update
 > brew list
 > brew install wget
+> HOMEBREW_NO_AUTO_UPDATE=1 brew install wget
 > brew list
 ```
 ```
