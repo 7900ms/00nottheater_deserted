@@ -9,6 +9,7 @@
 ```
 ```
 > brew tap caskroom/cask
-> brew cask search firefox
+> brew tap caskroom/versions
+> brew search firefox
 > brew cask info firefox
 ```
