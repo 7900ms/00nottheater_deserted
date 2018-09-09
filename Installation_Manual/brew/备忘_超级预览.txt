@@ -11,6 +11,9 @@ brew cask install qlcolorcode qlstephen
 brew cask install quicklook-csv quicklook-json
 brew cask install qlimagesize webpquicklook
 
+HOMEBREW_NO_AUTO_UPDATE=1 brew cask install qlcolorcode qlstephen --no-quarantine
+HOMEBREW_NO_AUTO_UPDATE=1 brew cask install quicklook-csv quicklook-json --no-quarantine
+HOMEBREW_NO_AUTO_UPDATE=1 brew cask install qlimagesize webpquicklook --no-quarantine
 
 
 ~/Library/QuickLook
