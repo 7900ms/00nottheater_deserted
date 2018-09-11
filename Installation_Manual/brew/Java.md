@@ -20,3 +20,12 @@ Java will be installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk
 > jenv global oracle64-1.8.0.181
 > java -version
 ```
+
+
+```
+javac Driver.java
+java  Driver.java
+javac -cp ".:./guava-26.0-jre.jar" Driver.java
+javac -cp ".:./lib/guava-26.0-jre.jar" Driver.java
+javac -cp ".:./lib/*" Driver.java
+```
