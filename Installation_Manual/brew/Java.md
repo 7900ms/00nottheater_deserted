@@ -25,6 +25,11 @@ Java will be installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk
 ```
 javac Driver.java
 java  Driver.java
+
+javac -cp ".:./lib/*" Driver.java    // 在 Driver.java 同一级 有一个 lib 文件夹，里面有各种 jar
+java  -cp ".:./lib/*" Driver
+
+more:
 javac -cp ".:./guava-26.0-jre.jar" Driver.java
 javac -cp ".:./lib/guava-26.0-jre.jar" Driver.java
 javac -cp ".:./lib/*" Driver.java
