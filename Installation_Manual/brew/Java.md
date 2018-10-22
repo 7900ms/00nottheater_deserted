@@ -19,6 +19,7 @@ java version "1.8.0_181"
 Java(TM) SE Runtime Environment (build 1.8.0_181-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.181-b13, mixed mode)
 ```
+Oracle JDK, not zulu [or](https://blog.knoldus.com/developers-needs-sdkman-not-super-man/) OpenJDK
 ```
 > jenv versions
 > jenv add /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
