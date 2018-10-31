@@ -3,7 +3,8 @@ mac-source
 
 mac-source 解决的问题是，仿制 linux source 的情况：When an interactive shell that is “not a login shell” is started, Bash reads and executes commands from ~/.bashrc, if that file exists, 结果就是用 linux 时每次写了 ~/.bashrc 之后，直接开一个新终端tab就能生效，它的效果 是等同于自动 `source ~/.bashrc` (所以linux的 大量东西都写在 bashrc 里且几乎从来用不到source命令 -)
 
-mac默认不会source任何东西
+mac默认不会source任何东西 [bash调用关系](https://ruby-china.org/topics/37688)
+
 ```
 改造办法：
 
